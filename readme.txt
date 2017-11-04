@@ -23,8 +23,8 @@ https://sites.google.com/site/madbrahmin/d2es
 Beware that it is neither allowed to talk about this @Phrozenkeep or @Snej. So if you run into any
 trouble setting it up PM me on either. I warned you.
 
-As the current version feature the bufficon overlay and d2dye system which both are NOT compatible with D2Loader I recommend to stop using it and load 
-load the D2HackIt.dll and nohide.dll via D2Mod or Plugy by adding D2HackIt=D2HackIt.dll and nohide=nohide.dll for NON D2SE Users.
+As the current version feature the bufficon overlay and d2dye system which both are NOT compatible with D2Loader I recommend to stop using it 
+and load the D2HackIt.dll and nohide.dll via D2Mod or Plugy by adding D2HackIt=D2HackIt.dll and nohide=nohide.dll for NON D2SE Users.
 D2SE Users can use the D2SE_Setup.ini by adding ModDll1=D2Hackit.dll and ModDll2=nohide.dll. You will need to place both dlls and 
 the d2hackit.ini in your ES Main folder. The rest can stay in the plugin folder.
 
@@ -152,6 +152,12 @@ remove all files and restore the file in the old folder, next remove the charsel
 -set items get stuck to a color after changing it 2-3 times, logout/login with the char fix this.
 -if you using D2Hackit you will get an ingame message everytime you put a dye in your inventory, you can ignore those.
 
+-For everybody crashing with the latest patch. Install visual studio and download 
+the latest mod version from git-hub: https://github.com/LoDAlphA/Eastern-Sun-Rises)
+
+There is a conflict between the D2Dyes.dll and D2AnimatedItems.dll. If you want your items 
+also be palshifted in your inventory. Disable the D2AnimatedItems.dll by removing the following line 
+from D2Mod.ini D2AnimatedItems=D2AnimatedItems.dll. 
 
 [Hidden Treasure]
 The first Hidden Treasure was discovered by Narzath. It increases the maximum Skill Level by one. Seven left for you guys to find;).
