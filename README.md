@@ -8,6 +8,8 @@ and here:
 
 http://d2mods.info/forum/viewtopic.php?f=15&t=63481
 
+Beware: You still need D2SE_ES R6E Com4.1N as a base over which you patch these files.
+
 
 Cheers
 AlphA
