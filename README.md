@@ -1,6 +1,6 @@
 # Eastern-Sun-Rises
 
-[size=150][b][CHANGELOG 4.2] [/b][/size]
+[CHANGELOG 4.2] 
 
 -disabled wisdom and identify scrolls, keys, stamina, antidote and thawing pots to drop after Normal difficulty
 -disabled all throwing pots to drop after Normal difficulty
@@ -46,7 +46,7 @@ remove all files and restore the file in the old folder, next remove the charsel
 -fixed mercenary running animation
 -added dragonflight animations
 
-[size=150][b][CHANGELOG 5.1] [/b][/size]
+[CHANGELOG 5.1]
 
 -changed modname to Eastern Sun Rises
 -replaced a few diablo 1 item gfx with updated versions from ogodei
