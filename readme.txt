@@ -1,19 +1,17 @@
 [INSTALLATION] 
 
--in case you already have a data folder from previous patches, remove it before installation
--copy the data folder, D2.Pickup.dll, CustomTbl.dll and StatFix.dll into your D2SE - MODS - ES folder
--replace the D2SE.ini 
--replace D2Mod.ini
--replace statsinterface.txt in your Plugy folder
+Step 1: Install the ES Com version which can be found on the Snejportal.
+Step 2: Remove all Tokens, Weapons with Quantity, Keys, Tome of Townportal and Tome of Identify (if you wanna keep all items with Quantity, 
+go to D2Mod.ini and change SaveBits=14 to SaveBits=9. However, you wont be able to play with people who have a different value.
+Step 3: Copy all files from this folder directly into the ES Com folder. You should overwrite some files.
+Step 4: Remove Utility.dll, D2AnimatedItems.dll and Statfix.dll (from previous patches)
+Step 5: If you can load your Character, delete the charname.d2x file
+Step 6: Replace all Damage Augmenters with new ones
 
 [Important] 
 
-SINGLEPLAYER ONLY
-FULLY COMPATIBLE WITH PREVIOUS VERSIONS
-
-REPLACE THE BARBARIAN DAMAGE AUGMENTER WITH A NEW ONE
-
-RECOVER ALL TOKEN ITEMS BEFORE PATCHING
+-SINGLEPLAYER ONLY
+-FULLY COMPATIBLE WITH PREVIOUS VERSIONS IF YOU FOLLOW STEP 2
 
 [AUTOPICK- AUTOCUBE PLUGIN]
 
@@ -146,18 +144,44 @@ remove all files and restore the file in the old folder, next remove the charsel
 
 [CHANGELOG 5.1C]
 -fixed a bug with certain affixes when using D2Hackit.dll
--fixes a bug with bufficons.dll
+-Act1 Hirelings can now use crossbows
+-added D2Killcounter.dll
+-added a new Unique charm which will display all kills correctly. Monsters with a level of 30 or lower than you wont count towards kills.
+ This also replace the kill/death display on the attack skill
+-added D2SmallUtility.dll
+-removed (as replaced by D2SmallUtility.dll) Statfix.dll, D2AnimatedItems.dll and Utility.dll
+-enabled defense while running
+-removed the expcap of two screens while in a party
+-gamble screen should be always full now
+-added the gamble.exe
+-disabled Bufficons.dll for now 
+-increased Tome of Townportal to a total of 500
+-increased Tome of Identify to a total of 500
+-increased  all Weapons with Quantity to a total of 1000
+-changed Replenish Quantity and Durability to 1 per 4 frames
+-added a new suffix for jewels which adds Splash Damage on Striking
+-tweaked the dropchance for the hellfire torch, diablo has a higher chance for dropping it, but it can be found elsewhere too (again:P)
+-tweaked some armor prefix chances/lvl req
+
+-Rerolls accept now Gem Cans. This works for every Rare/Magic Weapon/Armor part ( except the norm quality Axe for now )
+ Rare Weapon/Armor + 2 Flawless Gems ( -58 Points in selected Gem Color ) = Rerolled Rare Weapon/Armor
+ Eth Rare Weapon/Armor + 2 Perfect Gems ( -486 Points in selected Gem Color ) = Rerolled Eth Rare Weapon/Armor
+ Magic Weapon/Armor + Flawless Gems ( -29 Points in selected Gem Color ) = Rerolled Magic Weapon/Armor
+ Eth Magic Weapon/Armor + 2 Blemished Gems ( -162 Points in selected Gem Color ) = Rerolled Rare Weapon/Armor
+-Weapon/Armor/Misc ( no Runewords ) + tp + magic eraser ( page 1 ) = removes Knockback from item
+ (thanks to Sky)
+
+
+
+
 
 [Known Bugs]
--set items get stuck to a color after changing it 2-3 times, logout/login with the char fix this.
--if you using D2Hackit you will get an ingame message everytime you put a dye in your inventory, you can ignore those.
+Set items get stuck to a color after changing it 2-3 times, logout/login with the char fix this. 
+If you using D2Hackit you will get an ingame message everytime you put a dye in your inventory, you can ignore those.
+Bufficons.dll is currently not working. Dont try to activate it.
+When reparing Quantity Weapons you sometimes need to repair them multiple times until they are fully repaired
 
--For everybody crashing with the latest patch. Install visual studio and download 
-the latest mod version from git-hub: https://github.com/LoDAlphA/Eastern-Sun-Rises)
 
-There is a conflict between the D2Dyes.dll and D2AnimatedItems.dll. If you want your items 
-also be palshifted in your inventory. Disable the D2AnimatedItems.dll by removing the following line 
-from D2Mod.ini D2AnimatedItems=D2AnimatedItems.dll. 
 
 [Hidden Treasure]
 The first Hidden Treasure was discovered by Narzath. It increases the maximum Skill Level by one. Seven left for you guys to find;).
@@ -183,9 +207,12 @@ Lurix for his D2AnniversaryUIPlugin
 SpiKe for help tracking and fixing bugs
 thanosdk for his Font
 PureRage for his Improved FX Plugin, Code Edits
-MnW95 for various dlls
+MnW95 for various dlls and help tracking and fixing bugs
 Ogodei for various code edits and other stuff
 ocarinas for various animations
+Dav92 for various dlls
+Fog for help with txts
+Sky for help with txts
 
 
 
