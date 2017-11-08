@@ -18,6 +18,10 @@ and here:
 
 http://miyoshino.la.coocan.jp/eswiki/
 
+You can find all necessary files to set D2HackIt up here:
+
+https://github.com/LoDAlphA/Eastern-Sun-Rises-D2-HackIt
+
 Cheers
 AlphA
 
