@@ -489,3 +489,11 @@ corruptflag	1			1	item_corruptflag																													none	0
 dmg-cold/kill	1			17	item_cold_damagemax_perkill																													none	0
 dmg-fire/kill	1			17	item_fire_damagemax_perkill																													none	0
 dmg-ltng/kill	1			17	item_ltng_damagemax_perkill																													none	0
+kills	1			1	new_kill_counter																													none	0
+kill_disp	1			17	Kill_display																													none	0
+heal%-kill	1			1	heal_kill_per_maxhp																													none	0
+heal%-kill-str	1			1	killheal_dummy																													none	0
+str/kill	1			17	item_strength_perkill																													none	0
+dex/kill	1			17	item_dexterity_perkill																													none	0
+vit/kill	1			17	item_vitality_perkill																													none	0
+enr/kill	1			17	item_energy_perkill																													none	0

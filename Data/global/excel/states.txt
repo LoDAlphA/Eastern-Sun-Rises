@@ -253,4 +253,3 @@ stoned	250						1																																										curse_hit									85	
 damagebonus3	251																																																																						0
 sacrifice	252															1																																			normal_damage_reduction							85	100	255	255	255									0
 passiveaura	253																																																																						0
-kcounter	254																																																																						0

@@ -195,51 +195,51 @@ of Blizzard	100	1	1	24	48	20				2	49	hit-skill	ctcBlizzard	5	10											weap		
 of Blizzard	100	1	1	36		30				2	49	hit-skill	ctcBlizzard	10	15											weap							staf	wand		0	0	0
 of Blizzard	100	1	1	48		40				2	49	hit-skill	ctcBlizzard	15	20											mele							staf	wand		0	0	0
 of Blizzard	100	1	1	60		50				2	49	hit-skill	ctcBlizzard	20	40											mele							staf	wand		0	0	0
-of Damage Amplification	100	1	1	12	36	10				2	60	hit-skill	Amplify Damage	1	4											weap							staf	wand		0	0	0
-of Damage Amplification	100	1	1	24	48	20				2	60	hit-skill	Amplify Damage	4	6											weap							staf	wand		0	0	0
-of Damage Amplification	100	1	1	36		30				2	60	hit-skill	Amplify Damage	6	8											weap							staf	wand		0	0	0
-of Damage Amplification	100	1	1	48		40				2	60	hit-skill	Amplify Damage	8	10											mele							staf	wand		0	0	0
-of Damage Amplification	100	1	1	60		50				2	60	hit-skill	Amplify Damage	10	12											mele							staf	wand		0	0	0
-of Charged Shield	100	1	1	12	36	10				2	50	gethit-skill	Charged Bolt	5	5											armo	staf	wand								0	0	0
-of Charged Shield	100	1	1	24	48	20				2	50	gethit-skill	Charged Bolt	5	10											armo	staf	wand								0	0	0
-of Charged Shield	100	1	1	36		30				2	50	gethit-skill	Charged Bolt	10	15											armo	staf	wand								0	0	0
-of Charged Shield	100	1	1	48		40				2	50	gethit-skill	Charged Bolt	15	20											armo	staf	wand								0	0	0
-of Charged Shield	100	1	1	60		50				2	50	gethit-skill	Charged Bolt	20	40											armo	staf	wand								0	0	0
-of Frozen Armor	100	1	1	12	36	10				2	50	gethit-skill	Frozen Armor	5	5											armo	staf	wand								0	0	0
-of Frozen Armor	100	1	1	24	48	20				2	50	gethit-skill	Frozen Armor	5	10											armo	staf	wand								0	0	0
-of Frozen Armor	100	1	1	36		30				2	50	gethit-skill	Frozen Armor	10	15											armo	staf	wand								0	0	0
-of Frozen Armor	100	1	1	48		40				2	50	gethit-skill	Frozen Armor	15	20											armo	staf	wand								0	0	0
-of Frozen Armor	100	1	1	60		50				2	50	gethit-skill	Frozen Armor	20	40											armo	staf	wand								0	0	0
-of Static Field	100	1	1	12	36	10				2	50	gethit-skill	Static Field	5	5											armo	staf	wand								0	0	0
-of Static Field	100	1	1	24	48	20				2	50	gethit-skill	Static Field	5	10											armo	staf	wand								0	0	0
-of Static Field	100	1	1	36		30				2	50	gethit-skill	Static Field	10	15											armo	staf	wand								0	0	0
-of Static Field	100	1	1	48		40				2	50	gethit-skill	Static Field	15	20											armo	staf	wand								0	0	0
-of Static Field	100	1	1	60		50				2	50	gethit-skill	Static Field	20	40											armo	staf	wand								0	0	0
-of Frost Shield	100	1	1	12	36	10				2	50	gethit-skill	Frost Nova	5	5											armo	staf	wand								0	0	0
-of Frost Shield	100	1	1	24	48	20				2	50	gethit-skill	Frost Nova	5	10											armo	staf	wand								0	0	0
-of Frost Shield	100	1	1	36		30				2	50	gethit-skill	Frost Nova	10	15											armo	staf	wand								0	0	0
-of Frost Shield	100	1	1	48		40				2	50	gethit-skill	Frost Nova	15	20											armo	staf	wand								0	0	0
-of Frost Shield	100	1	1	60		50				2	50	gethit-skill	Frost Nova	20	40											armo	staf	wand								0	0	0
-of Fire Shield	100	1	1	12	36	10				2	50	gethit-skill	Nova	5	5											armo	staf	wand								0	0	0
-of Fire Shield	100	1	1	24	48	20				2	50	gethit-skill	Nova	5	10											armo	staf	wand								0	0	0
-of Fire Shield	100	1	1	36		30				2	50	gethit-skill	Nova	10	15											armo	staf	wand								0	0	0
-of Fire Shield	100	1	1	48		40				2	50	gethit-skill	Nova	15	20											armo	staf	wand								0	0	0
-of Fire Shield	100	1	1	60		50				2	50	gethit-skill	Nova	20	40											armo	staf	wand								0	0	0
-of Meteor Shower	100	1	1	12	36	10				2	50	gethit-skill	Shiver Armor	5	5											armo	staf	wand								0	0	0
-of Meteor Shower	100	1	1	24	48	20				2	50	gethit-skill	Shiver Armor	5	10											armo	staf	wand								0	0	0
-of Meteor Shower	100	1	1	36		30				2	50	gethit-skill	Shiver Armor	10	15											armo	staf	wand								0	0	0
-of Meteor Shower	100	1	1	48		40				2	50	gethit-skill	Shiver Armor	15	20											armo	staf	wand								0	0	0
-of Meteor Shower	100	1	1	60		50				2	50	gethit-skill	Shiver Armor	20	40											armo	staf	wand								0	0	0
-of Shiver Armor	100	1	1	12	36	10				2	50	gethit-skill	Chilling Armor	5	5											armo	staf	wand								0	0	0
-of Shiver Armor	100	1	1	24	48	20				2	50	gethit-skill	Chilling Armor	5	10											armo	staf	wand								0	0	0
-of Shiver Armor	100	1	1	36		30				2	50	gethit-skill	Chilling Armor	10	15											armo	staf	wand								0	0	0
-of Shiver Armor	100	1	1	48		40				2	50	gethit-skill	Chilling Armor	15	20											armo	staf	wand								0	0	0
-of Shiver Armor	100	1	1	60		50				2	50	gethit-skill	Chilling Armor	20	40											armo	staf	wand								0	0	0
-of Hydra Shield	100	1	1	12	36	10				2	50	gethit-skill	ctcHydra	5	5											armo	staf	wand								0	0	0
-of Hydra Shield	100	1	1	24	48	20				2	50	gethit-skill	ctcHydra	5	10											armo	staf	wand								0	0	0
-of Hydra Shield	100	1	1	36		30				2	50	gethit-skill	ctcHydra	10	15											armo	staf	wand								0	0	0
-of Hydra Shield	100	1	1	48		40				2	50	gethit-skill	ctcHydra	15	20											armo	staf	wand								0	0	0
-of Hydra Shield	100	1	1	60		50				2	50	gethit-skill	ctcHydra	20	40											armo	staf	wand								0	0	0
+of Damage Amplification	100	1	1	12	36	10				2	60	hit-skill	Amplify Damage	5	4											weap	amul	ring					staf	wand		0	0	0
+of Damage Amplification	100	1	1	24	48	20				2	60	hit-skill	Amplify Damage	6	5											weap	amul	ring					staf	wand		0	0	0
+of Damage Amplification	100	1	1	36		30				2	60	hit-skill	Amplify Damage	7	6											weap							staf	wand		0	0	0
+of Damage Amplification	100	1	1	48		40				2	60	hit-skill	Amplify Damage	8	7											mele							staf	wand		0	0	0
+of Damage Amplification	100	1	1	60		50				2	60	hit-skill	Amplify Damage	9	8											mele							staf	wand		0	0	0
+of Charged Shield	100	1	1	12	36	10				2	50	gethit-skill	Charged Bolt	6	8											armo	staf	wand								0	0	0
+of Charged Shield	100	1	1	24	48	20				2	50	gethit-skill	Charged Bolt	7	15											armo	staf	wand								0	0	0
+of Charged Shield	100	1	1	36		30				2	50	gethit-skill	Charged Bolt	9	20											armo	staf	wand								0	0	0
+of Charged Shield	100	1	1	48		40				2	50	gethit-skill	Charged Bolt	10	25											armo	staf	wand								0	0	0
+of Charged Shield	100	1	1	60		50				2	50	gethit-skill	Charged Bolt	12	30											armo	staf	wand								0	0	0
+of Frozen Armor	100	1	1	12	36	10				2	50	gethit-skill	Frozen Armor	6	5											armo	staf	wand								0	0	0
+of Frozen Armor	100	1	1	24	48	20				2	50	gethit-skill	Frozen Armor	7	10											armo	staf	wand								0	0	0
+of Frozen Armor	100	1	1	36		30				2	50	gethit-skill	Frozen Armor	9	15											armo	staf	wand								0	0	0
+of Frozen Armor	100	1	1	48		40				2	50	gethit-skill	Frozen Armor	10	20											armo	staf	wand								0	0	0
+of Frozen Armor	100	1	1	60		50				2	50	gethit-skill	Frozen Armor	12	25											armo	staf	wand								0	0	0
+of Static Field	100	1	1	12	36	10				2	50	gethit-skill	Static Field	6	5											armo	staf	wand								0	0	0
+of Static Field	100	1	1	24	48	20				2	50	gethit-skill	Static Field	7	10											armo	staf	wand								0	0	0
+of Static Field	100	1	1	36		30				2	50	gethit-skill	Static Field	9	15											armo	staf	wand								0	0	0
+of Static Field	100	1	1	48		40				2	50	gethit-skill	Static Field	10	20											armo	staf	wand								0	0	0
+of Static Field	100	1	1	60		50				2	50	gethit-skill	Static Field	12	25											armo	staf	wand								0	0	0
+of Frost Shield	100	1	1	12	36	10				2	50	gethit-skill	Frost Nova	6	5											armo	staf	wand								0	0	0
+of Frost Shield	100	1	1	24	48	20				2	50	gethit-skill	Frost Nova	7	10											armo	staf	wand								0	0	0
+of Frost Shield	100	1	1	36		30				2	50	gethit-skill	Frost Nova	9	15											armo	staf	wand								0	0	0
+of Frost Shield	100	1	1	48		40				2	50	gethit-skill	Frost Nova	10	20											armo	staf	wand								0	0	0
+of Frost Shield	100	1	1	60		50				2	50	gethit-skill	Frost Nova	12	25											armo	staf	wand								0	0	0
+of Fire Shield	100	1	1	12	36	10				2	50	gethit-skill	Nova	6	5											armo	staf	wand								0	0	0
+of Fire Shield	100	1	1	24	48	20				2	50	gethit-skill	Nova	7	10											armo	staf	wand								0	0	0
+of Fire Shield	100	1	1	36		30				2	50	gethit-skill	Nova	9	15											armo	staf	wand								0	0	0
+of Fire Shield	100	1	1	48		40				2	50	gethit-skill	Nova	10	20											armo	staf	wand								0	0	0
+of Fire Shield	100	1	1	60		50				2	50	gethit-skill	Nova	12	25											armo	staf	wand								0	0	0
+of Meteor Shower	100	1	1	12	36	10				2	50	gethit-skill	Shiver Armor	6	5											armo	staf	wand								0	0	0
+of Meteor Shower	100	1	1	24	48	20				2	50	gethit-skill	Shiver Armor	7	10											armo	staf	wand								0	0	0
+of Meteor Shower	100	1	1	36		30				2	50	gethit-skill	Shiver Armor	9	15											armo	staf	wand								0	0	0
+of Meteor Shower	100	1	1	48		40				2	50	gethit-skill	Shiver Armor	10	20											armo	staf	wand								0	0	0
+of Meteor Shower	100	1	1	60		50				2	50	gethit-skill	Shiver Armor	12	25											armo	staf	wand								0	0	0
+of Shiver Armor	100	1	1	12	36	10				2	50	gethit-skill	Chilling Armor	6	5											armo	staf	wand								0	0	0
+of Shiver Armor	100	1	1	24	48	20				2	50	gethit-skill	Chilling Armor	7	10											armo	staf	wand								0	0	0
+of Shiver Armor	100	1	1	36		30				2	50	gethit-skill	Chilling Armor	9	15											armo	staf	wand								0	0	0
+of Shiver Armor	100	1	1	48		40				2	50	gethit-skill	Chilling Armor	10	20											armo	staf	wand								0	0	0
+of Shiver Armor	100	1	1	60		50				2	50	gethit-skill	Chilling Armor	12	25											armo	staf	wand								0	0	0
+of Hydra Shield	100	1	1	12	36	10				2	50	gethit-skill	ctcHydra	6	5											armo	staf	wand								0	0	0
+of Hydra Shield	100	1	1	24	48	20				2	50	gethit-skill	ctcHydra	7	10											armo	staf	wand								0	0	0
+of Hydra Shield	100	1	1	36		30				2	50	gethit-skill	ctcHydra	9	15											armo	staf	wand								0	0	0
+of Hydra Shield	100	1	1	48		40				2	50	gethit-skill	ctcHydra	10	20											armo	staf	wand								0	0	0
+of Hydra Shield	100	1	1	60		50				2	50	gethit-skill	ctcHydra	12	25											armo	staf	wand								0	0	0
 of Enchantment	100	1	1	24	48	24		sor	6	2	51	charged	Enchant	30	10											amul	ring	circ	staf				sorc			0	0	0
 of Enchantment	100	1	1	48		48		sor	6	2	51	charged	Enchant	45	15											amul	ring	circ	staf				sorc			0	0	0
 of Teleportation	100	1	1	24	48	24		sor	1	8	51	charged	Teleport	40	6											amul	ring	circ	staf				sorc			0	0	0
@@ -672,6 +672,9 @@ of Emphasis	100	1	1	64		42				5	37	extra-pois		2	4											jewl										0	0	0
 of Emphasis	100	1	1	64		42				5	37	extra-mag2		1	3											jewl										0	0	0
 of Emphasis	100	1	1	64		42				5	37	extra-wind		1	3											jewl										0	0	0
 of Command	100	1	1	64		42				5	37	extra-summ		4	8											jewl										0	0	0
+																																						0
+																																						0
+AlphA																																						0
 of Decrepification	100	1	1	12	36	10				2	60	hit-skill	Decrepify	1	4											weap							staf	wand		0	0	0
 of Decrepification	100	1	1	24	48	20				2	60	hit-skill	Decrepify	4	6											weap							staf	wand		0	0	0
 of Decrepification	100	1	1	36		30				2	60	hit-skill	Decrepify	6	8											weap							staf	wand		0	0	0
@@ -687,3 +690,7 @@ of Flesh and Bone	100	1	1	24	48	20				1	60	hit-skill	Poison Mastery	1	2									
 of Flesh and Bone	100	1	1	36		30				1	60	hit-skill	Poison Mastery	2	3											weap							staf	wand		0	0	0
 of Flesh and Bone	100	1	1	48		40				1	60	hit-skill	Poison Mastery	2	4											mele							staf	wand		0	0	0
 of Flesh and Bone	100	1	1	60		50				1	60	hit-skill	Poison Mastery	3	5											mele							staf	wand		0	0	0
+of Splash	100	1	1	5	50	10				10	61	att-skill	468	25	1											jewl										0	0	0
+of Splash	100	1	1	20	75	30				7	61	att-skill	468	50	1											jewl										0	0	0
+of Splash	100	1	1	40		30				7	61	att-skill	468	75	1											jewl										0	0	0
+of Splash	100	1	1	80		50				5	61	att-skill	468	100	1											jewl										0	0	0

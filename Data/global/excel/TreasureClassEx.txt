@@ -32,8 +32,9 @@ Rings			1						rin	2	Class Rings	1																				0
 Class Amulets			1						sam	1	bam	1	nam	1	pam	1	dam	1	zam	1	aam	1										0
 Amulets			1						amu	2	Class Amulets	1																				0
 Unique Charm 1			1	1024					The Perfect Cell	6	Yello Jello	6	Lothar's Will	6	Deviant Cell	4																0
-Unique Charm 2			1	1024					The Perfect Cell	6	Yello Jello	6	Lothar's Will	6	Deviant Cell	4	Vlad Tepe's Sustenance	1	Something Wicked	1	The Unknown Hero	1	Hidden Treasure	2								0
+Unique Charm 2			1	1024					The Perfect Cell	4	Yello Jello	4	Lothar's Will	4	Deviant Cell	4	Vlad Tepe's Sustenance	1	Something Wicked	1	The Unknown Hero	1	Hidden Treasure	2	Killcounter	1						0
 Hidden Treasure			1	1024					Hidden Treasure 2	1	Hidden Treasure 3	1	Hidden Treasure 4	1	Hidden Treasure 5	1	Hidden Treasure 6	1	Hidden Treasure 7	1	Hidden Treasure 8	1	Narzath	1								0
+Killcounter			1	1024					Killcounter of Strength	1	Killcounter of Dexterity	1	Killcounter of Vitality	1	Killcounter of Energy	1																0
 DDD6			-6						ddd	1	ddd	1	ddd	1	ddd	1	ddd	1	ddd	1												
 DDD5			-5						ddd	1	ddd	1	ddd	1	ddd	1	ddd	1														
 DDD4			-4						ddd	1	ddd	1	ddd	1	ddd	1																
@@ -710,13 +711,13 @@ Mephisto (N)			6						Act 3 (N) Boss	720	Uni Ore 3	1																				0
 Mephisto (H)			6						Act 3 (H) Boss	360	Uni Ore 3	1																				0
 Mephistoq			6	982	982	982	1024	45	"gld,mul=3072"	15	Act 4 Equip B	180	Act 4 Junk	12	Act 4 UGood	30	Sets03	2	Uni Ore 3	1												0
 Mephistoq (N)			6	982	982	982	1024	45	"gld,mul=3072"	15	Act 4 (N) Equip B	180	Act 4 (N) Junk	12	Act 4 (N) UGood	30	Sets05	2	Uni Ore 3	2												0
-Mephistoq (H)			6	982	982	982	1024	45	"gld,mul=3072"	15	Act 4 (H) Equip B	180	Act 4 (H) Junk	12	Act 4 (H) UGood	30	Sets07	2	Uni Ore 3	3	Hellfire Torch	1										0
+Mephistoq (H)			6	982	982	982	1024	45	"gld,mul=3072"	15	Act 4 (H) Equip B	180	Act 4 (H) Junk	12	Act 4 (H) UGood	30	Sets07	2	Uni Ore 3	3												0
 Diablo			6						Act 4  Boss	1080	Uni Ore 2	1																				0
 Diablo (N)			6						Act 4 (N) Boss	720	Uni Ore 2	1																				0
-Diablo (H)			6						Act 4 (H) Boss	360	Uni Ore 2	1																				0
+Diablo (H)			6						Act 4 (H) Boss	360	Uni Ore 2	5	Hellfire Torch	1																		0
 Diabloq			6	982	982	982	1024	45	"gld,mul=3072"	15	Act 5 Equip A	180	Act 5 Junk	12	Act 5 UGood	30	Sets03	2	Uni Ore 4	1												0
 Diabloq (N)			6	982	982	982	1024	45	"gld,mul=3072"	15	Act 5 (N) Equip A	180	Act 5 (N) Junk	12	Act 5 (N) UGood	30	Sets05	2	Uni Ore 4	2												0
-Diabloq (H)			6	982	982	982	1024	45	"gld,mul=3072"	15	Act 5 (H) Equip A	180	Act 5 (H) Junk	12	Act 5 (H) UGood	30	Sets08	2	Uni Ore 4	3	Hellfire Torch	1										0
+Diabloq (H)			6	982	982	982	1024	45	"gld,mul=3072"	15	Act 5 (H) Equip A	180	Act 5 (H) Junk	12	Act 5 (H) UGood	30	Sets08	2	Uni Ore 4	3	Hellfire Torch	3										0
 Baal			6						Act 5  Boss	1080	Uni Ore 1	1																				0
 Baal (N)			6						Act 5 (N) Boss	720	Uni Ore 1	1																				0
 Baal (H)			6						Act 5 (H) Boss	360	Uni Ore 1	1																				0
