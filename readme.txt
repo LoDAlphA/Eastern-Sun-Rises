@@ -154,6 +154,7 @@ remove all files and restore the file in the old folder, next remove the charsel
 -removed the expcap of two screens while in a party
 -gamble screen should be always full now
 -added the gamble.exe
+-disabled Bufficons.dll for now 
 -increased Tome of Townportal to a total of 500
 -increased Tome of Identify to a total of 500
 -increased  all Weapons with Quantity to a total of 1000
@@ -161,7 +162,6 @@ remove all files and restore the file in the old folder, next remove the charsel
 -added a new suffix for jewels which adds Splash Damage on Striking
 -tweaked the dropchance for the hellfire torch, diablo has a higher chance for dropping it, but it can be found elsewhere too (again:P)
 -tweaked some armor prefix chances/lvl req
--fixed D2Bufficons.dll 
 
 -Rerolls accept now Gem Cans. This works for every Rare/Magic Weapon/Armor part ( except the norm quality Axe for now )
  Rare Weapon/Armor + 2 Flawless Gems ( -58 Points in selected Gem Color ) = Rerolled Rare Weapon/Armor
@@ -171,6 +171,12 @@ remove all files and restore the file in the old folder, next remove the charsel
 -Weapon/Armor/Misc ( no Runewords ) + tp + magic eraser ( page 1 ) = removes Knockback from item
  (thanks to Sky)
 
+[CHANGELOG 5.1D]
+-fixed a bug with selfrepair spawning on throwing weapons
+-finally was able to get bufficons.dll working 
+
+
+
 
 
 
@@ -178,7 +184,7 @@ remove all files and restore the file in the old folder, next remove the charsel
 [Known Bugs]
 Set items get stuck to a color after changing it 2-3 times, logout/login with the char fix this. 
 If you using D2Hackit you will get an ingame message everytime you put a dye in your inventory, you can ignore those.
-When reparing Quantity Weapons you sometimes need to repair them multiple times until they are fully repaired.
+When reparing Quantity Weapons you sometimes need to repair them multiple times until they are fully repaired
 
 
 
