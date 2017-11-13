@@ -178,7 +178,7 @@ remove all files and restore the file in the old folder, next remove the charsel
 -fixed a bug with selfrepair spawning on throwing weapons
 -finally was able to get bufficons.dll working 
 
-- Remove Limit Sprite
+- Remove Sprite Limit
 - TCP/IP Delay fix - Hyperjoin Multiplayers
 - More informations on the /FPS chat command
 - COF Cache Memory -> Increased from 2 Mb to 20 Mb.
