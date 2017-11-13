@@ -1,6 +1,6 @@
-# Eastern-Sun-Rises 5.1C
+# Eastern-Sun-Rises 5.1D
 
-Updated on 11.11.2017
+Updated on 13.11.2017
 
 This Mod began as a Community Patch for Eastern Sun. As I changed more and more, we slowly drifted away from our orgin and as such Eastern Sun Rises was born. You can find all informations the Mod about here:
 
