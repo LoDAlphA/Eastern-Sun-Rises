@@ -1,8 +1,10 @@
 [INSTALLATION] 
 
 Step 1: Install the ES Com version which can be found on the Snejportal.
-Step 2: Remove all Tokens, Weapons with Quantity, Keys, Tome of Townportal and Tome of Identify (if you wanna keep all items with Quantity, 
-go to D2Mod.ini and change SaveBits=14 to SaveBits=9. However, you wont be able to play with people who have a different value.
+Step 2: Remove all Tokens, Weapons with Quantity, Keys, Tome of Townportal,Tome of Identify
+ and Items with Selfrepair Itemstat (if you wanna keep all items with Quantity, 
+ go to D2Mod.ini and change SaveBits=14 to SaveBits=9. However, 
+ you wont be able to play with people who have a different value.
 Step 3: Copy all files from this folder directly into the ES Com folder. You should overwrite some files.
 Step 4: Remove Utility.dll, D2AnimatedItems.dll and Statfix.dll (from previous patches)
 Step 5: If you can load your Character, delete the charname.d2x file
@@ -21,10 +23,11 @@ https://sites.google.com/site/madbrahmin/d2es
 Beware that it is neither allowed to talk about this @Phrozenkeep or @Snej. So if you run into any
 trouble setting it up PM me on either. I warned you.
 
-As the current version feature the bufficon overlay and d2dye system which both are NOT compatible with D2Loader I recommend to stop using it 
-and load the D2HackIt.dll and nohide.dll via D2Mod or Plugy by adding D2HackIt=D2HackIt.dll and nohide=nohide.dll for NON D2SE Users.
-D2SE Users can use the D2SE_Setup.ini by adding ModDll1=D2Hackit.dll and ModDll2=nohide.dll. You will need to place both dlls and 
-the d2hackit.ini in your ES Main folder. The rest can stay in the plugin folder.
+As the current version feature the bufficon overlay and d2dye system which both are NOT compatible with D2Loader.
+I recommend to stop using it and load the D2HackIt.dll and nohide.dll via D2Mod or Plugy by adding D2HackIt=D2HackIt.dll 
+and nohide=nohide.dll for NON D2SE Users.D2SE Users can use the D2SE_Setup.ini by adding ModDll1=D2Hackit.dll 
+and ModDll2=nohide.dll. You will need to place both dlls and the d2hackit.ini in your ES Main folder. 
+The rest can stay in the plugin folder.
 
 If you keep using the loader, you need to prevent D2Mod loading the bufficons.dll and d2dyes by removing the following lines: 
 D2BuffIcons=D2BuffIcons.dll
@@ -175,6 +178,16 @@ remove all files and restore the file in the old folder, next remove the charsel
 -fixed a bug with selfrepair spawning on throwing weapons
 -finally was able to get bufficons.dll working 
 
+- Remove Limit Sprite
+- TCP/IP Delay fix - Hyperjoin Multiplayers
+- More informations on the /FPS chat command
+- COF Cache Memory -> Increased from 2 Mb to 20 Mb.
+- Sprite Cache Memory -> Increased from 67 Mb to 250 Mb.
+- CelData Cache Memory -> Increased from 0,5 Mb to 5 Mb.
+- CPU Infinite loop bug fix - CPU load drops to 1% or less on newer computers
+- Fix Item lost and Remove corpses
+ (thanks to thaison aka vietnam)
+
 
 
 
@@ -218,6 +231,7 @@ ocarinas for various animations
 Dav92 for various dlls
 Fog for help with txts
 Sky for help with txts
+Thaison for code edits
 
 
 
