@@ -177,3 +177,104 @@ Magic Eraser	eras	cube		0	0					0	0	0	0			1	0	0	0	0	0	0	0	3		0		0							misc	0
 Gem 6 Pack	gm6p	cube		0	0					0	0	0	0			1	0	0	0	0	0	0	0	3		0		0							misc	0
 Organ 6 Pack	or6p	cube		0	0					0	0	0	0			1	0	0	0	0	0	0	0	3		0		0								0
 Merc Only	merc			0	0					0	0	0	0		1	0	0	0	0	0	0	0	0	3		0		0								0
+Leather Helm Base	lha0	helm	armo	1	1	head	head			0	0	0	0		1	0	0	0	0	2	3	4	0	3		1		0							armo	0
+Cap	lha1	lha0		1	1	head	head			0	0	0	0		1	0	0	0	0	2	3	4	0	3		1		2	invleatherhata1	invleatherhata2					armo	0
+Leather Hat	lha2	lha0		1	1	head	head			0	0	0	0		1	0	0	0	0	2	3	4	0	3		1		2	invleatherhatb1	invleatherhatb2					armo	0
+Hard Leather Hat	lha3	lha0		1	1	head	head			0	0	0	0		1	0	0	0	0	2	3	4	0	3		1		2	invleatherhatc1	invleatherhatc2					armo	0
+Leather Armor Base	laa0	tors	armo	1	1	tors	tors			0	0	0	0		1	0	0	0	0	3	4	6	0	3		1		0							armo	0
+Leather Armor	laa1	laa0		1	1	tors	tors			0	0	0	0		1	0	0	0	0	3	4	6	0	3		1		2	invleatherarmora1	invleatherarmora2					armo	0
+Heavy Armor	laa2	laa0		1	1	tors	tors			0	0	0	0		1	0	0	0	0	3	4	6	0	3		1		2	invleatherarmorb1	invleatherarmorb2					armo	0
+Hard Leather Armor	laa3	laa0		1	1	tors	tors			0	0	0	0		1	0	0	0	0	3	4	6	0	3		1		2	invleatherarmorc1	invleatherarmorc2					armo	0
+Leather Gloves Base	lga0	glov	armo	1	1	glov	glov			0	0	0	0		1	0	0	0	0	2	2	3	0	3		1		0							armo	0
+Leather Gloves	lga1	lga0		1	1	glov	glov			0	0	0	0		1	0	0	0	0	2	2	3	0	3		1		2	invleatherglovesa1	invleatherglovesa2					armo	0
+Heavy Gloves	lga2	lga0		1	1	glov	glov			0	0	0	0		1	0	0	0	0	2	2	3	0	3		1		2	invleatherglovesb1	invleatherglovesb2					armo	0
+Hard Leather Gloves	lga3	lga0		1	1	glov	glov			0	0	0	0		1	0	0	0	0	2	2	3	0	3		1		2	invleatherglovesc1	invleatherglovesc2					armo	0
+Leather Boots Base	lba0	boot	armo	1	1	feet	feet			0	0	0	0		1	0	0	0	0	2	2	3	0	3		1		0							armo	0
+Leather Boots	lba1	lba0		1	1	feet	feet			0	0	0	0		1	0	0	0	0	2	2	3	0	3		1		2	invleatherbootsa1	invleatherbootsa2					armo	0
+Heavy Boots	lba2	lba0		1	1	feet	feet			0	0	0	0		1	0	0	0	0	2	2	3	0	3		1		2	invleatherbootsb1	invleatherbootsb2					armo	0
+Hard Leather Boots	lba3	lba0		1	1	feet	feet			0	0	0	0		1	0	0	0	0	2	2	3	0	3		1		2	invleatherbootsc1	invleatherbootsc2					armo	0
+																																				0
+Chain Helm Base	cha0	helm	armo	1	1	head	head			0	0	0	0		1	0	0	0	0	2	3	4	0	3		1		0							armo	0
+Studded Hat	cha4	cha0		1	1	head	head			0	0	0	0		1	0	0	0	0	2	3	4	0	3		1		4	invchainhelma1	invchainhelma2	invchainhelma3	invchainhelma4			armo	0
+Ring Hat	cha5	cha0		1	1	head	head			0	0	0	0		1	0	0	0	0	2	3	4	0	3		1		4	invchainhelmb1	invchainhelmb2	invchainhelmb3	invchainhelmb4			armo	0
+Scale Hat	cha6	cha0		1	1	head	head			0	0	0	0		1	0	0	0	0	2	3	4	0	3		1		4	invchainhelmc1	invchainhelmc2	invchainhelmc3	invchainhelmc4			armo	0
+Chain Armor Base	caa0	tors	armo	1	1	tors	tors			0	0	0	0		1	0	0	0	0	3	4	6	0	3		1		0							armo	0
+Studded Mail	caa1	caa0		1	1	tors	tors			0	0	0	0		1	0	0	0	0	3	4	6	0	3		1		4	invchainarmora1	invchainarmora2	invchainarmora3	invchainarmora4			armo	0
+Ring Mail	caa2	caa0		1	1	tors	tors			0	0	0	0		1	0	0	0	0	3	4	6	0	3		1		4	invchainarmorb1	invchainarmorb2	invchainarmorb3	invchainarmorb4			armo	0
+Scale Mail	caa3	caa0		1	1	tors	tors			0	0	0	0		1	0	0	0	0	3	4	6	0	3		1		4	invchainarmorc1	invchainarmorc2	invchainarmorc3	invchainarmorc4			armo	0
+Chain Gloves Base	cga0	glov	armo	1	1	glov	glov			0	0	0	0		1	0	0	0	0	2	2	3	0	3		1		0							armo	0
+Studded Bracers	cga1	cga0		1	1	glov	glov			0	0	0	0		1	0	0	0	0	2	2	3	0	3		1		4	invchainglovesa1	invchainglovesa2	invchainglovesa3	invchainglovesa4			armo	0
+Ring Bracers	cga2	cga0		1	1	glov	glov			0	0	0	0		1	0	0	0	0	2	2	3	0	3		1		4	invchainglovesb1	invchainglovesb2	invchainglovesb3	invchainglovesb4			armo	0
+Scale Bracers	cga3	cga0		1	1	glov	glov			0	0	0	0		1	0	0	0	0	2	2	3	0	3		1		4	invchainglovesc1	invchainglovesc2	invchainglovesc3	invchainglovesc4			armo	0
+Chain Boots Base	cba0	boot	armo	1	1	feet	feet			0	0	0	0		1	0	0	0	0	2	2	3	0	3		1		0							armo	0
+Studded Boots	cba1	cba0		1	1	feet	feet			0	0	0	0		1	0	0	0	0	2	2	3	0	3		1		4	invchainbootsa1	invchainbootsa2	invchainbootsa3	invchainbootsa4			armo	0
+Ring Boots	cba2	cba0		1	1	feet	feet			0	0	0	0		1	0	0	0	0	2	2	3	0	3		1		4	invchainbootsb1	invchainbootsb2	invchainbootsb3	invchainbootsb4			armo	0
+Scale Boots	cba3	cba0		1	1	feet	feet			0	0	0	0		1	0	0	0	0	2	2	3	0	3		1		4	invchainbootsc1	invchainbootsc2	invchainbootsc3	invchainbootsc4			armo	0
+																																				0
+Halfplate Helm Base	hha0	helm	armo	1	1	head	head			0	0	0	0		1	0	0	0	0	2	3	4	0	3		1		0							armo	0
+Halfplate Helm	hha1	hha0		1	1	head	head			0	0	0	0		1	0	0	0	0	2	3	4	0	3		1		2	invhalfplatehelma1	invhalfplatehelma2					armo	0
+War Helm	hha2	hha0		1	1	head	head			0	0	0	0		1	0	0	0	0	2	3	4	0	3		1		4	invhalfplatehelmb1	invhalfplatehelmb2	invhalfplatehelmb3	invhalfplatehelmb4			armo	0
+Troll Casque	hha3	hha0		1	1	head	head			0	0	0	0		1	0	0	0	0	2	3	4	0	3		1		4	invhalfplatehelmc1	invhalfplatehelmc2	invhalfplatehelmc3	invhalfplatehelmc4			armo	0
+Turtle Armet	hha4	hha0		1	1	head	head			0	0	0	0		1	0	0	0	0	2	3	4	0	3		1		4	invhalfplatehelmd1	invhalfplatehelmd2	invhalfplatehelmd3	invhalfplatehelmd4			armo	0
+Halfplate Armor Base	haa0	tors	armo	1	1	tors	tors			0	0	0	0		1	0	0	0	0	3	4	6	0	3		1		0							armo	0
+Halfplate Hauberk	haa1	haa0		1	1	tors	tors			0	0	0	0		1	0	0	0	0	3	4	6	0	3		1		2	invhalfplatearmora1	invhalfplatearmora2					armo	0
+War Plate	haa2	haa0		1	1	tors	tors			0	0	0	0		1	0	0	0	0	3	4	6	0	3		1		4	invhalfplatearmorb1	invhalfplatearmorb2	invhalfplatearmorb3	invhalfplatearmorb4			armo	0
+Troll Plate	haa3	haa0		1	1	tors	tors			0	0	0	0		1	0	0	0	0	3	4	6	0	3		1		4	invhalfplatearmorc1	invhalfplatearmorc2	invhalfplatearmorc3	invhalfplatearmorc4			armo	0
+Turtle Shell	haa4	haa0		1	1	tors	tors			0	0	0	0		1	0	0	0	0	3	4	6	0	3		1		4	invhalfplatearmord1	invhalfplatearmord2	invhalfplatearmord3	invhalfplatearmord4			armo	0
+Halfplate Gloves Base	hga0	glov	armo	1	1	glov	glov			0	0	0	0		1	0	0	0	0	2	2	4	0	3		1		0							armo	0
+Halfplate Gauntlets	hga1	hga0		1	1	glov	glov			0	0	0	0		1	0	0	0	0	2	2	4	0	3		1		2	invhalfplateglovesa1	invhalfplateglovesa2					armo	0
+War Gauntlets	hga2	hga0		1	1	glov	glov			0	0	0	0		1	0	0	0	0	2	2	4	0	3		1		4	invhalfplateglovesb1	invhalfplateglovesb2	invhalfplateglovesb3	invhalfplateglovesb4			armo	0
+Troll Gauntlets	hga3	hga0		1	1	glov	glov			0	0	0	0		1	0	0	0	0	2	2	4	0	3		1		4	invhalfplateglovesc1	invhalfplateglovesc2	invhalfplateglovesc3	invhalfplateglovesc4			armo	0
+Turtle Gauntlets	hga4	hga0		1	1	glov	glov			0	0	0	0		1	0	0	0	0	2	2	4	0	3		1		4	invhalfplateglovesd1	invhalfplateglovesd2	invhalfplateglovesd3	invhalfplateglovesd4			armo	0
+Halfplate Boots Base	hba0	boot	armo	1	1	feet	feet			0	0	0	0		1	0	0	0	0	2	2	4	0	3		1		0							armo	0
+Halfplate Greaves	hba1	hba0		1	1	feet	feet			0	0	0	0		1	0	0	0	0	2	2	4	0	3		1		2	invhalfplatebootsa1	invhalfplatebootsa2					armo	0
+War Greaves	hba2	hba0		1	1	feet	feet			0	0	0	0		1	0	0	0	0	2	2	4	0	3		1		4	invhalfplatebootsb1	invhalfplatebootsb2	invhalfplatebootsb3	invhalfplatebootsb4			armo	0
+Troll Greaves	hba3	hba0		1	1	feet	feet			0	0	0	0		1	0	0	0	0	2	2	4	0	3		1		4	invhalfplatebootsc1	invhalfplatebootsc2	invhalfplatebootsc3	invhalfplatebootsc4			armo	0
+Turtle Greaves	hba4	hba0		1	1	feet	feet			0	0	0	0		1	0	0	0	0	2	2	4	0	3		1		4	invhalfplatebootsd1	invhalfplatebootsd2	invhalfplatebootsd3	invhalfplatebootsd4			armo	0
+																																				0
+Plate Helm Base	pha0	helm	armo	1	1	head	head			0	0	0	0		1	0	0	0	0	2	3	4	0	3		1		0							armo	0
+Russet Helm	pha1	pha0		1	1	head	head			0	0	0	0		1	0	0	0	0	2	3	4	0	3		1		4	invplatehelma1	invplatehelma2	invplatehelma3	invplatehelma4			armo	0
+Order Helm	pha2	pha0		1	1	head	head			0	0	0	0		1	0	0	0	0	2	3	4	0	3		1		4	invplatehelmb1	invplatehelmb2	invplatehelmb3	invplatehelmb4			armo	0
+Gothic Basinet	pha3	pha0		1	1	head	head			0	0	0	0		1	0	0	0	0	2	3	4	0	3		1		4	invplatehelmc1	invplatehelmc2	invplatehelmc3	invplatehelmc4			armo	0
+Ancient Conch	pha4	pha0		1	1	head	head			0	0	0	0		1	0	0	0	0	2	3	4	0	3		1		4	invplatehelmd1	invplatehelmd2	invplatehelmd3	invplatehelmd4			armo	0
+Plate Armor Base	paa0	tors	armo	1	1	tors	tors			0	0	0	0		1	0	0	0	0	3	4	6	0	3		1		0							armo	0
+Russet Armor	paa1	paa0		1	1	tors	tors			0	0	0	0		1	0	0	0	0	3	4	6	0	3		1		4	invplatearmora1	invplatearmora2	invplatearmora3	invplatearmora4			armo	0
+Order Plate	paa2	paa0		1	1	tors	tors			0	0	0	0		1	0	0	0	0	3	4	6	0	3		1		4	invplatearmorb1	invplatearmorb2	invplatearmorb3	invplatearmorb4			armo	0
+Gothic Plate	paa3	paa0		1	1	tors	tors			0	0	0	0		1	0	0	0	0	3	4	6	0	3		1		4	invplatearmorc1	invplatearmorc2	invplatearmorc3	invplatearmorc4			armo	0
+Ancient Armor	paa4	paa0		1	1	tors	tors			0	0	0	0		1	0	0	0	0	3	4	6	0	3		1		4	invplatearmord1	invplatearmord2	invplatearmord3	invplatearmord4			armo	0
+Plate Gloves Base	pga0	glov	armo	1	1	glov	glov			0	0	0	0		1	0	0	0	0	2	2	4	0	3		1		0							armo	0
+Russet Gaunlets	pga1	pga0		1	1	glov	glov			0	0	0	0		1	0	0	0	0	2	2	4	0	3		1		4	invplateglovesa1	invplateglovesa2	invplateglovesa3	invplateglovesa4			armo	0
+Order Gaunlets	pga2	pga0		1	1	glov	glov			0	0	0	0		1	0	0	0	0	2	2	4	0	3		1		4	invplateglovesb1	invplateglovesb2	invplateglovesb3	invplateglovesb4			armo	0
+Gothic Gaunlets	pga3	pga0		1	1	glov	glov			0	0	0	0		1	0	0	0	0	2	2	4	0	3		1		4	invplateglovesc1	invplateglovesc2	invplateglovesc3	invplateglovesc4			armo	0
+Ancient Gaunlets	pga4	pga0		1	1	glov	glov			0	0	0	0		1	0	0	0	0	2	2	4	0	3		1		4	invplateglovesd1	invplateglovesd2	invplateglovesd3	invplateglovesd4			armo	0
+Plate Boots Base	pba0	boot	armo	1	1	feet	feet			0	0	0	0		1	0	0	0	0	2	2	4	0	3		1		0							armo	0
+Russet Greaves	pba1	pba0		1	1	feet	feet			0	0	0	0		1	0	0	0	0	2	2	4	0	3		1		4	invplatebootsa1	invplatebootsa2	invplatebootsa3	invplatebootsa4			armo	0
+Order Greaves	pba2	pba0		1	1	feet	feet			0	0	0	0		1	0	0	0	0	2	2	4	0	3		1		4	invplatebootsb1	invplatebootsb2	invplatebootsb3	invplatebootsb4			armo	0
+Gothic Greaves	pba3	pba0		1	1	feet	feet			0	0	0	0		1	0	0	0	0	2	2	4	0	3		1		4	invplatebootsc1	invplatebootsc2	invplatebootsc3	invplatebootsc4			armo	0
+Ancient Greaves	pab4	pba0		1	1	feet	feet			0	0	0	0		1	0	0	0	0	2	2	4	0	3		1		4	invplatebootsd1	invplatebootsd2	invplatebootsd3	invplatebootsd4			armo	0
+																																				0
+Metal Shield Base	msa0	shie	shld	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	3	4	0	3		1		0							armo	0
+Gothic Buckler	msa1	msa0		1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	3	4	0	3		1		3	invmetalshielda1	invmetalshielda2	invmetalshielda3	invmetalshielda4			armo	0
+Ancient Defender	msa2	msa0		1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	3	4	0	3		1		3	invmetalshieldc1	invmetalshieldc2	invmetalshieldc3	invmetalshieldc4	invmetalshieldc5		armo	0
+metal shield 3	msa3	msa0		1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	3	4	0	3		1		3	invmetalshieldb1	invmetalshieldb2	invmetalshieldb3	invmetalshieldb4			armo	0
+																																				0
+																																				0
+Wood Shield Base	wsa0	shie	shld	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	3	4	0	3		1		0							armo	0
+War Shield	wsa1	wsa0		1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	3	4	0	3		1		3	invwoodshielda1	invwoodshielda2	invwoodshielda3	invwoodshielda4	invwoodshielda5	invwoodshielda6	armo	0
+Order Luna	wsa2	wsa0		1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	3	4	0	3		1		3	invwoodshieldb1	invwoodshieldb2	invwoodshieldb3	invwoodshieldb4	invwoodshieldb5		armo	0
+Troll Pavise	wsa3	wsa0		1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	3	4	0	3		1		3	invwoodshieldc1	invwoodshieldc2	invwoodshieldc3	invwoodshieldc4	invwoodshieldc5		armo	0
+																																				0
+Base Belt	bba0	belt	armo	1	1	belt	belt			0	0	0	0		1	0	0	0	0	1	1	2	0	3		1		0							armo	0
+Heavy Sash	bba1	bba0		1	1	belt	belt			0	0	0	0		1	0	0	0	0	1	1	2	0	3		1		3	invbelta1	invbelta2	invbelta3	invbelta4			armo	0
+Troll Belt	bba2	bba0		1	1	belt	belt			0	0	0	0		1	0	0	0	0	1	1	2	0	3		1		3	invbeltb1	invbeltb2	invbeltb3	invbeltb4			armo	0
+Hard Leather Coil	bba3	bba0		1	1	belt	belt			0	0	0	0		1	0	0	0	0	1	1	2	0	3		1		3	invbeltc1	invbeltc2	invbeltc3	invbeltc4	invbeltc5		armo	0
+Ancient Girdle	bba4	bba0		1	1	belt	belt			0	0	0	0		1	0	0	0	0	1	1	2	0	3		1		4	invbeltd1	invbeltd2	invbeltd3	invbeltd4			armo	0
+Russet Girdle	bba5	bba0		1	1	belt	belt			0	0	0	0		1	0	0	0	0	1	1	2	0	3		1		4	invbelte1	invbelte2	invbelte3	invbelte4			armo	0
+																																				0
+Extra Slot	xta0	extr	armo	1	1	lrin	lrin			0	0	0	0		1	0	0	0	0	1	1	2	0	3		1		0							armo	0
+Tomes	xta1	xta0		1	1	lrin	lrin			0	0	0	0		1	0	0	0	0	1	1	2	0	3		1		4	invextrabooka1	invextrabooka2	invextrabooka3	invextrabooka4			armo	0
+Tomes 2	xta2	xta0		1	1	lrin	lrin			0	0	0	0		1	0	0	0	0	1	1	2	0	3		1		4	invextrabookb1	invextrabookb2	invextrabookb3	invextrabookb4			armo	0
+Off Shoulders	xta3	xta0		1	1	lrin	lrin			0	0	0	0		1	0	0	0	0	1	1	2	0	3		1		6	invextrashoulda1	invextrashoulda2	invextrashoulda3	invextrashoulda4	invextrashoulda5	invextrashoulda6	armo	0
+Def Shoulders	xta4	xta0		1	1	lrin	lrin			0	0	0	0		1	0	0	0	0	1	1	2	0	3		1		6	invextrashouldb1	invextrashouldb2	invextrashouldb3	invextrashouldb4	invextrashouldb5	invextrashouldb6	armo	0
+Heads	xta5	xta0		1	1	lrin	lrin			0	0	0	0		1	0	0	0	0	1	1	2	0	3		1		6	invextraheada1	invextraheada2	invextraheada3	invextraheada4	invextraheada5	invextraheada6	armo	0
+Armbands	xta6	xta0		1	1	lrin	lrin			0	0	0	0		1	0	0	0	0	1	1	2	0	3		1		6	invextraarma1	invextraarma2	invextraarma3	invextraarma4	invextraarma5	invextraarma6	armo	0
