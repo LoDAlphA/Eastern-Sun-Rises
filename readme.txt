@@ -4,7 +4,7 @@ Step 1: Install the ES Com version which can be found on the Snejportal.
 Step 2: Remove all Tokens, Weapons with Quantity, Keys, Tome of Townportal,Tome of Identify
  and Items with Selfrepair Itemstat (if you wanna keep all items with Quantity, 
  go to D2Mod.ini and change SaveBits=14 to SaveBits=9. However, 
- you wont be able to play with people who have a different value.
+ you wont be able to play with people who have a different value.)
 Step 3: Copy all files from this folder directly into the ES Com folder. You should overwrite some files.
 Step 4: Remove Utility.dll, D2AnimatedItems.dll and Statfix.dll (from previous patches)
 Step 5: If you can load your Character, delete the charname.d2x file
@@ -177,6 +177,8 @@ remove all files and restore the file in the old folder, next remove the charsel
 [CHANGELOG 5.1D]
 -fixed a bug with selfrepair spawning on throwing weapons
 -finally was able to get bufficons.dll working 
+-added the orginal ES Plugy statsinterface back
+-fixed a display bug with swearbear
 
 - Remove Sprite Limit
 - TCP/IP Delay fix - Hyperjoin Multiplayers
