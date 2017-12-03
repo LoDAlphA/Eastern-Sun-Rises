@@ -178,7 +178,13 @@ remove all files and restore the file in the old folder, next remove the charsel
 -fixed a bug with selfrepair spawning on throwing weapons
 -finally was able to get bufficons.dll working 
 -added the orginal ES Plugy statsinterface back
--fixed a display bug with swearbear
+-fixed a bug a swearbear
+-nerfed timestop and added a castdelay, also changed the castoverlay (thanks to maks)
+-nerfed explosions caused by immolations fireballs
+-nerfed creeping doom by about 10% less damage on lvl 20
+-buffed ravens, they get a 5% base chance for open wounds and are now affected by auras
+-fixed protection from evil, now works as intended
+-buffed druid creepers, they attack slightly more often now
 
 - Remove Sprite Limit
 - TCP/IP Delay fix - Hyperjoin Multiplayers
@@ -189,6 +195,7 @@ remove all files and restore the file in the old folder, next remove the charsel
 - CPU Infinite loop bug fix - CPU load drops to 1% or less on newer computers
 - Fix Item lost and Remove corpses
  (thanks to thaison aka vietnam)
+
 
 
 
