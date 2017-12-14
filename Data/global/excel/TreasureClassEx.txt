@@ -34,7 +34,6 @@ Amulets			1						amu	2	Class Amulets	1																				0
 Unique Charm 1			1	1024					The Perfect Cell	6	Yello Jello	6	Lothar's Will	6	Deviant Cell	4																0
 Unique Charm 2			1	1024					The Perfect Cell	4	Yello Jello	4	Lothar's Will	4	Deviant Cell	4	Vlad Tepe's Sustenance	1	Something Wicked	1	The Unknown Hero	1	Hidden Treasure	2	Killcounter	1						0
 Hidden Treasure			1	1024					Hidden Treasure 2	1	Hidden Treasure 3	1	Hidden Treasure 4	1	Hidden Treasure 5	1	Hidden Treasure 6	1	Hidden Treasure 7	1	Hidden Treasure 8	1	Narzath	1								0
-Killcounter			1	1024					Killcounter of Strength	1	Killcounter of Dexterity	1	Killcounter of Vitality	1	Killcounter of Energy	1																0
 DDD6			-6						ddd	1	ddd	1	ddd	1	ddd	1	ddd	1	ddd	1												
 DDD5			-5						ddd	1	ddd	1	ddd	1	ddd	1	ddd	1														
 DDD4			-4						ddd	1	ddd	1	ddd	1	ddd	1																
