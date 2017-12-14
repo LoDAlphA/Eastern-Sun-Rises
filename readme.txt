@@ -185,6 +185,11 @@ remove all files and restore the file in the old folder, next remove the charsel
 -buffed ravens, they get a 5% base chance for open wounds and are now affected by auras
 -fixed protection from evil, now works as intended
 -buffed druid creepers, they attack slightly more often now
+-higher level rare javalins now spawn with replenish again
+-lowered CtC Splash Damage on Jewels to 5/10/10/15, the first two can spawn on rare jewels,
+ the later can spawn only on mag jewels while the 10 Ctc a higher chance has than on rare jewels
+-the Killcounter can be forged with 2 Maples + PG Ruby/Saphire/Amethyst or Emerald to get +Vitality, Energy, Strength or Dexterity 
+ per Kills, however the Maples are lost if you unforge the Killcounter
 
 - Remove Sprite Limit
 - TCP/IP Delay fix - Hyperjoin Multiplayers
@@ -195,6 +200,10 @@ remove all files and restore the file in the old folder, next remove the charsel
 - CPU Infinite loop bug fix - CPU load drops to 1% or less on newer computers
 - Fix Item lost and Remove corpses
  (thanks to thaison aka vietnam)
+
+[CHANGELOG 5.1E]
+
+
 
 
 
@@ -213,6 +222,8 @@ When reparing Quantity Weapons you sometimes need to repair them multiple times 
 [Hidden Treasure]
 The first Hidden Treasure was discovered by Narzath. It increases the maximum Skill Level by one. Seven left for you guys to find;).
 
+[One O One]
+First one to reach level 101 can design a Kanji Runeword of his choice.
 
 [Additional Content]
 
