@@ -251,7 +251,7 @@ item_openwounds_perlevel	248		1	6											201	64	1024				6	0			2	3	level	item_
 new_kill_counter	249			32			1	0	32			1					1024				32	0																	90	3	1	kills	kills									0
 item_deadlystrike_perlevel	250		1	6											138	256	1024				6	0			2	3	level	item_deadlystrike						1					84	7	1	ModStr5q	ModStr5q	increaseswithplaylevelX								0
 item_meldflag	251		1	4												0	1024				4	0																														0
-item_replenish_durability	252		1	5											126	128	1024				5	27																	2	11	0	ModStrrep1	ModStrrep1									0
+item_replenish_durability	252		1	5											126	128	1024				5	27																	2	11	0	ModStrrep2	ModStrrep2									0
 item_replenish_quantity	253		1	5											126	128	1024				5	27																	3	11	0	ModStrrep1	ModStrrep1									0
 item_extra_stack	254		1												119	5	1024				9	0																	5	3	0	ModStre9i	ModStre9i									0
 tome_01	255		1	8												0	1024				8	0																	25	3	2	01a	01a									0
