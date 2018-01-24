@@ -106,7 +106,7 @@ Warder's	0	1	1	40	75	30			2	318	tinkerflag2		25	35	skilltab	11	2	2							weap			
 Guardian's	0	1		60		45			1	318	tinkerflag2		25	35	skilltab	11	3	3							weap										0	0	0
 Harpoonist's	0	1	1	1	50	15			3	319	tinkerflag2		25	35	skilltab	2	1	1	rep-quant	33					armo	weap									0	0	0
 Spearmaiden's	0	1	1	40	75	30			2	319	tinkerflag2		25	35	skilltab	2	2	2	rep-quant	33					armo	weap									0	0	0
-Lancer's	0	1		60		45			1	319	tinkerflag2		25	35	skilltab	2	3	3	rep-quant	33					armo	weap									0	0	0
+Lancer's	0	1	1	60		45			1	319	tinkerflag2		25	35	skilltab	2	3	3	rep-quant	33					armo	weap									0	0	0
 null	0	1	1	1		1			1	320	tinkerflag2		25	35											weap	armo									0	0	0
 null	0	1	1	1	39	1			1	321	pierce		20	30	explosivearrow		1	4	dmg-fire/lvl	64					amul										0	0	0
 null	0	1	1	40	59	1			1	321	pierce		30	40	explosivearrow		5	8	dmg-fire/lvl	64					amul										0	0	0
