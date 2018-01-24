@@ -1018,7 +1018,7 @@ Arreat's Face	100	1		1	1	50	42	baa	Slayer Guard	2		11	35000								tinkerflag2		
 Coldfist's Icy Stare	100	1		1	1	55	45	bab	Carnage Helm	3		11	35000								tinkerflag2		25	35	ac%		75	150	freeze		3	3	nofreeze		1	1	res-cold/lvl	3			hit-skill	Glacial Spike	25	12	dmg-cold/lvl	36			cold-len		300	600	cold-min		15	30	cold-max		50	100									0
 Adrenaline Rush	100	1		1	1	69	55	bac	Fury Visor	3		12	40000								tinkerflag2		25	35	move3		20	40	swing3		20	40	balance3		20	40	skill	Frenzy	4	6	ac		50	100	bar		1	1	res-fire/lvl	3			res-ltng/lvl	3															0
 Wyrm's Wrap	100	1		1	1	76	61	bad	Destroyer Helm	3		13	45000								tinkerflag2		25	35	extra-fire		20	35	extra-cold		20	35	extra-ltng		20	35	res-fire		40	70	res-cold		40	70	res-ltng		40	70	hit-skill	Fire Ball	10	22	hit-skill	Ice Blast	10	22	hit-skill	Lightning	10	22	ac/lvl	30			allskills		1	1	0
-Larzuk's Innovation	100	1		1	1	83	66	bae	Conquerer Crown	3		13	45000								tinkerflag2		25	35	ac%		80	160	manasteal		5	15	dmg%		25	75	nofreeze		1	1	hit-skill	Battle Cry	7	20	indestruct		1	1	bar		1	1	skilltab	14	2	2													0
+Larzuk's Innovation	100	1		1	1	83	66	bae	Conquerer Crown	3		13	45000								tinkerflag2		25	35	ac%		80	160	manasteal		5	15	dmg%		25	75	nofreeze		1	1	hit-skill	Death Sentry	7	5	indestruct		1	1	bar		1	1	skilltab	14	2	2													0
 The Ancients' Blessing	100	1		1	1	84	70	baf	Guardian Crown	3		13	45000								tinkerflag2		25	35	ac%/lvl	10			res-all		25	50	bar		2	2	lifesteal		4	7	skill	Increased Speed	1	3	skill	Increased Stamina	1	3	skill	Find Item	1	3	ac%		20	60													0
 drui																																																																					0
 Fang's Valor	100	1		1	1	4	7	dr1	Wolf Head	1		6	10000								tinkerflag2		25	35	lifesteal		6	12	ac%		25	75	hp		20	30	skill	Wearbear	2	4	skill	Shape Shifting	2	2	swing1		15	15																					0
@@ -1104,7 +1104,4 @@ Hidden Treasure 6	100	1		2	1	70	80	cm2	Large Charm	1	1	6	10000				invhiddentreas
 Hidden Treasure 7	100	1		2	1	70	80	cm2	Large Charm	1	1	6	10000				invhiddentreasure7				cheap		1	10	craftflag		50	50																																									0
 Hidden Treasure 8	100	1		2	1	70	80	cm2	Large Charm	1	1	6	10000				invhiddentreasure8				dmg-cold/kill	1			dmg-fire/kill	1			dmg-ltng/kill	1			craftflag		50	50																																	0
 Hellfire Torch	100	1		1	1	70	75	cm2	Large Charm		1	3	5000			flptrch	invtorch				all-stats		5	10	res-all		5	10	heal%-kill		10	10	heal%-kill-str		1	1	light		2	4																													0
-Killcounter of Strength	100	1		1	1	75	50	cm1	Small Charm		1	3	5000				invuniquecharmkillcounter				kills				kill_disp		1	1	item_strength_perkill	1																																							0
-Killcounter of Dexterity	100	1		1	1	75	50	cm1	Small Charm		1	3	5000				invuniquecharmkillcounter				kills				kill_disp		1	1	item_dexterity_perkill	1																																							0
-Killcounter of Vitality	100	1		1	1	75	50	cm1	Small Charm		1	3	5000				invuniquecharmkillcounter				kills				kill_disp		1	1	item_vitality_perkill	1																																							0
-Killcounter of Energy	100	1		1	1	75	50	cm1	Small Charm		1	3	5000				invuniquecharmkillcounter				kills				kill_disp		1	1	item_energy_perkill	1																																							0
+Killcounter	100	1		1	1	75	50	cm1	Small Charm		1	3	5000				invuniquecharmkillcounter				kills				kill_disp		1	1																																									0
