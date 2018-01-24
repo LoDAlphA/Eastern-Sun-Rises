@@ -202,13 +202,17 @@ remove all files and restore the file in the old folder, next remove the charsel
  (thanks to thaison aka vietnam)
 
 [CHANGELOG 5.1E]
-
-
-
-
-
-
-
+-added Charm Iventory (Odd Charms and Square Charms can go over the line, cause the code cant handle 2x2/3 Charms, as such they will be changed in 5.4)
+-fixed a display bug (Killcounter)
+-enabled mag/phy pierce (Code edit ISC Line 358 for mag and 357 for phy, this is for ESR 5.4 and 6.0) 
+-fixed tinkering runeword bug
+-disabeld Charges as affixes
+-slightly buffed the chance to roll splash damage on jewels
+-changed Twister synergies to Soul Shiver and Energy Shield
+-buffed Twister synergies to +15% per Level
+-replaced Energy Shield and Telekinesis  Teleport synergy with Twister synergy
+-fixed Poison Stream Dragon Blade and Command Mastery Skill Icon
+-replaced Larzuk's Innovation CtC on Striking Death Sentry with lvl 20 Battle Cry
 
 
 
@@ -216,14 +220,13 @@ remove all files and restore the file in the old folder, next remove the charsel
 Set items get stuck to a color after changing it 2-3 times, logout/login with the char fix this. 
 If you using D2Hackit you will get an ingame message everytime you put a dye in your inventory, you can ignore those.
 When reparing Quantity Weapons you sometimes need to repair them multiple times until they are fully repaired
+Tinkerpoints cant go lower than 4 reamining, that's a limitation, not a bug.
 
 
 
 [Hidden Treasure]
 The first Hidden Treasure was discovered by Narzath. It increases the maximum Skill Level by one. Seven left for you guys to find;).
 
-[One O One]
-First one to reach level 101 can design a Kanji Runeword of his choice.
 
 [Additional Content]
 
