@@ -309,3 +309,4 @@ cancelfres	FetishFreakout	0	16	all	0	1	0	0	0	0	20	0	0	0	0	16	0	3	0	0	255	255	255
 ghostdecoy	BAJumpLandPuff01	0	8	all	0	1	0	1	1	0	0	0	0	0	0	8	0	3	0	0	0	0	0	1	0
 shadowstep	ShadowStep	100	31	Assasin	0	1	0	0	0	0	0	0	0	0	0	16	0	3	0	0	0	0	0	1	0
 shadow_cast	ShadowCast	100	7	Assasin	0	1	0	0	0	0	0	0	0	0	0	10	0	4	1	4	237	1	238	1	0
+vengeance	Extra\Vengeance	100	14	Paladin	0	1	0	1	1	0	0	0	0	0	0	32	0	3	1	3	255	64	64	1	0
