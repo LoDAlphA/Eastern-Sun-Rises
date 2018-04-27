@@ -214,13 +214,20 @@ remove all files and restore the file in the old folder, next remove the charsel
 -fixed Poison Stream Dragon Blade and Command Mastery Skill Icon
 -replaced Larzuk's Innovation CtC on Striking Death Sentry with lvl 20 Battle Cry
 Psn Nova:
--removed physical damage
-- lowered Duration to 1,5s from 2s
-- increased psn Damage by 100% ( please Note that the Damage shown isnt x2 since it is computed per Frame and the Framecount was lowered by 25% )
+ -removed physical damage
+ - lowered Duration to 1,5s from 2s
+ - increased psn Damage by 100% ( please Note that the Damage shown isnt x2 since it is computed per Frame and the Framecount was lowered by 25% )
+ -changed animation back to clod
 Psn Explosion:
--removed physical damage
-- lowered duration to 1 Frame making the damage instant
-- increased psn Damage by 64/50
+ -removed physical damage
+ - lowered duration to 1 Frame making the damage instant
+ - increased psn Damage by 64/50
+ 
+ -added an Overlay for Vengeance
+-buffed Lightning Arrow Synergies by additional 2% per Level
+-buffed Immolation Burn Damage and reduced Fire Duration from 3 to 2Seconds
+-buffed Exploding Arrow from slvl 17+
+-further buffed Arctic Creeper, Volcanic Creeper and Poison Creeper Synergies to 10% per level
 
 
 
