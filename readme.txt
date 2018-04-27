@@ -225,7 +225,7 @@ Psn Explosion:
  
  -added an Overlay for Vengeance
 -buffed Lightning Arrow Synergies by additional 2% per Level
--buffed Immolation Burn Damage and reduced Fire Duration from 3 to 2Seconds
+-buffed Immolation Arrow Burn Damage and reduced Fire Duration from 3 to 2 Seconds
 -buffed Exploding Arrow from slvl 17+
 -further buffed Arctic Creeper, Volcanic Creeper and Poison Creeper Synergies to 10% per level
 
