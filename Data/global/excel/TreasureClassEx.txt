@@ -237,7 +237,7 @@ Act 2 (H) UGood			1						Act 2 (H) Good	240	Sets06	1	Rune JP (H)	2	Coupon JP (H)
 Act 3 (H) UGood			1						Act 3 (H) Good	240	Sets06	1	Rune JP (H)	2	Coupon JP (H)	2																0
 Act 4 (H) UGood			1						Act 4 (H) Good	240	Sets07	1	Rune JP (H)	2	Coupon JP (H)	2																0
 Act 5 (H) UGood			1						Act 5 (H) Good	240	Sets08	1	Rune JP (H)	2	Coupon JP (H)	2																0
-Act 1 Equip A	1	0	1						weap3	200	armo3	200	Act 1 Coupon C	5															405			0
+Act 1 Equip A	1	0	1						weap3	48	armo3	48	Act 1 Coupon C	2																		0
 Act 1 Equip B	1	5	1						weap3	60	armo3	60	weap6	140	armo6	140	Act 2 Coupon A	5											405			0
 Act 1 Equip C	1	9	1						weap3	20	armo3	10	weap6	60	armo6	30	weap9	140	armo9	70	weap12	20	armo12	10	Act 2 Coupon B	4			364			0
 Act 2 Equip A	1	12	1						weap6	20	armo6	10	weap9	60	armo9	30	weap12	140	armo12	70	weap15	20	armo15	10	Act 2 Coupon C	4	Act 1 Equip C	91	91			0
@@ -595,7 +595,7 @@ Bloodwitch the Wild (H)			-2						Act 2 (H) Super A	1	HoD (H)	1																	
 Treehead WoodFist			-3						Act 1 Super C	1		1																				0
 Treehead WoodFist (N)			-3						Act 1 (N) Super C	1		1																				0
 Treehead WoodFist (H)			-3						Act 1 (H) Super C	1		1																				0
-Act 1 Ultra			1	944	944	944	1024	25	"gld,mul=2048"	15	Act 1 Equip C	50	Act 1 Junk	5	Act 1 UGood	5																0
+Act 1 Ultra			1	944	944	944	1024	0	"gld,mul=2048"	40	Act 1 Equip C	50	Act 1 Junk	5	Act 1 UGood	5																0
 Act 2 Ultra			1	944	944	944	1024	25	"gld,mul=2048"	15	Act 2 Equip C	50	Act 2 Junk	5	Act 2 UGood	5																0
 Act 3 Ultra			1	944	944	944	1024	25	"gld,mul=2048"	15	Act 3 Equip C	50	Act 3 Junk	5	Act 3 UGood	5																0
 Act 4 Ultra			1	944	944	944	1024	25	"gld,mul=2048"	15	Act 4 Equip B	50	Act 4 Junk	5	Act 4 UGood	5																0

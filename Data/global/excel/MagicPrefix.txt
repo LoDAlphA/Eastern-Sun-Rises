@@ -275,9 +275,9 @@ Envenomed	100	1	1	30	60	33				20	140	dmg-pois	100	461	461											weap								
 Corosive	100	1	1	35		38				20	140	dmg-pois	125	492	492											weap												0	0	0
 Toxic	100	1	1	45		48				20	140	dmg-pois	150	547	547											weap												0	0	0
 Pestilent	100	1		60		63				20	140	dmg-pois	175	586	586											weap												0	0	0
-unused1	100																																					0	0	0
-unused2	100																																					0	0	0
-unused3	100																																					0	0	0
+Compact	100		1	1	17	1				26	141	stack		50	75											thro												0	0	0
+Thin	100		1	17	38	12				26	141	stack		75	125											thro												0	0	0
+Dense	100		1	38		30				26	141	stack		125	150											thro												0	0	0
 Elusive	100	1	1	9	15	6				18	143	ac-miss		20	40											shld	staf	wand	mana									0	0	0
 Evasive	100	1	1	9	15	6				18	143	ac-hth		20	40											tors	staf	wand	mana									0	0	0
 Infernal	100	1	1	90		60				16	144	abs-cold%		10	15											shld	tors											0	0	0
