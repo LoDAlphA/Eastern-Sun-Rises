@@ -183,55 +183,6 @@ rep-dur	1			17	item_replenish_durability																									regenerates dur
 rep-quant	1			17	item_replenish_quantity																									regenerates quantity	speed (see note)			regenerates 1 quantity per 100/lvl seconds	0
 stack	1			1	item_extra_stack																									Increased stack size		min count	max count	none	0
 item%																														+% Chance of finding item	item type	min chance	max chance	random chance from min to max is assigned to item	0
-dmg-slash																														Slashing Damage		min	max	random amount from min to max is assigned to item	0
-dmg-slash%																														Slashing Damage %		min %	max %	random amount from min to max is assigned to item	0
-dmg-crush																														Crush Damage		min	max	random amount from min to max is assigned to item	0
-dmg-crush%																														Crush Damage %		min %	max %	random amount from min to max is assigned to item	0
-dmg-thrust																														Thrust Damage		min	max	random amount from min to max is assigned to item	0
-dmg-thrust%																														Thrust Damage %		min %	max %	random amount from min to max is assigned to item	0
-abs-slash																														Absorb Slashing Damage		min amt	max amt	random amount from min to max is assigned to item	0
-abs-crush																														Absorb Crushing Damage		min amt	max amt	random amount from min to max is assigned to item	0
-abs-thrust																														Absorb Thrusting Damage		min amt	max amt	random amount from min to max is assigned to item	0
-abs-slash%																														Absorb Slashing Damage %		min %	max %	random amount from min to max is assigned to item	0
-abs-crush%																														Absorb Crushing Damage %		min %	max %	random amount from min to max is assigned to item	0
-abs-thrust%																														Absorb Thrusting Damage %		min %	max %	random amount from min to max is assigned to item	0
-ac/time																														"AC / time increment (0=day, 1=dusk, 2=night, 3=dawn)"	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-ac%/time																														AC% / time increment (8 periods)	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-hp/time																														HP / time increment	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-mana/time																														Mana / time increment	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-dmg/time																														Max Damage / time increment	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-dmg%/time																														Max Damage % / time increment	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-str/time																														Strength / time increment	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-dex/time																														Dexterity / time increment	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-enr/time																														Energy / time increment	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-vit/time																														Vitality / time increment	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-att/time																														To hit / time increment	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-att%/time																														To Hit % / time increment	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-dmg-cold/time																														Cold Damage Max / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-dmg-fire/time																														Fire Damage Max / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-dmg-ltng/time																														Lightning Damage Max / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-dmg-pois/time																														Poison Damage Max / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-res-cold/time																														Resist Cold / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-res-fire/time																														Resist Fire / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-res-ltng/time																														Resist Lightning / time inc	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-res-pois/time																														Resist Poison / time inc	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-abs-cold/time																														Absorb Cold / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-abs-fire/time																														Absorb Fire / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-abs-ltng/time																														Absorb Lightning / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-abs-pois/time																														Absorb Poison / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-gold%/time																														Find Gold Amt % / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-mag%/time																														Find Magic % / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-regen-stam/time																														% / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-stam/time																														Stamina / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-dmg-dem/time																														Damage to Demons % / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-dmg-und/time																														Damage to Undead % / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-att-dem/time																														To Hit Demons % / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-att-und/time																														To Hit Undead % / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-crush/time																														% chance of Crushing Blow / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-wounds/time																														+% chance of Open Wounds / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-kick/time																														Kick Damage / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-deadly/time																														+% chance of Deadly Strike / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-gems%/time																														+% chance of finding Gems / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
 pierce-fire	1			1	passive_fire_pierce																									Negates % of Enemy Cold Resistance		min	max	none	0
 pierce-ltng	1			1	passive_ltng_pierce																									Negates % of Enemy Fire Resistance		min	max	none	0
 pierce-cold	1			1	passive_cold_pierce																									Negates % of Enemy Lightning Resistance		min	max	none	0
@@ -361,56 +312,13 @@ rune-80	1			1	rune_80																													none	0
 rune-81	1			1	rune_81																													none	0
 rune-82	1			1	rune_82																													none	0
 rune-83	1			1	rune_83																													none	0
-tome-01	1			1	tome_01																													none	0
-tome-02	1			1	tome_02																													none	0
-tome-03	1			1	tome_03																													none	0
-tome-04	1			1	tome_04																													none	0
-tome-05	1			1	tome_05																													none	0
-tome-06	1			1	tome_06																													none	0
-tome-07	1			1	tome_07																													none	0
-tome-08	1			1	tome_08																													none	0
-tome-09	1			1	tome_09																													none	0
-tome-10	1			1	tome_10																													none	0
-tome-11	1			1	tome_11																													none	0
-tome-12	1			1	tome_12																													none	0
-tome-13	1			1	tome_13																													none	0
-tome-14	1			1	tome_14																													none	0
-tome-15	1			1	tome_15																													none	0
-tome-16	1			1	tome_16																													none	0
-tome-17	1			1	tome_17																													none	0
-tome-18	1			1	tome_18																													none	0
-tome-19	1			1	tome_19																													none	0
-tome-20	1			1	tome_20																													none	0
-tome-21	1			1	tome_21																													none	0
-tome-22	1			1	tome_22																													none	0
-tome-23	1			1	tome_23																													none	0
-tome-24	1			1	tome_24																													none	0
-tome-25	1			1	tome_25																													none	0
-tome-26	1			1	tome_26																													none	0
-tome-27	1			1	tome_27																													none	0
-tome-28	1			1	tome_28																													none	0
-tome-29	1			1	tome_29																													none	0
-tome-30	1			1	tome_30																													none	0
-tome-31	1			1	tome_31																													none	0
-tome-32	1			1	tome_32																													none	0
-tome-33	1			1	tome_33																													none	0
-tome-34	1			1	tome_34																													none	0
-tome-35	1			1	tome_35																													none	0
-tome-36	1			1	tome_36																													none	0
-tome-37	1			1	tome_37																													none	0
-tome-38	1			1	tome_38																													none	0
-tome-39	1			1	tome_39																													none	0
-tome-40	1			1	tome_40																													none	0
-tome-41	1			1	tome_41																													none	0
-tome-42	1			1	tome_42																													none	0
-tome-43	1			1	tome_43																													none	0
-tome-44	1			1	tome_44																													none	0
-tome-45	1			1	tome_45																													none	0
-tome-46	1			1	tome_46																													none	0
-tome-47	1			1	tome_47																													none	0
-tome-48	1			1	tome_48																													none	0
-tome-49	1			1	tome_49																													none	0
-tome-50	1			1	tome_50																													none	0
+rune-100	1			1	rune_100																													none	0
+rune-101	1			1	rune_101																													none	0
+rune-102	1			1	rune_102																													none	0
+rune-103	1			1	rune_103																													none	0
+rune-104	1			1	rune_104																													none	0
+rune-105	1			1	rune_105																													none	0
+rune-106	1			1	rune_106																													none	0
 junk-01	1			1	junk_01																													none	0
 junk-02	1			1	junk_02																													none	0
 junk-03	1			1	junk_03																													none	0
@@ -485,10 +393,8 @@ enr%	1			1	item_energy_percent																													none	0
 res-curse-len	1			1	curse_resistance_length			1	curse_resistance																									none	0
 ex-minion	1			1	skill_extra_minion																													none	0
 ex-trap	1			1	skill_extra_trap																													none	0
-corruptflag	1			1	item_corruptflag																													none	0
-dmg-cold/kill	1			17	item_cold_damagemax_perkill																													none	0
-dmg-fire/kill	1			17	item_fire_damagemax_perkill																													none	0
-dmg-ltng/kill	1			17	item_ltng_damagemax_perkill																													none	0
+corrupted	1			1	item_corruptflag																													none	0
+corrupt-roll	1			1	item_corrupt_roll																														0
 kills	1			1	new_kill_counter																													none	0
 kill_disp	1			17	Kill_display																													none	0
 heal%-kill	1			1	heal_kill_per_maxhp																													none	0
@@ -497,3 +403,29 @@ str/kill	1			17	item_strength_perkill																													none	0
 dex/kill	1			17	item_dexterity_perkill																													none	0
 vit/kill	1			17	item_vitality_perkill																													none	0
 enr/kill	1			17	item_energy_perkill																													none	0
+dmg-cold/kill	1			17	item_cold_damagemax_perkill																													none	0
+dmg-fire/kill	1			17	item_fire_damagemax_perkill																													none	0
+dmg-ltng/kill	1			17	item_ltng_damagemax_perkill																													none	0
+dmg/kill	1			17	item_ltng_damagemax_perkill																													none	0
+dmg%/kill	1			17	item_ltng_damagemax_perkill																													none	0
+ac/kill	1			17	item_armor_perkill																													none	0
+ac%/kill	1			17	item_armorpercent_perkill																													none	0
+hp/kill	1			17	item_hp_perkill																													none	0
+mana/kill	1			17	item_mana_perkill																													none	0
+regen%-str	1			1	regen_dummy																														0
+regen%	1			1	regen_per_maxhp																									0.01%	per		100 =	1%	0
+vit/str	1			17	item_vitality_perstrength																														0
+vit/dex	1			17	item_vitality_perdexterity																														0
+vit/enr	1			17	item_vitality_perenergy																														0
+dmg/dex	1			17	item_maxdamage_perdex																														0
+dmg%/dex	1			17	item_maxdamage_percent_perdex																														0
+dmg-cold/enr	1			17	item_cold_damagemax_perenr																													none	0
+dmg-fire/enr	1			17	item_fire_damagemax_perenr																													none	0
+dmg-ltng/enr	1			17	item_ltng_damagemax_perenr																													none	0
+ex-skeleton	1			1	skill_extra_skeleton																													none	0
+ex-wolve	1			1	skill_extra_wolves																													none	0
+ex-raven	1			1	skill_extra_raven																													none	0
+ex-vine	1			1	skill_extra_vines																													none	0
+ex-firegolem	1			1	skill_extra_firegolem																													none	0
+curse%	1			1	curse_effect																													none	0
+curse%/enr	1			17	curse_resistance_perenr																													none	0

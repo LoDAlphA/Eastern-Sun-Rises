@@ -730,19 +730,19 @@ Dummy	100	1	1	1		1				1	101	oskill	406	1	1	vit-h		-790	-790							zcha										
 																																						0	0	0
 Jeweler's	100			66		72				24	122	sock		5	5																							0	0	0
 Dummy	100	1	1	1		1				1	101	oskill	437	1	1	oskill	438	1	1	oskill	439	1	1			ycha												0	0	0
-Skillful	100	1	1	38		1	ama			2	125	skill-rand	1	6	35											mcha												0	0	0
-Skillful	100	1	1	38		1	sor			2	125	skill-rand	1	36	65											mcha												0	0	0
-Skillful	100	1	1	38		1	nec			2	125	skill-rand	1	66	95											mcha												0	0	0
-Skillful	100	1	1	38		1	pal			2	125	skill-rand	1	96	125											mcha												0	0	0
-Skillful	100	1	1	38		1	bar			2	125	skill-rand	1	126	155											mcha												0	0	0
-Skillful	100	1	1	38		1	dru			2	125	skill-rand	1	221	250											mcha												0	0	0
-Skillful	100	1	1	38		1	ass			2	125	skill-rand	1	251	280											mcha												0	0	0
-Skillful	100	1	1	57		1	ama			1	125	skill-rand	1	6	35	skill-rand	1	6	35							mcha												0	0	0
-Skillful	100	1	1	57		1	sor			1	125	skill-rand	1	36	65	skill-rand	1	36	65							mcha												0	0	0
-Skillful	100	1	1	57		1	nec			1	125	skill-rand	1	66	95	skill-rand	1	66	95							mcha												0	0	0
-Skillful	100	1	1	57		1	pal			1	125	skill-rand	1	96	125	skill-rand	1	96	125							mcha												0	0	0
-Skillful	100	1	1	57		1	bar			1	125	skill-rand	1	126	155	skill-rand	1	126	155							mcha												0	0	0
-Skillful	100	1	1	57		1	dru			1	125	skill-rand	1	221	250	skill-rand	1	221	250							mcha												0	0	0
+Skillful	100	1	1	38		1	ama			3	125	skill-rand	1	6	35											mcha												0	0	0
+Skillful	100	1	1	38		1	sor			3	125	skill-rand	1	36	65											mcha												0	0	0
+Skillful	100	1	1	38		1	nec			3	125	skill-rand	1	66	95											mcha												0	0	0
+Skillful	100	1	1	38		1	pal			3	125	skill-rand	1	96	125											mcha												0	0	0
+Skillful	100	1	1	38		1	bar			3	125	skill-rand	1	126	155											mcha												0	0	0
+Skillful	100	1	1	38		1	dru			3	125	skill-rand	1	221	250											mcha												0	0	0
+Skillful	100	1	1	38		1	ass			3	125	skill-rand	1	251	280											mcha												0	0	0
+Skillful	100	1	1	57		1	ama			2	125	skill-rand	1	6	35	skill-rand	1	6	35							mcha												0	0	0
+Skillful	100	1	1	57		1	sor			2	125	skill-rand	1	36	65	skill-rand	1	36	65							mcha												0	0	0
+Skillful	100	1	1	57		1	nec			2	125	skill-rand	1	66	95	skill-rand	1	66	95							mcha												0	0	0
+Skillful	100	1	1	57		1	pal			2	125	skill-rand	1	96	125	skill-rand	1	96	125							mcha												0	0	0
+Skillful	100	1	1	57		1	bar			2	125	skill-rand	1	126	155	skill-rand	1	126	155							mcha												0	0	0
+Skillful	100	1	1	57		1	dru			2	125	skill-rand	1	221	250	skill-rand	1	221	250							mcha												0	0	0
 Adjudging	100	1	1	72		48				4	125	pierce-fire		1	3											jewl												0	0	0
 Adjudging	100	1	1	72		48				4	125	pierce-cold		1	3											jewl												0	0	0
 Adjudging	100	1	1	72		48				4	125	pierce-ltng		1	3											jewl												0	0	0
@@ -797,3 +797,17 @@ Hierophant's	100	1	1	70		67	dru		45	5	125	dru		2	2											tors												0	0
 Magekiller's	100	1	1	36		30	ass		18	8	125	ass		1	1											tors												0	0	0
 Witch-hunter's	100	1	1	70		67	ass		45	5	125	ass		2	2											tors												0	0	0
 Knowledgeable	100	1	1	65		70				3	158	allskills		2	2											tors												0	0	0
+																																						0	0	0
+Skillful	100	1	1	57		1	ama			1	125	skill-rand	1	6	35	skill-rand	1	6	35	skill-rand	1	6	35			mcha												0	0	0
+Skillful	100	1	1	57		1	sor			1	125	skill-rand	1	36	65	skill-rand	1	36	65	skill-rand	1	36	65			mcha												0	0	0
+Skillful	100	1	1	57		1	nec			1	125	skill-rand	1	66	95	skill-rand	1	66	95	skill-rand	1	66	95			mcha												0	0	0
+Skillful	100	1	1	57		1	pal			1	125	skill-rand	1	96	125	skill-rand	1	96	125	skill-rand	1	96	125			mcha												0	0	0
+Skillful	100	1	1	57		1	bar			1	125	skill-rand	1	126	155	skill-rand	1	126	155	skill-rand	1	126	155			mcha												0	0	0
+Skillful	100	1	1	57		1	dru			1	125	skill-rand	1	221	250	skill-rand	1	221	250	skill-rand	1	221	250			mcha												0	0	0
+Clever	100	1	1	45		32				1	153	mana/lvl	5													mcha												0	0	0
+Clever	100	1		60		43				1	153	mana/lvl	6													mcha												0	0	0
+Striker's	100	1	1	45		34				1	152	att/lvl	5													mcha												0	0	0
+Striker's	100	1		60		45				1	152	att/lvl	6													mcha												0	0	0
+Assailant's	100	1		85		46				1	104	dmg/lvl	3													mcha												0	0	0
+Guardian's	100	1	1	45		30				1	150	ac/lvl	5													mcha												0	0	0
+Guardian's	100	1		60		41				1	150	ac/lvl	6													mcha												0	0	0

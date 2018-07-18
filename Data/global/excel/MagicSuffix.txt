@@ -238,26 +238,26 @@ of Hydra Shield	100	1	1	24	48	20				2	50	gethit-skill	ctcHydra	7	10											ar
 of Hydra Shield	100	1	1	36		30				2	50	gethit-skill	ctcHydra	9	15											armo	staf	wand								0	0	0
 of Hydra Shield	100	1	1	48		40				2	50	gethit-skill	ctcHydra	10	20											armo	staf	wand								0	0	0
 of Hydra Shield	100	1	1	60		50				2	50	gethit-skill	ctcHydra	12	25											armo	staf	wand								0	0	0
-of Enchantment	100	1	1	24	48	24		sor	6	2	51	charged	Enchant	30	10											amul	ring	circ	staf				sorc			0	0	0
-of Enchantment	100	1	1	48		48		sor	6	2	51	charged	Enchant	45	15											amul	ring	circ	staf				sorc			0	0	0
-of Teleportation	100	1	1	24	48	24		sor	1	8	51	charged	Teleport	40	6											amul	ring	circ	staf				sorc			0	0	0
-of Teleportation	100	1	1	48		48		sor	1	8	51	charged	Teleport	60	9											amul	ring	circ	staf				sorc			0	0	0
-of Shiver Armor	100	1	1	24	48	24		sor	18	2	51	charged	Chilling Armor	30	10											amul	ring	circ	staf				sorc			0	0	0
-of Shiver Armor	100	1	1	48		48		sor	18	2	51	charged	Chilling Armor	45	15											amul	ring	circ	staf				sorc			0	0	0
-of Amplify Damage	100	1	1	24	48	24		nec	1	2	51	charged	Amplify Damage	40	6											amul	ring	circ	wand				necr			0	0	0
-of Amplify Damage	100	1	1	48		48		nec	1	2	51	charged	Amplify Damage	60	9											amul	ring	circ	wand				necr			0	0	0
-of Dim Vision	100	1	1	24	48	24		nec	6	4	51	charged	Dim Vision	40	6											amul	ring	circ	wand				necr			0	0	0
-of Dim Vision	100	1	1	48		48		nec	6	4	51	charged	Dim Vision	60	9											amul	ring	circ	wand				necr			0	0	0
-of Clay Golem Summoning	100	1	1	24	48	24		nec	6	2	51	charged	Clay Golem	30	16											amul	ring	circ	wand				necr			0	0	0
-of Clay Golem Summoning	100	1	1	48		48		nec	6	2	51	charged	Clay Golem	45	24											amul	ring	circ	wand				necr			0	0	0
-of Lower Resistance	100	1	1	36	60	36		nec	30	4	51	charged	Lower Resist	40	6											amul	ring	circ	wand				necr			0	0	0
-of Lower Resistance	100	1	1	60		60		nec	30	4	51	charged	Lower Resist	60	9											amul	ring	circ	wand				necr			0	0	0
-of Battle Orders	100	1	1	24	48	24		bar	18	2	51	charged	Battle Orders	30	10											amul	ring	circ	belt				barb			0	0	0
-of Battle Orders	100	1	1	48		48		bar	18	2	51	charged	Battle Orders	45	15											amul	ring	circ	belt				barb			0	0	0
-of Fade	100	1	1	24	48	24		ass	18	2	51	charged	Fade	30	10											amul	ring	circ	boot				assn			0		
-of Fade	100	1	1	48		48		ass	18	2	51	charged	Fade	45	15											amul	ring	circ	boot				assn			0		
-of Venom	100	1	1	36	60	36		ass	30	2	51	charged	Venom	30	10											amul	ring	circ	glov				assn			0		
-of Venom	100	1	1	60		60		ass	30	2	51	charged	Venom	45	15											amul	ring	circ	glov				assn			0		
+of Enchantment	100	0	1	24	48	24		sor	6	2	51	charged	Enchant	30	10											amul	ring	circ	staf				sorc			0	0	0
+of Enchantment	100	0	1	48		48		sor	6	2	51	charged	Enchant	45	15											amul	ring	circ	staf				sorc			0	0	0
+of Teleportation	100	0	1	24	48	24		sor	1	8	51	charged	Teleport	40	6											amul	ring	circ	staf				sorc			0	0	0
+of Teleportation	100	0	1	48		48		sor	1	8	51	charged	Teleport	60	9											amul	ring	circ	staf				sorc			0	0	0
+of Shiver Armor	100	0	1	24	48	24		sor	18	2	51	charged	Chilling Armor	30	10											amul	ring	circ	staf				sorc			0	0	0
+of Shiver Armor	100	0	1	48		48		sor	18	2	51	charged	Chilling Armor	45	15											amul	ring	circ	staf				sorc			0	0	0
+of Amplify Damage	100	0	1	24	48	24		nec	1	2	51	charged	Amplify Damage	40	6											amul	ring	circ	wand				necr			0	0	0
+of Amplify Damage	100	0	1	48		48		nec	1	2	51	charged	Amplify Damage	60	9											amul	ring	circ	wand				necr			0	0	0
+of Dim Vision	100	0	1	24	48	24		nec	6	4	51	charged	Dim Vision	40	6											amul	ring	circ	wand				necr			0	0	0
+of Dim Vision	100	0	1	48		48		nec	6	4	51	charged	Dim Vision	60	9											amul	ring	circ	wand				necr			0	0	0
+of Clay Golem Summoning	100	0	1	24	48	24		nec	6	2	51	charged	Clay Golem	30	16											amul	ring	circ	wand				necr			0	0	0
+of Clay Golem Summoning	100	0	1	48		48		nec	6	2	51	charged	Clay Golem	45	24											amul	ring	circ	wand				necr			0	0	0
+of Lower Resistance	100	0	1	36	60	36		nec	30	4	51	charged	Lower Resist	40	6											amul	ring	circ	wand				necr			0	0	0
+of Lower Resistance	100	0	1	60		60		nec	30	4	51	charged	Lower Resist	60	9											amul	ring	circ	wand				necr			0	0	0
+of Battle Orders	100	0	1	24	48	24		bar	18	2	51	charged	Battle Orders	30	10											amul	ring	circ	belt				barb			0	0	0
+of Battle Orders	100	0	1	48		48		bar	18	2	51	charged	Battle Orders	45	15											amul	ring	circ	belt				barb			0	0	0
+of Fade	100	0	1	24	48	24		ass	18	2	51	charged	Fade	30	10											amul	ring	circ	boot				assn			0		
+of Fade	100	0	1	48		48		ass	18	2	51	charged	Fade	45	15											amul	ring	circ	boot				assn			0		
+of Venom	100	0	1	36	60	36		ass	30	2	51	charged	Venom	30	10											amul	ring	circ	glov				assn			0		
+of Venom	100	0	1	60		60		ass	30	2	51	charged	Venom	45	15											amul	ring	circ	glov				assn			0		
 of the Tank	100	1	1	60		48				16	52	red-dmg%		8	15	thorns/lvl	16	0	0	ac%		50	200			tors	shld									0	0	0
 of Mastery	100	1	1	50		30				16	53	dmg-ac		-10	-10	swing2		10	10	dmg%		75	75			weap							staf	wand		0	0	0
 of Grand Mastery	100	1	1	60		45				16	53	dmg-ac		-15	-15	swing2		20	20	dmg%		100	100			weap							staf	wand		0	0	0
@@ -692,3 +692,8 @@ of Splash	100	1	1	5	50	10				10	61	att-skill	468	5	1											jewl										0	0
 of Splash	100	1	1	20		30				3	61	att-skill	468	10	1											jewl										0	0	0
 of Splash	100	1		40		30				5	61	att-skill	468	10	1											jewl										0	0	0
 of Splash	100	1		80		50				3	61	att-skill	468	15	1											jewl										0	0	0
+																																						0
+of the Angel	100	1	1	45		32				1	36	hp/lvl	5																									
+of the Angel	100	1		60		43				1	36	hp/lvl	6																									
+of the Collector	100	1		85		46				1	33	gold%/lvl	3													mcha										0	0	0
+of the Rogue	100	1		85		46				1	33	mag%/lvl	3													mcha										0	0	0

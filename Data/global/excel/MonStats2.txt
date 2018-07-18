@@ -350,9 +350,9 @@ councilmember3	3	2	96	2	2		0	hth	3		lit																1															1	1	1	1	1
 turret1	3	2	128	2	2		0	hth	3		lit																1															1	1	1			1								1				16	16	8	8	16	8	8	8	8	8	8	8	16	8	8	8													1				1				1	1	1							1	1	1						255	255	255				xxx	xxx	1			NU		0
 turret2	3	2	128	2	2		0	hth	3		lit																1															1	1	1			1								1				16	16	8	8	16	8	8	8	8	8	8	8	16	8	8	8													1				1				1	1	1							1	1	1						255	255	255				xxx	xxx	1			NU		0
 turret3	3	2	128	2	2		0	hth	3		lit																1															1	1	1			1								1				16	16	8	8	16	8	8	8	8	8	8	8	16	8	8	8													1				1				1	1	1							1	1	1						255	255	255				xxx	xxx	1			NU		0
-hydra1	3	1	96	0	0		0	hth	3		lit							lit									1							1								2	1	1			1					1			1		1		8	8	8	8	8	8	8	8	8	8	8	8	1	8	8	8													1																			1					4	255	138	0				xxx	xxx	1			NU		0
-hydra2	3	1	96	0	0		0	hth	3		lit							lit									1							1								2	1	1			1					1			1		1		8	8	8	8	8	8	8	8	8	8	8	8	1	8	8	8													1																			1					4	255	138	0				xxx	xxx	1			NU		0
-hydra3	3	1	96	0	0		0	hth	3		lit							lit									1							1								2	1	1			1					1			1		1		8	8	8	8	8	8	8	8	8	8	8	8	1	8	8	8													1																			1					4	255	138	0				xxx	xxx	1			NU		0
+hydra1	3	1	96	0	0		0	hth	3		lit							lit									1							1								2	1	1			1					1			1		1		8	8	8	8	8	8	8	8	8	8	8	8	1	8	8	8													1																			1					4	255	255	255				xxx	xxx	1			NU		0
+hydra2	3	1	96	0	0		0	hth	3		lit							lit									1							1								2	1	1			1					1			1		1		8	8	8	8	8	8	8	8	8	8	8	8	1	8	8	8													1																			1					4	255	255	255				xxx	xxx	1			NU		0
+hydra3	3	1	96	0	0		0	hth	3		lit							lit									1							1								2	1	1			1					1			1		1		8	8	8	8	8	8	8	8	8	8	8	8	1	8	8	8													1																			1					4	255	255	255				xxx	xxx	1			NU		0
 trap-melee	2	3	128	2	2		2	hth	3		lit																1															1	1	1			1								1				1	1	8	8	1	8	8	8	8	8	8	8	1	8	8	8													1				1					1										1						255	255	255				xxx	xxx	1			NU		0
 seventombs	2	2	128	0	0		0	hth	3		lit																1															1	1	1			1				1				1				1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1													0																			1	1					255	255	255				xxx	xxx	1			NU		0
 dopplezon	3	2	96	2	2		0	hth	3																		1							1								2	1	1	1	1	1								1	1	1		4	1	8	1	1	8	8	8	8	8	8	8	4	8	8	1													1				1					1					1					1				1	5	255	255	255				xxx	xxx	1			NU		0
@@ -659,3 +659,4 @@ pestilencerat	1	1	48	2	2		0	hth	3		lit																1															1	1	1	1	1	
 shrieker	3	3	112	3	3		0	hth	3		lit																1															1	1	1	1	1	1	1							1	1	1		8	8	8	8	8	8	8	8	8	8	8	8	8	8	8	8													1				1				1	1	1			1	1					1						255	255	255				xxx	xxx	1			NU		0
 femalevamp	3	2	96	1	1		0	hth	3		lit										"pos,cld,fir,lht"	"pos,cld,fir,lht"					1															1	1	1	1	1	1			1		1			1	1	1		8	8	8	8	8	8	8	8	8	8	8	8	8	8	8	8													1				1					1					1					1						255	255	255				xxx	xxx	1			NU		0
 bloodwitchthewild	3	2	96	2	2		0	hth	3	"lit,bab,fan,pha,pon"	"lit,med,hvy"		"lit,med,hvy"	"lit,med,hvy"		whp	buc	"lit,med,hvy"	"lit,med,hvy"	"lit,med,hvy"	"lit,med,hvy"	bld				1	1		1	1		1	1	1	1	1	1	1				11	1	1	1	1	1		1						1	1	1		8	8	8	8	8	8	8	8	8	8	8	8	8	8	8	8													1				1					1	1				1					1		1	1	1		255	255	255				xxx	xxx	1			NU		0
+druidhawk2	3	3	88	0	0		0	hth	3		lit							lit									1							1								2	1	1	1		1				1				1				8	8	8	8	8	8	8	8	8	8	8	8	8	8	8	8													0			0						1			1							1						255	255	255				xxx	xxx	1			NU		0

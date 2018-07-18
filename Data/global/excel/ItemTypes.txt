@@ -177,3 +177,5 @@ Magic Eraser	eras	cube		0	0					0	0	0	0			1	0	0	0	0	0	0	0	3		0		0							misc	0
 Gem 6 Pack	gm6p	cube		0	0					0	0	0	0			1	0	0	0	0	0	0	0	3		0		0							misc	0
 Organ 6 Pack	or6p	cube		0	0					0	0	0	0			1	0	0	0	0	0	0	0	3		0		0								0
 Merc Only	merc			0	0					0	0	0	0		1	0	0	0	0	0	0	0	0	3		0		0								0
+Gem Can 1	can0	misc		0	0					0	0	0	0			1	0	0	0	0	0	0	0	3		0		0							misc	0
+Shards	sh9	misc		0	0					0	0	0	0			1	0	0	0	0	0	0	0	3		0		0							misc	0
