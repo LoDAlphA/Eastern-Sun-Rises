@@ -230,12 +230,25 @@ Psn Explosion:
 -further buffed Arctic Creeper, Volcanic Creeper and Poison Creeper Synergies to 10% per level
 
 
+[CHANGELOG 5.1H]
+- Frost Nova has a new graphical appearance
+- Frost Nova now freezes instead of chilling enemies
+- Replaced Amazon's Fire Wall with Fire Hawk - A clone of the Raven ability which does 100% fire damage
+- Updated/added synergies for Fire Hawk
+- Fixed broken lightning damage on Druid's Raven skill
+- Converted Druid's Bone Spear to Flame Lance
+- Adjusted synergies/damage to new element
+-Replaced Necro Hydra with Ghost Hydra, deals 100% magic damage
+(thanks to reiyo_oki)
+
+-
 
 [Known Bugs]
 Set items get stuck to a color after changing it 2-3 times, logout/login with the char fix this. 
 If you using D2Hackit you will get an ingame message everytime you put a dye in your inventory, you can ignore those.
 When reparing Quantity Weapons you sometimes need to repair them multiple times until they are fully repaired
 Tinkerpoints cant go lower than 4 reamining, that's a limitation, not a bug.
+
 
 
 
@@ -270,6 +283,7 @@ Dav92 for various dlls
 Fog for help with txts
 Sky for help with txts
 Thaison for code edits
+
 
 
 
