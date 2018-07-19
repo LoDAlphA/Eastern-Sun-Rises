@@ -1,0 +1,2 @@
+*desc	Stat	Value	LevelsUnderYou	LevelsAboveYou	*eol
+killcounter	new_kill_counter	1	30	0	0
