@@ -1,6 +1,7 @@
 # Eastern-Sun-Rises 5.1H
 
-Updated on 18.07.2018 
+Updated on 19.07.2018 Please remove all files in Data/global/excel/ before patching.
+
 
 This Mod began as a Community Patch for Eastern Sun. As I changed more and more, we slowly drifted away from our orgin and as such Eastern Sun Rises was born. You can find all informations the Mod about here:
 
