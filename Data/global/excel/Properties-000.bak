@@ -344,4 +344,3 @@ total-avoid	1			1	passive_dodge			3	passive_avoid			3	passive_evade													
 ac-total	1			1	skill_armor_percent																									Global AC increase		min	max	overridden by armor_override_percent	0
 abs-all	1			1	item_absorbfire			3	item_absorblight			3	item_absorbcold			3	item_absorbmagic															min	max	none	0
 volcano_enabler	1			1	volcano_enabler1																													none	0
-getatt-skill	1			11	item_skillonattacked																									Proc Skill on Swing	Skill #	% Chance	Level	none	0

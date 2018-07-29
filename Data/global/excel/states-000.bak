@@ -229,4 +229,13 @@ bearedgrowl	226					1			1																																			bearfire												
 queenstate	227					1				1																																		queenaurastate							attackrate												paladin_aura_concentration								0
 teethdebuff	228						1																																					teethdebuff					curse_hit		magicresist													object_barrel_explode							0
 blessedcursed	229						1																																					blessedcursed					curse_hit		fireresist													object_barrel_explode							0
-specshield	230																																											spectralshieldover							normal_damage_reduction													object_barrel_explode							0
+specshield	230																																											spectralshieldover							normal_damage_reduction													object_barrel_explode						146	0
+blurassa_mastery	231			1																																																																			0
+feritycontrol	232					1																																																																	0
+ferityover	233					1																																							ferityoverlay																										0
+lpiercebuff	234																																																															object_barrel_explode							0
+sparkfeetbuff	235																																																		velocitypercent													object_barrel_explode							0
+glyphdebuff	236																																																		velocitypercent							188	100	255	88	88		object_barrel_explode							0
+glyphdebuff2	237																																																		velocitypercent							189	100	255	255	0		object_barrel_explode							0
+bearhealdasfuck	238					1																																						receiving					healing		hpregen																				0
+earthpowered	239																																											earthpowercast							strenght													object_barrel_explode							0

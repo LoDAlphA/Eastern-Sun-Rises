@@ -23,8 +23,8 @@ ancientbarb	20		0	1		1	1	1	Ancient Barbarian 1	1	1	barbhirable_icon									0
 bloodgolem	21	1	0	1		1	1	1	StrUI0	1	2	bloodgolumicon	290	bloodgolumicon							0
 claygolem	22	1	0	1		1	1	1	StrUI0	1	2	earthgolumicon	289	earthgolumicon							0
 firegolem	23	1	0	1		1	1	1	StrUI0	1	3	firegolumicon	292	firegolumicon							0
-cyclevine	24		0	1		1	1	1	strUI13c	1	2	vines	426								0
-vines	25		0	1		1	1	1	strUI13v	1	2	cycleoflife	427								0
+cyclevine	24		0	1		1	1	1	strUI13c	1	2	vines	425								0
+vines	25		0	1		1	1	1	strUI13v	1	2	cycleoflife	426								0
 waterelm	26		0	1		1	1	1	strUI7e	1	2	waterelm									0
 totem2	27	2	0	1		1	1	1	strUI14	1	2	heartofwolverine									0
 totem3	28	2	0	1		1	1	1	strUI14	1	2	spiritofbarbs									0
@@ -36,3 +36,5 @@ nightqueen	33	2	0	1		1	1	1	nightqueen	1	2	nightqueen									0
 bonehorror	34	1	0	1		1	1	1	bonehorror	1	3	bonehorror	876	bonehorror							0
 gronk	35	3	0	1		1	1	1	gronk	1	3	gronk									0
 matsari	36	1	0	1		1	1	1	matsari	1	3	matsari									0
+totem4	37	2	0	1		1	1	1	strUI14	1	2	spiritofbarbs									0
+wolfking	38		0	1		1	1	1	strUI7	1	2	bear									0

@@ -155,3 +155,5 @@ beetle	BOMBA_att1		0		100								BOMBA_hit1	BOMBA_death	0	0					BOMBA_walk		2	0	
 nightqueen	queen_att1		0		100		queen_att2		0		100		queen_gethit	queen_death	0	0					queen_move	queen_move2	2	0	100															0
 gronk	gronk_attack1		0		100		gronk_attack2		0		100		gronk_gethit	gronk_death	0	0					heavy_walk_dirt_1		2	0	100	yeti_neutral_1	150													0
 matsari	mats_attack1		0		100		mats_attack2		0		100		mats_gethit	mats_death	0	0					heavy_walk_dirt_1		2	0	100	mats_neutral1	150													0
+wereelem	elem_attack1		0		100		elem_attack2		0		100		elem_gethit	elem_death	0	0					heavy_walk_dirt_1		2	0	100	elem_neutral	150													0
+lesserfire	lessfire_attack1		0		100		lessfire_attack2		0		100		lessfire_gethit	lessfire_death	0	0	lessfire_cast				heavy_walk_dirt_1		2	0	100															0

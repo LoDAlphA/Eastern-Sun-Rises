@@ -154,4 +154,5 @@ beholder	beholder_attack_1		0		100		beholder_attack_1		0		100		beholder_hit_1	be
 beetle	BOMBA_att1		0		100								BOMBA_hit1	BOMBA_death	0	0					BOMBA_walk		2	0	100	sandmaggotbaby_neutral_1	150													0
 nightqueen	queen_att1		0		100		queen_att2		0		100		queen_gethit	queen_death	0	0					queen_move	queen_move2	2	0	100															0
 gronk	gronk_attack1		0		100		gronk_attack2		0		100		gronk_gethit	gronk_death	0	0					heavy_walk_dirt_1		2	0	100	yeti_neutral_1	150													0
-matsari	attack_1		0		100		attack_2		0		100		gethit_1	death_1	0	0					heavy_walk_dirt_1		2	0	100	neutral_1	150													0
+matsari	mats_attack1		0		100		mats_attack2		0		100		mats_gethit	mats_death	0	0					heavy_walk_dirt_1		2	0	100	mats_neutral1	150													0
+wereelem	elem_attack1		0		100		elem_attack2		0		100		elem_gethit	elem_death	0	0					heavy_walk_dirt_1		2	0	100	elem_neutral	150													0

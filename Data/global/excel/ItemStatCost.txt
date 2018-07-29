@@ -96,7 +96,7 @@ item_fasterattackrate	93		1	1	9											1062	78	1024		7	20	8	135												1	
 item_levelreqpct	94																	1024		7	20	7	64			13			item_levelreq																								0
 lastblockframe	95																	1024		6	20																																0
 item_fastermovevelocity	96		1	1	9											4103	78	1024		7	20	8	135																	148	4	1	ModStr4s	ModStr4s									0
-item_nonclassskill	97			1	15	9						1			1	201	163	1024		7	20	6	0	9																81	28												0
+item_nonclassskill	97			1	15	16						1			1	201	163	1024		7	20	6	0	16																81	28												0
 state	98		1		1	8						1				435	32	1024		6	20	1		8																													0
 item_fastergethitrate	99		1	1	11											1085	36	1024		7	20	8	135																	139	4	1	ModStr4p	ModStr4p									0
 monster_playercount	100																	1024		7	20																																0
@@ -106,7 +106,7 @@ skill_bypass_undead	103				1													1024		7	20																													
 skill_bypass_demons	104				1													1024		6	20																																0
 item_fastercastrate	105		1	1	9											1958	39	1024		7	20	8	135																	142	4	1	ModStr4v	ModStr4v									0
 skill_bypass_beasts	106				1													1024		7	20																																0
-item_singleskill	107			1	15	9						1			1	201	128	1024		14	0	5	0	9																81	27												0
+item_singleskill	107			1	15	16						1			1	201	128	1024		14	0	5	0	16																81	27												0
 item_restinpeace	108				1							1				2007	0	1024		14	0	1	0												1	kill	29			81	3	0	ModitemSMRIP	ModitemSMRIP									0
 curse_resistance	109				9											179	16	1024		14	0	9	0																														0
 item_poisonlengthresist	110			1	9											47	5	1024		8	20	8	20																	18	2	2	ModStr3r	ModStr3r									0
@@ -150,7 +150,7 @@ item_absorbmagic	147			1	7											1759	102	1024		7	0	7	0																	33	1
 item_absorbcold_percent	148			1	7											5506	51	1024		7	0	7	87																	25	2	2	ModStr5m	ModStr5m									0
 item_absorbcold	149			1	7											1759	102	1024		7	0	7	0																	31	1	1	ModStr5n	ModStr5n									0
 item_slow	150			1	7							1				121	20	1024		7	0	7	27												1	domeleedamage	19	domissiledamage	19	77	2	2	ModStr5r	ModStr5r									0
-item_aura	151			1								1						1024		7	0	5	0	9																159	16	0	ModitemAura	ModitemAura									0
+item_aura	151			1		16						1						1024		7	0	5	0	16																159	16	0	ModitemAura	ModitemAura									0
 item_indesctructible	152			1	1													1024		7	0	1																		160	3	0	ModStre9s	ModStre9s									0
 item_cannotbefrozen	153			1	2											7525	512	1024		1		1																		20	3	2	ModStr5z	ModStr5z									0
 item_staminadrainpct	154			1	7											122	10	1024		7	20	8	120												1					49	2	1	ModStr6e	ModStr6e									0
@@ -302,8 +302,8 @@ unused299	299			1													0	1024		22	0		0																														0
 unused300	300			1													0	1024		22	0		0																														0
 unused301	301			1													0	1024		22	0		0																														0
 unused302	302			1													0	1024		22	0		0																														0
-unused303	303			1													0	1024		22	0		0																														0
-unused304	304			1													0	1024					0																														0
+item_skillonattacked	303			1	7	16						1			2	210	128	1024		21	0	7	0	16											1	attackedinmelee	21	damagedbymissile	21	160	15		ItemExpansiveChancX	ItemExpansiveChancX									0
+elemdamagepercent	304			1	12											65	20	1024		8	0	8	0												1																		0
 item_pierce_cold	305			1	9											1452	256	1024				8	55																	88	20	1	Moditemenrescoldsk	Moditemenrescoldsk									0
 item_pierce_fire	306			1	9											1260	248	1024				8	55																	88	20	1	Moditemenresfiresk	Moditemenresfiresk									0
 item_pierce_ltng	307			1	9											1207	240	1024				8	55																	88	20	1	Moditemenresltngsk	Moditemenresltngsk									0
@@ -429,8 +429,8 @@ increasedmeleedamage	426	Base Melee Damage: +X%		1													0	1024					0					
 increasedrangeddamage	427	Base Ranged Damage: +X%		1													0	1024					0																														0
 doublestaticdamage	428	Static field mult, must be 15!		1													0	1024					0																														0
 skill_extra_golem	429			1	8												0	1024				8	0																	25	1	1	ModStrMinion	ModStrMinion									0
-unused430	430			1													0	1024					0																														0
-unused431	431			1													0	1024					0																														0
+volcano_enabler1	430			1	9											172	34	1024		8	0	8	55																	777	3	0	volcanoenablestr	volcanoenablestr									0
+reduced_cooldown	431	CDR		1													0	1024					0																														0
 unused432	432			1													0	1024					0																														0
 unused433	433			1													0	1024					0																														0
 unused434	434			1													0	1024					0																														0

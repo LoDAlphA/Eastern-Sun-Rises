@@ -430,7 +430,7 @@ increasedrangeddamage	427	Base Ranged Damage: +X%		1													0	1024					0			
 doublestaticdamage	428	Static field mult, must be 15!		1													0	1024					0																														0
 skill_extra_golem	429			1	8												0	1024				8	0																	25	1	1	ModStrMinion	ModStrMinion									0
 volcano_enabler1	430			1	9											172	34	1024		8	0	8	55																	777	3	0	volcanoenablestr	volcanoenablestr									0
-unused431	431			1													0	1024					0																														0
+reduced_cooldown	431	CDR		1													0	1024					0																														0
 unused432	432			1													0	1024					0																														0
 unused433	433			1													0	1024					0																														0
 unused434	434			1													0	1024					0																														0

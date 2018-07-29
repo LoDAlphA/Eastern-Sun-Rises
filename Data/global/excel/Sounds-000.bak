@@ -331,7 +331,7 @@ impact_claw_4	328	combat\impact\claw4.wav	200	0	0	0	0	0	0	0	0	1	1	0	0	100	0	0	0	
 impact_blunt_1	329	combat\impact\blunt3.wav	255	3	0	0	0	0	0	0	0	1	1	0	0	100	0	0	0	0	0	-1	-1	-1
 impact_blunt_2	330	combat\impact\blunt5.wav	255	0	0	0	0	0	0	0	0	1	1	0	0	100	0	0	0	0	0	-1	-1	-1
 impact_blunt_3	331	combat\impact\blunt6.wav	255	0	0	0	0	0	0	0	0	1	1	0	0	100	0	0	0	0	0	-1	-1	-1
-impact_blunt_4	332	none.wav	255	0	0	0	0	0	0	0	0	1	1	0	0	100	0	0	0	0	0	-1	-1	-1
+impact_blunt_4	332	combat\impact\blunt heavy3.wav	255	0	0	0	0	0	0	0	0	1	1	0	0	100	0	0	0	0	0	-1	-1	-1
 impact_blunt_5	333	none.wav	255	0	0	0	0	0	0	0	0	1	1	0	0	100	0	0	0	0	0	-1	-1	-1
 impact_blunt_6	334	none.wav	255	0	0	0	0	0	0	0	0	1	1	0	0	100	0	0	0	0	0	-1	-1	-1
 impact_blade_thrust_1	335	combat\impact\stab1.wav	180	5	0	0	0	0	0	0	0	1	1	0	0	100	0	0	0	0	0	-1	-1	-1
@@ -4730,3 +4730,14 @@ eshift_cast	4727	skill\necromancer\eshift_cast.wav	255	0	0	0	0	0	0	0	4	1	1	0	0	2
 incure_cast	4728	skill\amazon\incure_cast.wav	255	0	0	0	0	0	0	0	4	1	1	0	0	255	0	0	1	0	0	-1	-1	-1
 summon_corpses	4729	skill\necromancer\summon_corpses.wav	255	0	0	0	0	0	0	0	4	1	1	0	0	255	0	0	1	0	0	-1	-1	-1
 handofdemon	4730	skill\necromancer\handofdemon.wav	255	0	0	0	0	0	0	0	4	1	1	0	0	255	0	0	1	0	0	-1	-1	-1
+mats_attack1	4731	monster\Matsari\mats_attack1.wav	255	0	0	0	0	1	0	0	0	1	1	0	0	100	0	0	1	0	0	-1	-1	-1
+mats_attack2	4732	monster\Matsari\mats_attack2.wav	255	0	0	0	0	1	0	0	0	1	1	0	0	100	0	0	1	0	0	-1	-1	-1
+mats_death	4733	monster\Matsari\mats_death.wav	255	0	0	0	0	1	0	0	0	1	1	0	0	100	0	0	1	0	0	-1	-1	-1
+mats_gethit	4734	monster\Matsari\mats_gethit.wav	255	0	0	0	0	1	0	0	0	1	1	0	0	100	0	0	1	0	0	-1	-1	-1
+mats_neutral1	4735	monster\Matsari\mats_neutral1.wav	255	0	0	0	0	0	0	0	4	1	1	0	0	255	0	0	1	0	0	-1	-1	-1
+summon_mats	4736	skill\paladin\summon_mats.wav	255	0	0	0	0	0	0	0	4	1	1	0	0	255	0	0	1	0	0	-1	-1	-1
+elem_attack1	4737	monster\Wereelem\elem_attack1.wav	255	0	0	0	0	1	0	0	0	1	1	0	0	100	0	0	1	0	0	-1	-1	-1
+elem_attack2	4738	monster\Wereelem\elem_attack2.wav	255	0	0	0	0	1	0	0	0	1	1	0	0	100	0	0	1	0	0	-1	-1	-1
+elem_death	4739	monster\Wereelem\elem_death.wav	255	0	0	0	0	1	0	0	0	1	1	0	0	100	0	0	1	0	0	-1	-1	-1
+elem_gethit	4740	monster\Wereelem\elem_gethit.wav	255	0	0	0	0	1	0	0	0	1	1	0	0	100	0	0	1	0	0	-1	-1	-1
+elem_neutral	4741	monster\Wereelem\elem_neutral.wav	255	0	0	0	0	0	0	0	0	1	1	0	0	255	0	0	1	0	0	-1	-1	-1
