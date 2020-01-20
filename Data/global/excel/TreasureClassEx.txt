@@ -39,7 +39,7 @@ DDD5			-5						ddd	1	ddd	1	ddd	1	ddd	1	ddd	1
 DDD4			-4						ddd	1	ddd	1	ddd	1	ddd	1																
 DDD3			-3						ddd	1	ddd	1	ddd	1																		
 DDD2			-2						ddd	1	ddd	1																				
-DDD1			-1						ddd	64	DDD2	16	DDD3	8	DDD4	4	DDD5	2	DDD6	1												
+DDD1			1						ddd	64	DDD2	16	DDD3	8	DDD4	4	DDD5	2	DDD6	1												
 Jewelry A			1						Rings	72	Amulets	48	jew	36	ppp	9	cx1	24	cx2	24	cx3	24	DDD1	18	sdo	1						0
 Jewelry B			1						Jewelry A	129	Unique Charm 1	1																				0
 Jewelry C			1						Jewelry A	129	Unique Charm 2	1																				0
