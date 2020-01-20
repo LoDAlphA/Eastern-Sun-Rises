@@ -643,7 +643,7 @@ Seal			3						Act 4 Ultra	900	Uni Ore 2	1																				0
 Seal (N)			3						Act 4 (N) Ultra	600	Uni Ore 2	1																				0
 Seal (H)			3						Act 4 (H) Ultra	300	Uni Ore 2	1																				0
 Cow King			5						Act 5 Ultra	1																						0
-Cow King (N)			5						Act 5 (H) Ultra	1																						0
+Cow King (N)			5						Act 5 (N) Ultra	1																						0
 Cow King (H)			5						Act 5 (H) Ultra	1																						0
 Treant King			6						Act 5 Uber	1080	Uni Ore 10	1																				0
 Treant King (N)			6						Act 5 (N) Uber	720	Uni Ore 10	1																				0
