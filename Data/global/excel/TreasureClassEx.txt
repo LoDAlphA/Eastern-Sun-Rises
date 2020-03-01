@@ -216,11 +216,16 @@ Sbarbh			-3						Barbarian's Point-H	1	Barbarian's Shelter-H	1	Barbarian's Visag
 Sets01			1	0	1024				Sauto	1	Sarctic	1	Sdeath	1	Sberserker	1	Shsaru	1	Sinfernal	1	Smilabrega	1	Sarcanna	1								0
 Sets02			1	0	1024				Sroguen	1	Sets01	18																				0
 Sets03			1	0	1024				Sachilles	1	Sgabrielle	1	Svega	1	Smess	1	Sblackwing	1	Srathol	1	Styrael	1	Stara	1	Sdesertn	1	Sets02	25				0
-Sets04			1	0	1024				Sdiablo	1	Slixo	1	Smotoko	1	Skain	1	Sdanarak	1	Swrath	1	Sanduin	1	Snaj	1	Swolfn	1	Sbarbn	1	Sets03	50		0
-Sets05			1	0	1024				Splanet	1	Saanna	1	Salora	1	Skrakerage	1	Smerlin	1	Slich	1	Smalek	1	Sdivada	1	Sroguenm	1	Sdesertnm	1	Sets04	75		0
-Sets06			1	0	1024				Swaves	1	Salaziel	1	Ssascha	1	Sdarkshade	1	Snature	1	Snupraptor	1	Slancelot	1	Sraistlin	1	Swolfnm	1	Sbarbnm	1	Sets05	100		0
-Sets07			1	0	1024				Sshepherd	1	Snoir	1	Sihsan	1	Shurja	1	Sjaheira	1	Slimdul	1	Sgriffith	1	Sjade	1	Srogueh	1	Sdeserth	1	Sets06	125		0
-Sets08			1	0	1024				Stass	1	Smilea	1	Sborik	1	Ssarevok	1	Snatrule	1	Sbrotherhood	1	Sdarien	1	Sarion	1	Swolfh	1	Sbarbh	1	Sets07	150		0
+Sets04a			1	0	1024				Sdiablo	1	Slixo	1	Smotoko	1	Skain	1	Sdanarak	1	Sets03	50												0
+Sets04b			1	0	1024				Swrath	1	Sanduin	1	Snaj	1	Swolfn	1	Sbarbn	1	Sets04a	55												0
+Sets05a			1	0	1024				Splanet	1	Saanna	1	Salora	1	Skrakerage	1	Smerlin	1	Sets04b	75												0
+Sets05b			1	0	1024				Slich	1	Smalek	1	Sdivada	1	Sroguenm	1	Sdesertnm	1	Sets05a	80												0
+Sets06a			1	0	1024				Swaves	1	Salaziel	1	Ssascha	1	Sdarkshade	1	Snature	1	Sets05b	100												0
+Sets06b			1	0	1024				Snupraptor	1	Slancelot	1	Sraistlin	1	Swolfnm	1	Sbarbnm	1	Sets06a	105												0
+Sets07a			1	0	1024				Sshepherd	1	Snoir	1	Sihsan	1	Shurja	1	Sjaheira	1	Sets06b	125												0
+Sets07b			1	0	1024				Slimdul	1	Sgriffith	1	Sjade	1	Srogueh	1	Sdeserth	1	Sets07a	130												0
+Sets08a			1	0	1024				Stass	1	Smilea	1	Sborik	1	Ssarevok	1	Snatrule	1	Sets07b	150												0
+Sets08b			1	0	1024				Sbrotherhood	1	Sdarien	1	Sarion	1	Swolfh	1	Sbarbh	1	Sets08a	155												0
 Act 1 UGood			1						Act 1 Good	240	Sets01	1	Rune JP (Norm)	2	Coupon JP (Norm)	2																0
 Act 2 UGood			1						Act 2 Good	240	Sets01	1	Rune JP (Norm)	2	Coupon JP (Norm)	2																0
 Act 3 UGood			1						Act 3 Good	240	Sets02	1	Rune JP (Norm)	2	Coupon JP (Norm)	2																0
@@ -591,9 +596,9 @@ HoD (H)			1						hh2	1																						0
 Bloodwitch the Wild			-2						Act 2 Super A	1	HoD	1																				0
 Bloodwitch the Wild (N)			-2						Act 2 (N) Super A	1	HoD (N)	1																				0
 Bloodwitch the Wild (H)			-2						Act 2 (H) Super A	1	HoD (H)	1																				0
-Treehead WoodFist			-3						Act 1 Super C	1		1																				0
-Treehead WoodFist (N)			-3						Act 1 (N) Super C	1		1																				0
-Treehead WoodFist (H)			-3						Act 1 (H) Super C	1		1																				0
+Treehead WoodFist			3						Act 1 Super C	1		1																				0
+Treehead WoodFist (N)			3						Act 1 (N) Super C	1		1																				0
+Treehead WoodFist (H)			3						Act 1 (H) Super C	1		1																				0
 Act 1 Ultra			1	944	944	944	1024	25	"gld,mul=2048"	15	Act 1 Equip C	50	Act 1 Junk	5	Act 1 UGood	5																0
 Act 2 Ultra			1	944	944	944	1024	25	"gld,mul=2048"	15	Act 2 Equip C	50	Act 2 Junk	5	Act 2 UGood	5																0
 Act 3 Ultra			1	944	944	944	1024	25	"gld,mul=2048"	15	Act 3 Equip C	50	Act 3 Junk	5	Act 3 UGood	5																0
