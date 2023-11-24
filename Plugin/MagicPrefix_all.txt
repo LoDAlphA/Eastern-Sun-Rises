@@ -1,0 +1,809 @@
+id	Name	Rare	Lvl	Req Lvl	Rarity	Stats	Item Type
+1	Sturdy	1	1 - 19	1	28	ac% (10 - 20)  	armo
+2	Sturdy	1	4 - 25	3	28	ac% (21 - 30)  	armo
+3	Strong	1	9 - 31	6	28	ac% (31 - 40)  	armo
+4	Glorious	1	19 - 36	14	28	ac% (41 - 50)  	armo
+5	Blessed	1	25 - 48	18	28	ac% (51 - 65)  	armo
+6	Saintly	1	31 - 60	23	28	ac% (66 - 80)  	armo
+7	Holy	1	36	27	28	ac% (81 - 125)  	armo
+8	Awesome	1	48	32	28	ac% (126 - 150)  	armo
+9	Godly	1	60	38	28	ac% (151 - 200)  	armo
+10	Devious	1	7	5	20	red-mag (1 - 1)  	tors shld circ staf wand mana
+11	Blank	1	14	10	20	red-mag (2 - 2)  	tors shld circ staf wand mana
+12	Null	1	21	16	20	red-mag (3 - 5)  	tors shld circ staf wand mana
+13	Antimagic	1	28	21	20	red-mag (6 - 10)  	tors shld circ staf wand mana
+14	Jagged	1	1 - 14	1	42	dmg% (10 - 20)  	weap circ      staf
+15	Deadly	1	5 - 20	3	42	dmg% (21 - 30)  	weap circ      staf
+16	Vicious	1	8 - 26	6	42	dmg% (31 - 40)  	weap       staf
+17	Brutal	1	14 - 32	10	42	dmg% (41 - 50)  	weap       staf
+18	Massive	1	20 - 39	15	42	dmg% (51 - 65)  	weap       staf
+19	Savage	1	26 - 45	19	42	dmg% (66 - 80)  	weap       staf
+20	Merciless	1	32 - 51	24	42	dmg% (81 - 100)  	weap       staf
+21	Ruthless	1	39	33	42	dmg% (101 - 150)  	weap       staf
+22	Ferocious	1	45	40	42	dmg% (151 - 200)  	weap       staf
+23	Cruel	1	51	46	42	dmg% (201 - 300)  	weap       staf
+24	Bloodlust		75	50	14	dmg% (400 - 400) howl (128 - 128) regen (-8 - -8)	mele       staf
+25	Vulpine	1	9	6	18	dmg-to-mana (7 - 12)  	shld amul staf wand mana
+26	White	1	18	12	18	dmg-to-mana (14 - 24)  	shld amul staf wand mana
+27	Tireless	1	6 - 27	4	16	regen-stam (25 - 25)  	boot
+28	Tireless	1	14 - 50	10	16	regen-stam (50 - 50)  	boot
+29	Rugged	1	1 - 16	1	16	stam (5 - 10)  	boot belt ring amul circ glov
+30	Rugged	1	8 - 32	6	16	stam (11 - 20)  	boot belt ring amul circ
+31	Vigorous	1	16 - 50	12	16	stam (21 - 30)  	boot belt
+32	Bronze	1	1 - 8	1	22	att (10 - 20)  	weap ring circ amul glov   staf
+33	Iron	1	4 - 12	3	22	att (21 - 40)  	weap ring circ     staf
+34	Steel	1	8 - 17	6	22	att (41 - 60)  	weap ring circ     staf
+35	Silver	1	12 - 22	9	22	att (61 - 80)  	weap ring circ     staf
+36	Gold	1	17 - 27	12	22	att (81 - 100)  	weap ring circ     staf
+37	Platinum	1	22 - 32	16	22	att (101 - 120)  	weap ring circ     staf
+38	Meteoric	1	27	20	22	att (121 - 150)  	weap ring      staf
+39	Strange	1	32	24	22	att (151 - 300)  	weap       staf
+40	Weird	1	37	27	22	att (301 - 450)  	weap       staf
+41	Sharp	1	5 - 27	3	35	att (10 - 20) dmg% (10 - 20) 	weap       staf
+42	Fine	1	12 - 38	9	35	att (21 - 40) dmg% (21 - 30) 	weap       staf
+43	Warrior's	1	19 - 47	13	35	att (41 - 60) dmg% (31 - 40) 	weap       staf
+44	Soldier's	1	27 - 56	19	35	att (61 - 80) dmg% (41 - 50) 	weap       staf
+45	Knight's	1	38 - 63	30	35	att (81 - 100) dmg% (51 - 65) 	weap       staf
+46	Lord's	1	47 - 69	39	35	att (101 - 120) dmg% (66 - 80) 	weap       staf
+47	King's	1	56	48	35	att (121 - 150) dmg% (81 - 100) 	weap       staf
+48	Master's	1	63	48	35	att (151 - 250) dmg% (101 - 150) 	weap       staf
+49	Grandmaster's	1	69	61	35	att (251 - 300) dmg% (151 - 200) 	weap       staf
+50	Glimmering	1	1 - 10	1	14	light (1 - 1) 2 att/lvl 	armo staf mana wand ring amul
+51	Glowing	1	6 - 15	4	14	light (2 - 2) 4 att/lvl 	armo staf mana wand ring amul
+52
+53
+54
+55
+56
+57
+58	Felicitous	1	5	3	18	mag% (5 - 12)  	ring amul circ staf wand mana
+59	Fortuitous	1	12	8	18	mag% (13 - 20)  	ring amul circ staf wand mana
+60	Lizard's	1	3 - 14	2	20	mana (3 - 5)  	staf wand ring amul armo mana
+61	Snake's	1	6 - 20	4	20	mana (5 - 10)  	staf wand ring amul armo mana
+62	Serpent's	1	14 - 24	10	20	mana (11 - 20)  	staf wand ring amul armo mana
+63	Drake's	1	20 - 30	15	20	mana (21 - 30)  	staf wand ring amul armo mana
+64	Dragon's	1	24 - 37	18	20	mana (31 - 40)  	staf wand ring amul armo mana
+65	Wyrm's	1	30	22	20	mana (41 - 60)  	staf wand ring amul armo mana
+66	Great Wyrm's	1	37	29	20	mana (61 - 90)  	staf wand ring amul armo mana
+67	Bahamut's		45	37	20	mana (91 - 120)  	staf wand ring amul armo mana
+68	Shimmering	1	6 - 28	4	22	res-all (3 - 7)  	amul circ ring
+69	Rainbow	1	18 - 39	13	22	res-all (8 - 11)  	amul circ ring
+70	Scintillating	1	28	21	22	res-all (12 - 15)  	amul circ ring
+71	Prismatic	1	39	31	22	res-all (16 - 20)  	amul circ
+72	Chromatic		50	42	22	res-all (21 - 30)  	amul circ
+73	Shimmering	1	6 - 28	4	28	res-all (3 - 14)  	shld
+74	Rainbow	1	18 - 39	13	28	res-all (15 - 22)  	shld
+75	Scintillating	1	28	21	28	res-all (23 - 30)  	shld
+76	Prismatic	1	39	31	28	res-all (31 - 40)  	shld
+77	Chromatic		50	42	28	res-all (41 - 60)  	shld
+78	Azure	1	5 - 30	3	18	res-cold (5 - 10)  	amul circ ring armo
+79	Lapis	1	12 - 45	9	18	res-cold (11 - 20)  	amul circ ring armo
+80	Cobalt	1	18	13	18	res-cold (21 - 30)  	amul circ ring armo
+81	Sapphire	1	25	18	18	res-cold (31 - 40)  	amul circ boot
+82	Crimson	1	5 - 30	3	18	res-fire (5 - 10)  	amul circ ring armo
+83	Russet	1	12 - 45	9	18	res-fire (11 - 20)  	amul circ ring armo
+84	Garnet	1	18	13	18	res-fire (21 - 30)  	amul circ ring armo
+85	Ruby	1	25	18	18	res-fire (31 - 40)  	amul circ boot
+86	Tangerine	1	5 - 30	3	18	res-ltng (5 - 10)  	amul circ ring armo
+87	Ocher	1	12 - 45	9	18	res-ltng (11 - 20)  	amul circ ring armo
+88	Coral	1	18	13	18	res-ltng (21 - 30)  	amul circ ring armo
+89	Amber	1	25	18	18	res-ltng (31 - 40)  	amul circ boot
+90	Beryl	1	5 - 30	3	18	res-pois (5 - 10)  	amul circ ring armo
+91	Viridian	1	12 - 45	9	18	res-pois (11 - 20)  	amul circ ring armo
+92	Jade	1	18	13	18	res-pois (21 - 30)  	amul circ ring armo
+93	Emerald	1	25	18	18	res-pois (31 - 40)  	amul circ boot
+94	Triumphant	1	3 - 20	2	18	mana-kill (1 - 1)  	weap circ ring
+95	Victorious	1	17 - 40	12	18	mana-kill (2 - 4)  	weap circ ring
+96	Champion's	1	30	20	18	mana-kill (5 - 8)  	weap circ ring
+97	Mechanist's	1	52	47	16	sock (2 - 2)  	glov belt boot
+98	Mechanist's	1	52	47	16	sock (3 - 3)  	weap tors shld helm
+99	Jeweler's		39	27	20	sock (3 - 3)  	weap tors shld helm
+100	Jeweler's		50	37	20	sock (4 - 4)  	weap tors shld helm
+101	Jeweler's		61	47	16	sock (5 - 5)  	weap tors
+102	Jeweler's		72	57	12	sock (6 - 6)  	weap tors
+103	Assamic	1	1 - 20	1	14	att-demon (25 - 50) dmg-demon (25 - 50) 	weap circ      staf
+104	Arcadian	1	15 - 30	11	14	att-demon (51 - 100) dmg-demon (51 - 100) 	weap circ      staf
+105	Unearthly	1	25 - 40	18	14	att-demon (101 - 150) dmg-demon (101 - 150) 	weap       staf
+106	Astral	1	35	27	14	att-demon (151 - 250) dmg-demon (151 - 250) 	weap       staf
+107	Elysian	1	45	37	14	att-demon (256 - 400) dmg-demon (256 - 400) 	weap       staf
+108	Consecrated	1	1 - 20	1	14	att-undead (25 - 50) dmg-undead (25 - 50) 	weap circ      staf
+109	Pure	1	15 - 30	11	14	att-undead (51 - 100) dmg-undead (51 - 100) 	weap       staf
+110	Sacred	1	25 - 40	18	14	att-undead (101 - 150) dmg-undead (101 - 150) 	weap       staf
+111	Hallowed	1	35	27	14	att-undead (151 - 250) dmg-undead (151 - 250) 	weap       staf
+112	Divine	1	45	37	14	att-undead (256 - 400) dmg-undead (256 - 400) 	weap       staf
+113	Fletcher's	1	20	15	17	0 skilltab (1 - 1)  	amul circ glov miss scrn
+114	Bowyer's	1	40	30	17	0 skilltab (2 - 2)  	amul circ glov miss scrn
+115	Archer's	1	60	45	17	0 skilltab (3 - 3)  	amul circ glov miss scrn
+116	Acrobat's	1	20	15	17	1 skilltab (1 - 1)  	amul circ glov scrn
+117	Gymnast's	1	40	30	17	1 skilltab (2 - 2)  	amul circ glov scrn
+118	Athlete's	1	60	45	17	1 skilltab (3 - 3)  	amul circ glov scrn
+119	Harpoonist's	1	20	15	17	2 skilltab (1 - 1)  	amul circ glov spea scrn
+120	Spearmaiden's	1	40	30	17	2 skilltab (2 - 2)  	amul circ glov spea scrn
+121	Lancer's	1	60	45	17	2 skilltab (3 - 3)  	amul circ glov spea scrn
+122	Burning	1	20	15	17	3 skilltab (1 - 1)  	amul circ glov staf mana robe
+123	Blazing	1	40	30	17	3 skilltab (2 - 2)  	amul circ glov staf mana robe
+124	Volcanic	1	60	45	17	3 skilltab (3 - 3)  	amul circ glov staf mana robe
+125	Sparking	1	20	15	17	4 skilltab (1 - 1)  	amul circ glov staf mana robe
+126	Charged	1	40	30	17	4 skilltab (2 - 2)  	amul circ glov staf mana robe
+127	Powered	1	60	45	17	4 skilltab (3 - 3)  	amul circ glov staf mana robe
+128	Chilling	1	20	15	17	5 skilltab (1 - 1)  	amul circ glov staf mana robe
+129	Freezing	1	40	30	17	5 skilltab (2 - 2)  	amul circ glov staf mana robe
+130	Glacial	1	60	45	17	5 skilltab (3 - 3)  	amul circ glov staf mana robe
+131	Hexing	1	20	15	17	6 skilltab (1 - 1)  	amul circ glov head wand
+132	Blighting	1	40	30	17	6 skilltab (2 - 2)  	amul circ glov head wand
+133	Accursed	1	60	45	17	6 skilltab (3 - 3)  	amul circ glov head wand
+134	Fungal	1	20	15	17	7 skilltab (1 - 1)  	amul circ glov head wand knif
+135	Noxious	1	40	30	17	7 skilltab (2 - 2)  	amul circ glov head wand knif
+136	Venomous	1	60	45	17	7 skilltab (3 - 3)  	amul circ glov head wand knif
+137	Graverobber's	1	20	15	17	8 skilltab (1 - 1)  	amul circ glov head wand
+138	Vodoun	1	40	30	17	8 skilltab (2 - 2)  	amul circ glov head wand
+139	Golemlord's	1	60	45	17	8 skilltab (3 - 3)  	amul circ glov head wand
+140	Lion Branded	1	20	15	17	9 skilltab (1 - 1)  	amul circ glov shld scep
+141	Hawk Branded	1	40	30	17	9 skilltab (2 - 2)  	amul circ glov shld scep
+142	Rose Branded	1	60	45	17	9 skilltab (3 - 3)  	amul circ glov shld scep
+143	Captain's	1	20	15	17	10 skilltab (1 - 1)  	amul circ glov shld scep
+144	Commander's	1	40	30	17	10 skilltab (2 - 2)  	amul circ glov shld scep
+145	Marshal's	1	60	45	17	10 skilltab (3 - 3)  	amul circ glov shld scep
+146	Preserver's	1	20	15	17	11 skilltab (1 - 1)  	amul circ glov shld scep
+147	Warder's	1	40	30	17	11 skilltab (2 - 2)  	amul circ glov shld scep
+148	Guardian's	1	60	45	17	11 skilltab (3 - 3)  	amul circ glov shld scep
+149	Expert's	1	20	15	17	12 skilltab (1 - 1)  	amul circ glov phlm mele   rod
+150	Veteran's	1	40	30	17	12 skilltab (2 - 2)  	amul circ glov phlm mele   rod
+151	Master's	1	60	45	17	12 skilltab (3 - 3)  	amul circ glov phlm mele   rod
+152	Fanatic	1	20	15	17	13 skilltab (1 - 1)  	amul circ glov phlm mele taxe bjav rod
+153	Raging	1	40	30	17	13 skilltab (2 - 2)  	amul circ glov phlm mele taxe bjav rod
+154	Furious	1	60	45	17	13 skilltab (3 - 3)  	amul circ glov phlm mele taxe bjav rod
+155	Sounding	1	20	15	17	14 skilltab (1 - 1)  	amul circ glov phlm mele taxe bjav rod
+156	Resonant	1	40	30	17	14 skilltab (2 - 2)  	amul circ glov phlm mele taxe bjav rod
+157	Echoing	1	60	45	17	14 skilltab (3 - 3)  	amul circ glov phlm mele taxe bjav rod
+158	Trainer's	1	20	15	17	15 skilltab (1 - 1)  	amul circ glov club pelt
+159	Caretaker's	1	40	30	17	15 skilltab (2 - 2)  	amul circ glov club pelt
+160	Keeper's	1	60	45	17	15 skilltab (3 - 3)  	amul circ glov club pelt
+161	Spiritual	1	20	15	17	16 skilltab (1 - 1)  	amul circ glov club pelt
+162	Feral	1	40	30	17	16 skilltab (2 - 2)  	amul circ glov club pelt
+163	Communal	1	60	45	17	16 skilltab (3 - 3)  	amul circ glov club pelt
+164	Nature's	1	20	15	17	17 skilltab (1 - 1)  	amul circ glov club pelt
+165	Terra's	1	40	30	17	17 skilltab (2 - 2)  	amul circ glov club pelt
+166	Gaea's	1	60	45	17	17 skilltab (3 - 3)  	amul circ glov club pelt
+167	Entrapping	1	20	15	17	18 skilltab (1 - 1)  	amul circ glov claw asnx tkni cloa
+168	Trickster's	1	40	30	17	18 skilltab (2 - 2)  	amul circ glov claw asnx tkni cloa
+169	Cunning	1	60	45	17	18 skilltab (3 - 3)  	amul circ glov claw asnx tkni cloa
+170	Mentalist's	1	20	15	17	19 skilltab (1 - 1)  	amul circ glov claw asnx cloa
+171	Psychic	1	40	30	17	19 skilltab (2 - 2)  	amul circ glov claw asnx cloa
+172	Shadow	1	60	45	17	19 skilltab (3 - 3)  	amul circ glov claw asnx cloa
+173	Shogukusha's	1	20	15	17	20 skilltab (1 - 1)  	amul circ glov claw asnx cloa
+174	Sensei's	1	40	30	17	20 skilltab (2 - 2)  	amul circ glov claw asnx cloa
+175	Kenshi's	1	60	45	17	20 skilltab (3 - 3)  	amul circ glov claw asnx cloa
+176	Maiden's	1	36	30	16	ama (1 - 1)  	amul circ ring scrn
+177	Maiden's	1	36	30	2	ama (1 - 1) 0 skilltab (1 - 2) 	amul circ ring scrn
+178	Maiden's	1	36	30	2	ama (1 - 1) 1 skilltab (1 - 2) 	amul circ ring scrn
+179	Maiden's	1	36	30	2	ama (1 - 1) 2 skilltab (1 - 2) 	amul circ ring scrn
+180	Valkyrie's	1	90	67	15	ama (2 - 2)  	amul circ scrn
+181	Valkyrie's	1	90	67	1	ama (2 - 2) 0 skilltab (1 - 2) 	amul circ scrn
+182	Valkyrie's	1	90	67	1	ama (2 - 2) 1 skilltab (1 - 2) 	amul circ scrn
+183	Valkyrie's	1	90	67	1	ama (2 - 2) 2 skilltab (1 - 2) 	amul circ scrn
+184	Valkyrie's		90	67	14	ama (3 - 3)  	amul circ scrn
+185	Angel's	1	36	30	16	sor (1 - 1)  	amul circ ring
+186	Angel's	1	36	30	2	sor (1 - 1) 3 skilltab (1 - 2) 	amul circ ring
+187	Angel's	1	36	30	2	sor (1 - 1) 4 skilltab (1 - 2) 	amul circ ring
+188	Angel's	1	36	30	2	sor (1 - 1) 5 skilltab (1 - 2) 	amul circ ring
+189	Arch-Angel's	1	90	67	15	sor (2 - 2)  	amul circ
+190	Arch-Angel's	1	90	67	1	sor (2 - 2) 3 skilltab (1 - 2) 	amul circ
+191	Arch-Angel's	1	90	67	1	sor (2 - 2) 4 skilltab (1 - 2) 	amul circ
+192	Arch-Angel's	1	90	67	1	sor (2 - 2) 5 skilltab (1 - 2) 	amul circ
+193	Arch-Angel's		90	67	14	sor (3 - 3)  	amul circ
+194	Summoner's	1	36	30	16	nec (1 - 1)  	amul circ ring
+195	Summoner's	1	36	30	2	nec (1 - 1) 6 skilltab (1 - 2) 	amul circ ring
+196	Summoner's	1	36	30	2	nec (1 - 1) 7 skilltab (1 - 2) 	amul circ ring
+197	Summoner's	1	36	30	2	nec (1 - 1) 8 skilltab (1 - 2) 	amul circ ring
+198	Necromancer's	1	90	67	15	nec (2 - 2)  	amul circ
+199	Necromancer's	1	90	67	1	nec (2 - 2) 6 skilltab (1 - 2) 	amul circ
+200	Necromancer's	1	90	67	1	nec (2 - 2) 7 skilltab (1 - 2) 	amul circ
+201	Necromancer's	1	90	67	1	nec (2 - 2) 8 skilltab (1 - 2) 	amul circ
+202	Necromancer's		90	67	14	nec (3 - 3)  	amul circ
+203	Monk's	1	36	30	16	pal (1 - 1)  	amul circ ring
+204	Monk's	1	36	30	2	pal (1 - 1) 9 skilltab (1 - 2) 	amul circ ring
+205	Monk's	1	36	30	2	pal (1 - 1) 10 skilltab (1 - 2) 	amul circ ring
+206	Monk's	1	36	30	2	pal (1 - 1) 11 skilltab (1 - 2) 	amul circ ring
+207	Priest's	1	90	67	15	pal (2 - 2)  	amul circ
+208	Priest's	1	90	67	1	pal (2 - 2) 9 skilltab (1 - 2) 	amul circ
+209	Priest's	1	90	67	1	pal (2 - 2) 10 skilltab (1 - 2) 	amul circ
+210	Priest's	1	90	67	1	pal (2 - 2) 11 skilltab (1 - 2) 	amul circ
+211	Priest's		90	67	14	pal (3 - 3)  	amul circ
+212	Slayer's	1	36	30	16	bar (1 - 1)  	amul circ ring
+213	Slayer's	1	36	30	2	bar (1 - 1) 12 skilltab (1 - 2) 	amul circ ring
+214	Slayer's	1	36	30	2	bar (1 - 1) 13 skilltab (1 - 2) 	amul circ ring
+215	Slayer's	1	36	30	2	bar (1 - 1) 14 skilltab (1 - 2) 	amul circ ring
+216	Berserker's	1	90	67	15	bar (2 - 2)  	amul circ
+217	Berserker's	1	90	67	1	bar (2 - 2) 12 skilltab (1 - 2) 	amul circ
+218	Berserker's	1	90	67	1	bar (2 - 2) 13 skilltab (1 - 2) 	amul circ
+219	Berserker's	1	90	67	1	bar (2 - 2) 14 skilltab (1 - 2) 	amul circ
+220	Berserker's		90	67	14	bar (3 - 3)  	amul circ
+221	Shaman's	1	36	30	16	dru (1 - 1)  	amul circ ring
+222	Shaman's	1	36	30	2	dru (1 - 1) 15 skilltab (1 - 2) 	amul circ ring
+223	Shaman's	1	36	30	2	dru (1 - 1) 16 skilltab (1 - 2) 	amul circ ring
+224	Shaman's	1	36	30	2	dru (1 - 1) 17 skilltab (1 - 2) 	amul circ ring
+225	Hierophant's	1	90	67	15	dru (2 - 2)  	amul circ
+226	Hierophant's	1	90	67	1	dru (2 - 2) 15 skilltab (1 - 2) 	amul circ
+227	Hierophant's	1	90	67	1	dru (2 - 2) 16 skilltab (1 - 2) 	amul circ
+228	Hierophant's	1	90	67	1	dru (2 - 2) 17 skilltab (1 - 2) 	amul circ
+229	Hierophant's		90	67	14	dru (3 - 3)  	amul circ
+230	Magekiller's	1	36	30	16	ass (1 - 1)  	amul circ ring
+231	Magekiller's	1	36	30	2	ass (1 - 1) 18 skilltab (1 - 2) 	amul circ ring
+232	Magekiller's	1	36	30	2	ass (1 - 1) 19 skilltab (1 - 2) 	amul circ ring
+233	Magekiller's	1	36	30	2	ass (1 - 1) 20 skilltab (1 - 2) 	amul circ ring
+234	Witch-hunter's	1	90	67	15	ass (2 - 2)  	amul circ
+235	Witch-hunter's	1	90	67	1	ass (2 - 2) 18 skilltab (1 - 2) 	amul circ
+236	Witch-hunter's	1	90	67	1	ass (2 - 2) 19 skilltab (1 - 2) 	amul circ
+237	Witch-hunter's	1	90	67	1	ass (2 - 2) 20 skilltab (1 - 2) 	amul circ
+238	Witch-hunter's		90	67	14	ass (3 - 3)  	amul circ
+239	Maiden's	1	30	22	22	ama (1 - 1)  	miss spea
+240	Valkyrie's	1	50	42	18	ama (2 - 2)  	miss spea
+241	Angel's	1	30	22	22	sor (1 - 1)  	staf mana
+242	Arch-Angel's	1	50	42	18	sor (2 - 2)  	staf mana
+243	Summoner's	1	30	22	22	nec (1 - 1)  	head wand knif npol
+244	Necromancer's	1	50	42	18	nec (2 - 2)  	head wand knif npol
+245	Monk's	1	30	22	22	pal (1 - 1)  	shld scep
+246	Priest's	1	50	42	18	pal (2 - 2)  	shld scep
+247	Slayer's	1	30	22	22	bar (1 - 1)  	phlm taxe bjav mele    rod
+248	Berserker's	1	50	42	18	bar (2 - 2)  	phlm taxe bjav mele    rod
+249	Shaman's	1	30	22	22	dru (1 - 1)  	club pelt
+250	Hierophant's	1	50	42	18	dru (2 - 2)  	club pelt
+251	Magekiller's	1	30	22	22	ass (1 - 1)  	claw tkni asnx
+252	Witch-hunter's	1	50	42	18	ass (2 - 2)  	claw tkni asnx
+253	Snowflake	1	15 - 30	18	20	cold-len (25 - 25) cold-min (11 - 22) cold-max (22 - 45)	weap circ
+254	Snowflake	1	25 - 45	28	20	cold-len (25 - 25) cold-min (23 - 45) cold-max (46 - 90)	weap circ
+255	Shivering	1	30 - 60	33	20	cold-len (50 - 50) cold-min (46 - 65) cold-max (91 - 130)	weap
+256	Shivering	1	35	38	20	cold-len (50 - 50) cold-min (66 - 90) cold-max (131 - 180)	weap
+257	Boreal	1	45	48	20	cold-len (75 - 75) cold-min (91 - 120) cold-max (181 - 240)	weap
+258	Hibernal		60	63	20	cold-len (100 - 100) cold-min (121 - 150) cold-max (241 - 300)	weap
+259	Ember	1	15 - 30	18	20	fire-min (15 - 30) fire-max (30 - 60) 	weap circ
+260	Smoldering	1	25 - 45	28	20	fire-min (31 - 60) fire-max (61 - 120) 	weap
+261	Smoldering	1	30 - 60	33	20	fire-min (61 - 85) fire-max (121 - 180) 	weap
+262	Smoking	1	35	38	20	fire-min (86 - 120) fire-max (181 - 240) 	weap
+263	Flaming	1	45	48	20	fire-min (121 - 160) fire-max (241 - 300) 	weap
+264	Scorching		60	63	20	fire-min (161 - 200) fire-max (301 - 350) 	weap
+265	Static	1	15 - 30	18	20	ltng-min (1 - 1) ltng-max (45 - 90) 	weap circ
+266	Static	1	25 - 45	28	20	ltng-min (1 - 1) ltng-max (91 - 180) 	weap circ
+267	Glowing	1	30 - 60	33	20	ltng-min (1 - 1) ltng-max (181 - 260) 	weap
+268	Buzzing	1	35	38	20	ltng-min (1 - 1) ltng-max (261 - 360) 	weap
+269	Arcing	1	45	48	20	ltng-min (1 - 1) ltng-max (361 - 480) 	weap
+270	Shocking		60	63	20	ltng-min (1 - 1) ltng-max (481 - 600) 	weap
+271	Septic	1	15 - 30	18	20	50 dmg-pois (308 - 308)  	weap circ
+272	Septic	1	25 - 45	28	20	75 dmg-pois (410 - 410)  	weap circ
+273	Envenomed	1	30 - 60	33	20	100 dmg-pois (461 - 461)  	weap
+274	Corosive	1	35	38	20	125 dmg-pois (492 - 492)  	weap
+275	Toxic	1	45	48	20	150 dmg-pois (547 - 547)  	weap
+276	Pestilent		60	63	20	175 dmg-pois (586 - 586)  	weap
+277	Elusive	1	9 - 15	6	18	ac-miss (20 - 40)  	shld staf wand mana
+278	Evasive	1	9 - 15	6	18	ac-hth (20 - 40)  	tors staf wand mana
+279	Infernal	1	90	60	16	abs-cold% (10 - 15)  	shld tors
+280	Chilling	1	90	60	16	abs-fire% (10 - 15)  	shld tors
+281	Static	1	90	60	16	abs-ltng% (10 - 15)  	shld tors
+282	Bright	1	16 - 45	12	18	hp% (5 - 8)  	staf wand mana tors belt
+283	Solar	1	27	23	18	hp% (9 - 12)  	staf wand mana tors belt
+284	Vivid	1	38	34	18	hp% (13 - 16)  	staf wand mana tors belt
+285	Omniscient	1	16 - 45	12	18	mana% (5 - 8)  	ring amul staf wand mana
+286	Sage	1	27	23	18	mana% (9 - 12)  	ring amul staf wand mana
+287	Shrewd	1	38	34	18	mana% (13 - 16)  	ring amul staf wand mana
+288	Dazzling	1	29	25	18	regen-mana (25 - 25)  	staf wand mana helm ring amul
+289	Fascinating	1	50	50	18	regen-mana (50 - 50)  	staf wand mana helm ring amul
+290	Mighty	1	11 - 30	10	18	str (5 - 5)  	weap armo ring amul
+291	Energizing	1	18 - 45	16	18	str (6 - 10)  	weap armo ring amul
+292	Strengthening	1	23	20	18	str (11 - 15)  	weap armo ring amul
+293	Empowering	1	26	24	18	str (16 - 25)  	weap armo
+294	Titan's	1	45	38	18	str (26 - 30)  	weap armo
+295	Brisk	1	18 - 38	18	20	move1 (10 - 20)  	boot
+296	Swift	1	38	25	20	move2 (20 - 30)  	boot
+297	ArchMage's		75	66	20	mana (30 - 30) mana% (30 - 30) cast3 (30 - 30)	staf mana wand
+298	Knowledgeable	1	35	30	20	allskills (1 - 1)  	weap ring amul armo    glov
+299	Precise	1	10 - 20	12	14	att-undead (60 - 60) att-demon (60 - 60) 	weap       staf
+300	Exacting	1	20 - 30	20	14	att-undead (120 - 120) att-demon (120 - 120) 	weap       staf
+301	Blinding		80	60	18	swing3 (100 - 100)  	mele       staf
+302	Heavy	1	20	1	18	ac% (75 - 75) ease (10 - 10) 	tors shld
+303	Heavy	1	40	1	18	ac% (150 - 150) ease (20 - 20) 	tors shld
+304	Heavy	1	60	1	18	ac% (200 - 200) ease (30 - 30) 	tors shld
+305	Heavy	1	20	1	18	dmg% (75 - 75) ease (10 - 10) 	mele       staf
+306	Heavy	1	40	1	18	dmg% (150 - 150) ease (20 - 20) 	mele       staf
+307	Heavy	1	60	1	18	dmg% (200 - 200) ease (30 - 30) 	mele       staf
+308	Colorful		20 - 40	30	16	dmg-cold (10 - 20) dmg-fire (10 - 20) dmg-ltng (10 - 20)	weap glov ring amul
+309	Colorful		30 - 50	35	16	dmg-cold (20 - 40) dmg-fire (20 - 40) dmg-ltng (20 - 40)	weap glov ring amul
+310	Colorful		40 - 60	40	16	dmg-cold (40 - 60) dmg-fire (40 - 60) dmg-ltng (40 - 60)	weap glov ring amul
+311	Colorful		50	45	16	dmg-cold (60 - 80) dmg-fire (60 - 80) dmg-ltng (60 - 80)	weap glov ring amul
+312	Colorful		60	50	16	dmg-cold (80 - 120) dmg-fire (80 - 120) dmg-ltng (80 - 120)	weap glov ring amul
+313	Horrific	1	25	1	16	red-dmg% (6 - 10)  	tors shld
+314	Horrific	1	50	1	16	red-dmg% (11 - 15)  	tors shld
+315	Horrific		75	1	16	red-dmg% (16 - 20)  	tors shld
+316	Soulless	1	25	1	16	red-dmg (6 - 10)  	tors shld
+317	Soulless	1	50	1	16	red-dmg (11 - 15)  	tors shld
+318	Soulless		75	1	16	red-dmg (16 - 20)  	tors shld
+319	Heartless	1	25	1	16	red-mag (6 - 10)  	tors shld
+320	Heartless	1	50	1	16	red-mag (11 - 15)  	tors shld
+321	Heartless		75	1	16	red-mag (16 - 20)  	tors shld
+322	Miocene	1	1 - 36	1	18	4 ac/lvl  	shld glov belt boot
+323	Oligocene	1	8 - 43	7	18	8 ac/lvl  	shld glov belt boot
+324	Oligocene	1	15 - 50	7	18	12 ac/lvl  	shld glov belt boot
+325	Eocene	1	22 - 57	15	18	16 ac/lvl  	tors
+326	Eocene	1	29	15	18	20 ac/lvl  	tors
+327	Paleocene	1	36	22	18	24 ac/lvl  	tors
+328	Paleocene	1	43	22	18	28 ac/lvl  	tors
+329	Loud	1	1 - 30	1	18	4 dmg%/lvl  	weap       staf
+330	Loud	1	10 - 40	8	18	8 dmg%/lvl  	weap       staf
+331	Calling	1	20 - 50	16	18	12 dmg%/lvl  	weap       staf
+332	Yelling	1	30	24	18	16 dmg%/lvl  	weap       staf
+333	Shouting	1	40	32	18	20 dmg%/lvl  	weap       staf
+334	Screaming	1	50	40	18	24 dmg%/lvl  	weap       staf
+335	Robineye	1	1 - 35	1	16	4 att/lvl  	weap       staf
+336	Sparroweye	1	10 - 50	7	16	6 att/lvl  	weap       staf
+337	Falconeye	1	20	15	16	8 att/lvl  	weap       staf
+338	Hawkeye	1	35	26	16	12 att/lvl  	weap       staf
+339	Eagleeye	1	50	37	16	16 att/lvl  	weap       staf
+340	Visionary	1	25	18	16	2 att%/lvl  	miss helm
+341	Knave's	1	1 - 35	1	18	4 dmg/lvl 2 att/lvl 	weap       staf
+342	Jack's	1	10 - 50	7	18	8 dmg/lvl 4 att/lvl 	weap       staf
+343	Jester's	1	20	15	18	12 dmg/lvl 6 att/lvl 	weap       staf
+344	Joker's	1	35	26	18	16 dmg/lvl 8 att/lvl 	weap       staf
+345	Trump	1	50	37	18	20 dmg/lvl 10 att/lvl 	weap       staf
+346	Mnemonic	1	25	18	16	4 mana/lvl  	helm
+347	Mnemonic	1	50	36	16	8 mana/lvl  	helm
+348	Charms
+349	Dummy	1	1	1	1	  	xcha
+350	Stout	1	1	1	2	ac (6 - 10)  	lcha
+351	Stout	1	7	5	2	ac (11 - 20)  	lcha
+352	Stout	1	12	9	2	ac (21 - 30)  	lcha
+353	Burly	1	17	12	2	ac (31 - 40)  	lcha
+354	Burly	1	22	16	2	ac (41 - 50)  	lcha
+355	Burly	1	27	20	2	ac (51 - 60)  	lcha
+356	Stalwart	1	32	24	2	ac (61 - 80)  	lcha
+357	Stalwart	1	37	29	2	ac (81 - 110)  	lcha
+358	Stalwart		42	34	2	ac (111 - 150)  	lcha
+359	Stout	1	1	1	3	ac (4 - 10)  	mcha
+360	Stout	1	14	10	3	ac (11 - 20)  	mcha
+361	Stout	1	20	15	3	ac (21 - 30)  	mcha
+362	Burly	1	26	19	3	ac (31 - 40)  	mcha
+363	Burly	1	32	24	3	ac (41 - 50)  	mcha
+364	Stalwart	1	38	30	3	ac (51 - 70)  	mcha
+365	Stalwart		45	37	3	ac (71 - 100)  	mcha
+366	Stout	1	1	1	5	ac (2 - 10)  	scha
+367	Stout	1	21	15	5	ac (11 - 20)  	scha
+368	Burly	1	36	28	5	ac (21 - 30)  	scha
+369	Stalwart		48	40	5	ac (31 - 50)  	scha
+370	Red	1	4	3	2	dmg-min (1 - 3)  	lcha
+371	Sanguinary	1	40	32	2	dmg-min (4 - 6)  	lcha
+372	Bloody		52	46	2	dmg-min (7 - 9)  	lcha
+373	Red	1	11	8	2	dmg-min (1 - 2)  	mcha
+374	Sanguinary	1	33	25	2	dmg-min (3 - 4)  	mcha
+375	Bloody		55	47	2	dmg-min (5 - 6)  	mcha
+376	Red	1	24	16	2	dmg-min (1 - 1)  	scha
+377	Sanguinary	1	41	33	2	dmg-min (2 - 2)  	scha
+378	Bloody		58	50	2	dmg-min (3 - 3)  	scha
+379	Jagged	1	3	2	2	dmg-max (1 - 3)  	lcha
+380	Jagged	1	10	7	2	dmg-max (4 - 4)  	lcha
+381	Jagged	1	17	12	2	dmg-max (5 - 5)  	lcha
+382	Forked	1	25	18	2	dmg-max (6 - 6)  	lcha
+383	Forked	1	32	24	2	dmg-max (7 - 7)  	lcha
+384	Serrated	1	39	31	2	dmg-max (8 - 9)  	lcha
+385	Serrated		47	39	2	dmg-max (10 - 15)  	lcha
+386	Jagged	1	10	7	3	dmg-max (1 - 2)  	mcha
+387	Jagged	1	20	15	3	dmg-max (3 - 3)  	mcha
+388	Forked	1	30	22	3	dmg-max (4 - 4)  	mcha
+389	Forked	1	40	32	3	dmg-max (5 - 6)  	mcha
+390	Serrated		50	42	3	dmg-max (7 - 10)  	mcha
+391	Jagged	1	23	17	4	dmg-max (1 - 1)  	scha
+392	Forked	1	38	30	4	dmg-max (2 - 3)  	scha
+393	Serrated		53	45	4	dmg-max (4 - 5)  	scha
+394	Rugged	1	1 - 21	1	3	stam (15 - 30)  	lcha
+395	Rugged	1	11 - 41	7	3	stam (31 - 45)  	lcha
+396	Rugged	1	21 - 61	16	3	stam (46 - 60)  	lcha
+397	Rugged	1	1 - 21	1	3	stam (10 - 20)  	mcha
+398	Rugged	1	11 - 41	7	3	stam (21 - 30)  	mcha
+399	Rugged	1	21 - 61	16	3	stam (31 - 40)  	mcha
+400	Rugged	1	1 - 21	1	3	stam (5 - 10)  	scha
+401	Rugged	1	11 - 41	7	3	stam (11 - 15)  	scha
+402	Rugged	1	21 - 61	16	3	stam (16 - 20)  	scha
+403	Bronze	1	1	1	2	att (6 - 10)  	lcha
+404	Bronze	1	7	5	2	att (11 - 20)  	lcha
+405	Bronze	1	13	9	2	att (21 - 30)  	lcha
+406	Iron	1	19	14	2	att (31 - 40)  	lcha
+407	Iron	1	25	18	2	att (41 - 50)  	lcha
+408	Iron	1	31	23	2	att (51 - 60)  	lcha
+409	Steel	1	37	29	2	att (61 - 80)  	lcha
+410	Steel	1	43	35	2	att (81 - 110)  	lcha
+411	Steel		49	41	2	att (111 - 150)  	lcha
+412	Bronze	1	1	1	3	att (4 - 10)  	mcha
+413	Bronze	1	7	5	3	att (11 - 20)  	mcha
+414	Bronze	1	16	12	3	att (21 - 30)  	mcha
+415	Iron	1	24	18	3	att (31 - 40)  	mcha
+416	Iron	1	32	26	3	att (41 - 50)  	mcha
+417	Steel	1	40	36	3	att (51 - 70)  	mcha
+418	Steel		48	44	3	att (71 - 100)  	mcha
+419	Bronze	1	1	1	5	att (2 - 10)  	scha
+420	Bronze	1	16	15	5	att (11 - 20)  	scha
+421	Iron	1	32	31	5	att (21 - 30)  	scha
+422	Steel		48	49	5	att (31 - 50)  	scha
+423	Fine	1	15	7	2	att (10 - 25) dmg-max (1 - 3) 	lcha
+424	Fine	1	34	22	2	att (26 - 50) dmg-max (4 - 6) 	lcha
+425	Sharp	1	53	37	2	att (51 - 75) dmg-max (7 - 9) 	lcha
+426	Fine	1	28	18	3	att (10 - 25) dmg-max (1 - 3) 	mcha
+427	Sharp	1	51	37	3	att (26 - 50) dmg-max (4 - 6) 	mcha
+428	Fine	1	51	37	4	att (10 - 25) dmg-max (1 - 3) 	scha
+429	Lizard's	1	1	1	3	mana (3 - 10)  	lcha
+430	Lizard's	1	7	5	3	mana (9 - 15)  	lcha
+431	Lizard's	1	13	9	3	mana (14 - 20)  	lcha
+432	Snake's	1	19	14	3	mana (21 - 25)  	lcha
+433	Snake's	1	25	18	3	mana (26 - 30)  	lcha
+434	Snake's	1	31	23	3	mana (31 - 35)  	lcha
+435	Serpent's	1	37	29	3	mana (36 - 40)  	lcha
+436	Serpent's	1	43	35	3	mana (41 - 50)  	lcha
+437	Serpent's	1	49	41	3	mana (51 - 60)  	lcha
+438	Lizard's	1	1	1	4	mana (2 - 7)  	mcha
+439	Lizard's	1	9	6	4	mana (8 - 10)  	mcha
+440	Lizard's	1	17	12	4	mana (11 - 14)  	mcha
+441	Snake's	1	25	18	4	mana (15 - 18)  	mcha
+442	Snake's	1	33	25	4	mana (19 - 26)  	mcha
+443	Serpent's	1	41	33	4	mana (27 - 33)  	mcha
+444	Serpent's	1	49	41	4	mana (34 - 40)  	mcha
+445	Lizard's	1	1	1	6	mana (1 - 4)  	scha
+446	Lizard's	1	12	9	6	mana (5 - 10)  	scha
+447	Snake's	1	32	24	6	mana (11 - 16)  	scha
+448	Serpent's		48	40	6	mana (17 - 20)  	scha
+449	Shimmering		8 - 13	6	2	res-all (7 - 9)  	lcha
+450	Shimmering		14 - 34	10	2	res-all (10 - 12)  	lcha
+451	Shimmering		35	27	2	res-all (13 - 15)  	lcha
+452	Shimmering		17 - 33	12	2	res-all (5 - 7)  	mcha
+453	Shimmering		34	26	2	res-all (8 - 10)  	mcha
+454	Shimmering		33	25	2	res-all (3 - 5)  	scha
+455	Azure	1	1	1	2	res-cold (7 - 15)  	lcha
+456	Lapis	1	10	7	2	res-cold (16 - 20)  	lcha
+457	Cobalt	1	20	15	2	res-cold (21 - 25)  	lcha
+458	Sapphire		30	22	2	res-cold (26 - 30)  	lcha
+459	Azure	1	1	1	2	res-cold (4 - 8)  	mcha
+460	Lapis	1	16	12	2	res-cold (9 - 12)  	mcha
+461	Cobalt	1	25	18	2	res-cold (13 - 16)  	mcha
+462	Sapphire		35	27	2	res-cold (17 - 20)  	mcha
+463	Azure	1	1	1	2	res-cold (3 - 5)  	scha
+464	Lapis	1	14	10	2	res-cold (6 - 7)  	scha
+465	Cobalt	1	27	20	2	res-cold (8 - 9)  	scha
+466	Sapphire		40	32	2	res-cold (10 - 11)  	scha
+467	Crimson	1	1	1	2	res-fire (7 - 15)  	lcha
+468	Russet	1	10	7	2	res-fire (16 - 20)  	lcha
+469	Garnet	1	20	15	2	res-fire (21 - 25)  	lcha
+470	Ruby		30	22	2	res-fire (26 - 30)  	lcha
+471	Crimson	1	1	1	2	res-fire (4 - 8)  	mcha
+472	Russet	1	16	12	2	res-fire (9 - 12)  	mcha
+473	Garnet	1	25	18	2	res-fire (13 - 16)  	mcha
+474	Ruby		35	27	2	res-fire (17 - 20)  	mcha
+475	Crimson	1	1	1	2	res-fire (3 - 5)  	scha
+476	Russet	1	14	10	2	res-fire (6 - 7)  	scha
+477	Garnet	1	27	20	2	res-fire (8 - 9)  	scha
+478	Ruby		40	32	2	res-fire (10 - 11)  	scha
+479	Tangerine	1	1	1	2	res-ltng (7 - 15)  	lcha
+480	Ocher	1	10	7	2	res-ltng (16 - 20)  	lcha
+481	Coral	1	20	15	2	res-ltng (21 - 25)  	lcha
+482	Amber		30	22	2	res-ltng (26 - 30)  	lcha
+483	Tangerine	1	1	1	2	res-ltng (4 - 8)  	mcha
+484	Ocher	1	16	12	2	res-ltng (9 - 12)  	mcha
+485	Coral	1	25	18	2	res-ltng (13 - 16)  	mcha
+486	Amber		35	27	2	res-ltng (17 - 20)  	mcha
+487	Tangerine	1	1	1	2	res-ltng (3 - 5)  	scha
+488	Ocher	1	14	10	2	res-ltng (6 - 7)  	scha
+489	Coral	1	27	20	2	res-ltng (8 - 9)  	scha
+490	Amber		40	32	2	res-ltng (10 - 11)  	scha
+491	Beryl	1	1	1	2	res-pois (7 - 15)  	lcha
+492	Viridian	1	10	7	2	res-pois (16 - 20)  	lcha
+493	Jade	1	20	15	2	res-pois (21 - 25)  	lcha
+494	Emerald		30	22	2	res-pois (26 - 30)  	lcha
+495	Beryl	1	1	1	2	res-pois (4 - 8)  	mcha
+496	Viridian	1	16	12	2	res-pois (9 - 12)  	mcha
+497	Jade	1	25	18	2	res-pois (13 - 16)  	mcha
+498	Emerald		35	27	2	res-pois (17 - 20)  	mcha
+499	Beryl	1	1	1	2	res-pois (3 - 5)  	scha
+500	Viridian	1	14	10	2	res-pois (6 - 7)  	scha
+501	Jade	1	27	20	2	res-pois (8 - 9)  	scha
+502	Emerald		40	32	2	res-pois (10 - 11)  	scha
+503	Fletcher's	1	50	42	2	0 skilltab (1 - 1)  	lcha
+504	Acrobat's	1	50	42	2	1 skilltab (1 - 1)  	lcha
+505	Harpoonist's	1	50	42	2	2 skilltab (1 - 1)  	lcha
+506	Burning	1	50	42	2	3 skilltab (1 - 1)  	lcha
+507	Sparking	1	50	42	2	4 skilltab (1 - 1)  	lcha
+508	Chilling	1	50	42	2	5 skilltab (1 - 1)  	lcha
+509	Hexing	1	50	42	2	6 skilltab (1 - 1)  	lcha
+510	Fungal	1	50	42	2	7 skilltab (1 - 1)  	lcha
+511	Graverobber's	1	50	42	2	8 skilltab (1 - 1)  	lcha
+512	Lion Branded	1	50	42	2	9 skilltab (1 - 1)  	lcha
+513	Captain's	1	50	42	2	10 skilltab (1 - 1)  	lcha
+514	Preserver's	1	50	42	2	11 skilltab (1 - 1)  	lcha
+515	Expert's	1	50	42	2	12 skilltab (1 - 1)  	lcha
+516	Fanatic	1	50	42	2	13 skilltab (1 - 1)  	lcha
+517	Sounding	1	50	42	2	14 skilltab (1 - 1)  	lcha
+518	Trainer's	1	50	42	2	15 skilltab (1 - 1)  	lcha
+519	Spiritual	1	50	42	2	16 skilltab (1 - 1)  	lcha
+520	Nature's	1	50	42	2	17 skilltab (1 - 1)  	lcha
+521	Entrapping	1	50	42	2	18 skilltab (1 - 1)  	lcha
+522	Mentalist's	1	50	42	2	19 skilltab (1 - 1)  	lcha
+523	Shogukusha's	1	50	42	2	20 skilltab (1 - 1)  	lcha
+524	Snowflake	1	9	6	2	cold-len (35 - 35) cold-min (3 - 8) cold-max (9 - 15)	lcha
+525	Shivering	1	25	21	1	cold-len (35 - 35) cold-min (9 - 15) cold-max (16 - 30)	lcha
+526	Boreal	1	50	42	1	cold-len (35 - 35) cold-min (16 - 24) cold-max (31 - 45)	lcha
+527	Hibernal		85	78	1	cold-len (35 - 35) cold-min (25 - 30) cold-max (46 - 60)	lcha
+528	Snowflake	1	18	13	2	cold-len (25 - 25) cold-min (2 - 5) cold-max (6 - 10)	mcha
+529	Shivering	1	39	31	1	cold-len (25 - 25) cold-min (6 - 10) cold-max (11 - 20)	mcha
+530	Boreal	1	64	56	1	cold-len (25 - 25) cold-min (11 - 15) cold-max (21 - 30)	mcha
+531	Hibernal		89	81	1	cold-len (25 - 25) cold-min (16 - 20) cold-max (31 - 40)	mcha
+532	Snowflake	1	27	20	2	cold-len (15 - 15) cold-min (1 - 3) cold-max (3 - 5)	scha
+533	Shivering	1	42	34	1	cold-len (15 - 15) cold-min (4 - 5) cold-max (6 - 10)	scha
+534	Boreal	1	66	58	1	cold-len (15 - 15) cold-min (6 - 8) cold-max (11 - 15)	scha
+535	Hibernal		91	83	1	cold-len (15 - 15) cold-min (9 - 10) cold-max (16 - 20)	scha
+536	Ember	1	9	6	2	fire-min (3 - 10) fire-max (11 - 18) 	lcha
+537	Smoldering	1	25	21	1	fire-min (11 - 18) fire-max (19 - 36) 	lcha
+538	Smoking	1	50	42	1	fire-min (19 - 29) fire-max (37 - 54) 	lcha
+539	Flaming		85	78	1	fire-min (30 - 36) fire-max (55 - 72) 	lcha
+540	Ember	1	18	13	2	fire-min (2 - 6) fire-max (7 - 12) 	mcha
+541	Smoldering	1	39	31	1	fire-min (7 - 12) fire-max (13 - 24) 	mcha
+542	Smoking	1	64	56	1	fire-min (13 - 18) fire-max (25 - 36) 	mcha
+543	Flaming		89	81	1	fire-min (19 - 24) fire-max (37 - 48) 	mcha
+544	Ember	1	27	20	2	fire-min (1 - 4) fire-max (4 - 6) 	scha
+545	Smoldering	1	42	34	1	fire-min (5 - 6) fire-max (7 - 12) 	scha
+546	Smoking	1	66	58	1	fire-min (7 - 10) fire-max (13 - 18) 	scha
+547	Flaming		91	83	1	fire-min (11 - 12) fire-max (19 - 24) 	scha
+548	Static	1	9	6	2	ltng-min (1 - 1) ltng-max (15 - 30) 	lcha
+549	Glowing	1	25	21	1	ltng-min (1 - 1) ltng-max (31 - 60) 	lcha
+550	Arcing	1	50	42	1	ltng-min (1 - 1) ltng-max (61 - 115) 	lcha
+551	Shocking		85	78	1	ltng-min (1 - 1) ltng-max (116 - 150) 	lcha
+552	Static	1	18	13	2	ltng-min (1 - 1) ltng-max (10 - 20) 	mcha
+553	Glowing	1	39	31	1	ltng-min (1 - 1) ltng-max (21 - 40) 	mcha
+554	Arcing	1	64	56	1	ltng-min (1 - 1) ltng-max (41 - 70) 	mcha
+555	Shocking		89	81	1	ltng-min (1 - 1) ltng-max (71 - 100) 	mcha
+556	Static	1	27	20	2	ltng-min (1 - 1) ltng-max (5 - 10) 	scha
+557	Glowing	1	42	34	1	ltng-min (1 - 1) ltng-max (11 - 20) 	scha
+558	Arcing	1	66	58	1	ltng-min (1 - 1) ltng-max (21 - 35) 	scha
+559	Shocking		91	83	1	ltng-min (1 - 1) ltng-max (36 - 50) 	scha
+560	Septic	1	9	6	2	75 dmg-pois (105 - 105)  	lcha
+561	Envenomed	1	25	21	1	100 dmg-pois (231 - 231)  	lcha
+562	Toxic	1	50	42	1	125 dmg-pois (369 - 369)  	lcha
+563	Pestilent		85	78	1	150 dmg-pois (513 - 513)  	lcha
+564	Septic	1	18	13	2	75 dmg-pois (70 - 70)  	mcha
+565	Envenomed	1	39	31	1	100 dmg-pois (154 - 154)  	mcha
+566	Toxic	1	64	56	1	125 dmg-pois (246 - 246)  	mcha
+567	Pestilent		89	81	1	150 dmg-pois (342 - 342)  	mcha
+568	Septic	1	27	20	2	75 dmg-pois (35 - 35)  	scha
+569	Envenomed	1	42	34	1	100 dmg-pois (77 - 77)  	scha
+570	Toxic	1	66	58	1	125 dmg-pois (123 - 123)  	scha
+571	Pestilent		91	83	1	150 dmg-pois (171 - 171)  	scha
+572	Dazzling	1	29	25	2	regen-mana (15 - 15)  	lcha
+573	Fascinating		60	50	2	regen-mana (24 - 24)  	lcha
+574	Dazzling	1	29	25	2	regen-mana (10 - 10)  	mcha
+575	Fascinating		60	50	2	regen-mana (16 - 16)  	mcha
+576	Dazzling	1	29	25	2	regen-mana (5 - 5)  	scha
+577	Fascinating		60	50	2	regen-mana (8 - 8)  	scha
+578	Guardian's	1	10	4	2	1 ac/lvl  	lcha
+579	Guardian's	1	20	11	2	2 ac/lvl  	lcha
+580	Guardian's	1	30	18	2	3 ac/lvl  	lcha
+581	Guardian's	1	40	25	2	4 ac/lvl  	lcha
+582	Guardian's	1	50	31	1	5 ac/lvl  	lcha
+583	Guardian's		60	38	1	6 ac/lvl  	lcha
+584	Guardian's	1	15	8	2	1 ac/lvl  	mcha
+585	Guardian's	1	30	19	2	2 ac/lvl  	mcha
+586	Guardian's	1	45	30	2	3 ac/lvl  	mcha
+587	Guardian's		60	41	1	4 ac/lvl  	mcha
+588	Guardian's	1	32	20	2	1 ac/lvl  	scha
+589	Guardian's		64	44	1	2 ac/lvl  	scha
+590	Assailant's	1	25	14	2	1 dmg/lvl  	lcha
+591	Assailant's	1	55	29	2	2 dmg/lvl  	lcha
+592	Assailant's		85	44	1	3 dmg/lvl  	lcha
+593	Assailant's	1	45	23	2	1 dmg/lvl  	mcha
+594	Assailant's		85	46	1	2 dmg/lvl  	mcha
+595	Assailant's		85	48	1	1 dmg/lvl  	scha
+596	Striker's	1	10	8	2	1 att/lvl  	lcha
+597	Striker's	1	20	15	2	2 att/lvl  	lcha
+598	Striker's	1	30	22	2	3 att/lvl  	lcha
+599	Striker's	1	40	29	2	4 att/lvl  	lcha
+600	Striker's	1	50	35	1	5 att/lvl  	lcha
+601	Striker's		60	42	1	6 att/lvl  	lcha
+602	Striker's	1	15	12	2	1 att/lvl  	mcha
+603	Striker's	1	30	23	2	2 att/lvl  	mcha
+604	Striker's	1	45	34	2	3 att/lvl  	mcha
+605	Striker's		60	45	1	4 att/lvl  	mcha
+606	Striker's	1	32	24	2	1 att/lvl  	scha
+607	Striker's		64	48	1	2 att/lvl  	scha
+608	Clever	1	10	6	2	1 mana/lvl  	lcha
+609	Clever	1	20	13	2	2 mana/lvl  	lcha
+610	Clever	1	30	20	2	3 mana/lvl  	lcha
+611	Clever	1	40	27	2	4 mana/lvl  	lcha
+612	Clever	1	50	33	1	5 mana/lvl  	lcha
+613	Clever		60	40	1	6 mana/lvl  	lcha
+614	Clever	1	15	10	2	1 mana/lvl  	mcha
+615	Clever	1	30	21	2	2 mana/lvl  	mcha
+616	Clever	1	45	32	2	3 mana/lvl  	mcha
+617	Clever		60	43	1	4 mana/lvl  	mcha
+618	Clever	1	32	22	2	1 mana/lvl  	scha
+619	Clever		64	46	1	2 mana/lvl  	scha
+620	Jewels
+621	Blanched	1	1	1	8	ac (10 - 30)  	jewl
+622	Eburin	1	16	12	8	ac (31 - 60)  	jewl
+623	Bone	1	32	24	8	ac (61 - 90)  	jewl
+624	Ivory		64	56	8	ac (91 - 180)  	jewl
+625	Scarlet	1	8	6	10	dmg-min (1 - 5)  	jewl
+626	Crimson	1	38	30	10	dmg-min (6 - 10)  	jewl
+627	Carbuncle	1	12	9	10	dmg-max (1 - 7)  	jewl
+628	Carmine	1	35	27	10	dmg-max (8 - 15)  	jewl
+629	Vermillion		58	45	10	dmg-max (16 - 25)  	jewl
+630	Cinnabar	1	1	1	12	dmg% (6 - 12)  	jewl
+631	Rusty	1	13	9	12	dmg% (13 - 25)  	jewl
+632	Realgar	1	45	37	10	dmg% (26 - 40)  	jewl
+633	Ruby		66	58	8	dmg% (41 - 60)  	jewl
+634	Dun	1	7	5	10	dmg-to-mana (10 - 20)  	jewl
+635	Brown	1	39	31	8	regen-stam (15 - 30)  	jewl
+636	Chestnut	1	1	1	8	stam (10 - 15)  	jewl
+637	Maroon	1	17	12	8	stam (16 - 30)  	jewl
+638	Nickel	1	1	1	8	att (10 - 20) 2 dmg/lvl 	jewl
+639	Tin	1	8	6	8	att (21 - 40) 2 dmg/lvl 	jewl
+640	Silver	1	25	18	8	att (41 - 60) 2 dmg/lvl 	jewl
+641	Argent		44	36	8	att (61 - 120) 2 dmg/lvl 	jewl
+642	Bright	1	1	1	8	light (1 - 1) 4 att/lvl 	jewl
+643	Emerald	1	16	12	10	mag% (10 - 30)  	jewl
+644	Zircon	1	1	1	10	mana (3 - 16)  	jewl
+645	Jacinth	1	28	21	10	mana (17 - 32)  	jewl
+646	Turquoise		45	37	10	mana (33 - 64)  	jewl
+647	Shimmering	1	16	12	8	res-all (5 - 10)  	jewl
+648	Scintillating		34	26	8	res-all (11 - 15)  	jewl
+649	Lapis Lazuli	1	2	1	10	res-cold (10 - 20)  	jewl
+650	Sapphire	1	19	14	10	res-cold (21 - 40)  	jewl
+651	Garnet	1	2	1	10	res-fire (10 - 20)  	jewl
+652	Ruby	1	18	13	10	res-fire (21 - 40)  	jewl
+653	Camphor	1	2	1	10	res-ltng (10 - 20)  	jewl
+654	Ambergris	1	19	14	10	res-ltng (21 - 40)  	jewl
+655	Beryl	1	2	1	10	res-pois (10 - 20)  	jewl
+656	Jade	1	19	14	10	res-pois (21 - 40)  	jewl
+657	Aureolin	1	22	16	10	mana-kill (4 - 12)  	jewl
+658	Diamond	1	16	19	8	att-demon (50 - 75) dmg-demon (50 - 75) 	jewl
+659	Maiden's	1	72	48	6	ama (1 - 1) jewelflag (1 - 1) 	jewl
+660	Monk's	1	72	48	6	pal (1 - 1) jewelflag (2 - 2) 	jewl
+661	Summoner's	1	72	48	6	nec (1 - 1) jewelflag (3 - 3) 	jewl
+662	Angel's	1	72	48	6	sor (1 - 1) jewelflag (4 - 4) 	jewl
+663	Slayer's	1	72	48	6	bar (1 - 1) jewelflag (5 - 5) 	jewl
+664	Shaman's	1	72	48	6	dru (1 - 1) jewelflag (6 - 6) 	jewl
+665	Magekiller's	1	72	48	6	ass (1 - 1) jewelflag (7 - 7) 	jewl
+666	Pearl	1	8	13	8	att-undead (50 - 75) dmg-undead (50 - 75) 	jewl
+667	Quality	1	13	9	8	att% (10 - 10) dmg% (8 - 15) 	jewl
+668	Superior	1	45	27	8	att% (15 - 15) dmg% (16 - 30) 	jewl
+669	Excellent		66	45	8	att% (20 - 20) dmg% (31 - 45) 	jewl
+670	Dazzling	1	29	25	8	regen-mana (15 - 30)  	jewl
+671	Fascinating		50	50	8	regen-mana (31 - 60)  	jewl
+672	Colorful		20	15	8	dmg-fire (20 - 30) dmg-cold (20 - 30) dmg-ltng (20 - 30)	jewl
+673	Colorful		35	30	8	dmg-fire (40 - 60) dmg-cold (40 - 60) dmg-ltng (40 - 60)	jewl
+674	Colorful		50	45	8	dmg-fire (80 - 120) dmg-cold (80 - 120) dmg-ltng (80 - 120)	jewl
+675	Brisk	1	18	18	8	move1 (5 - 10)  	jewl
+676	Swift	1	38	25	8	move1 (11 - 15)  	jewl
+677	Strengthening	1	23	20	8	str (10 - 18)  	jewl
+678	Empowering	1	26	24	8	str (19 - 25)  	jewl
+679	Titan's		45	38	8	str (26 - 30)  	jewl
+680	Bright	1	16	12	8	hp% (5 - 8)  	jewl
+681	Solar	1	27	23	8	hp% (9 - 12)  	jewl
+682	Vivid		38	34	8	hp% (13 - 16)  	jewl
+683	Omniscient	1	16	12	8	mana% (5 - 8)  	jewl
+684	Sage	1	27	23	8	mana% (9 - 12)  	jewl
+685	Shrewd		38	34	8	mana% (13 - 16)  	jewl
+686	Crystal	1	21 - 61	20	8	red-dmg (4 - 6)  	jewl
+687	Crystal	1	21	41	8	red-dmg (6 - 8)  	jewl
+688	Brilliant	1	60	61	8	red-mag (8 - 10)  	jewl
+689	Brilliant	1	80	81	8	red-mag (10 - 12)  	jewl
+690	Vile	1	6	5	2	1 dmg%/lvl  	jewl
+691	Vile	1	12	10	2	2 dmg%/lvl  	jewl
+692	Vile	1	24	20	2	3 dmg%/lvl  	jewl
+693	Vile	1	48	40	1	4 dmg%/lvl  	jewl
+694	Vile		72	60	1	5 dmg%/lvl  	jewl
+695	Looter's	1	6	5	2	1 mag%/lvl  	jewl
+696	Looter's	1	18	15	2	2 mag%/lvl  	jewl
+697	Looter's	1	36	30	2	3 mag%/lvl  	jewl
+698	Looter's		54	45	2	4 mag%/lvl  	jewl
+699	Looter's		72	60	2	5 mag%/lvl  	jewl
+700
+701	Quivers
+702	Burning	1	15 - 30	10	1	dmg-fire (1 - 6)  	arrm boqm
+703	Freezing	1	15 - 30	10	1	100 dmg-cold (1 - 4)  	arrm boqm
+704	Shocking	1	15 - 30	10	1	dmg-ltng (1 - 12)  	arrm boqm
+705	Toxic	1	15 - 30	10	1	25 dmg-pois (103 - 103)  	arrm boqm
+706	Colorful	1	15 - 30	10	1	dmg-fire (1 - 4) 100 dmg-cold (1 - 3) dmg-ltng (1 - 8)	arrm boqm
+707	Burning	1	30 - 45	20	1	dmg-fire (6 - 10)  	arrm boqm
+708	Freezing	1	30 - 45	20	1	75 dmg-cold (4 - 8)  	arrm boqm
+709	Shocking	1	30 - 45	20	1	dmg-ltng (1 - 16)  	arrm boqm
+710	Toxic	1	30 - 45	20	1	25 dmg-pois (206 - 206)  	arrm boqm
+711	Colorful	1	30 - 45	20	1	dmg-fire (3 - 5) 50 dmg-cold (2 - 4) dmg-ltng (1 - 8)	arrm boqm
+712	Burning	1	45	30	1	dmg-fire (12 - 20)  	arrm boqm
+713	Freezing	1	45	30	1	75 dmg-cold (8 - 16)  	arrm boqm
+714	Shocking	1	45	30	1	dmg-ltng (1 - 32)  	arrm boqm
+715	Toxic	1	45	30	1	25 dmg-pois (309 - 309)  	arrm boqm
+716	Colorful	1	45	30	1	dmg-fire (6 - 10) 50 dmg-cold (4 - 8) dmg-ltng (1 - 16)	arrm boqm
+717	Burning	1	60	40	1	dmg-fire (18 - 30)  	arrm boqm
+718	Freezing	1	60	40	1	75 dmg-cold (12 - 24)  	arrm boqm
+719	Shocking	1	60	40	1	dmg-ltng (1 - 48)  	arrm boqm
+720	Toxic	1	60	40	1	25 dmg-pois (412 - 412)  	arrm boqm
+721	Colorful	1	60	40	1	dmg-fire (9 - 15) 50 dmg-cold (6 - 12) dmg-ltng (1 - 24)	arrm boqm
+722	Charms
+723	Dummy	1	1	1	1	406 oskill (1 - 1) vit-h (-790 - -790) 	zcha
+724
+725
+726
+727
+728
+729	Jeweler's		66	72	24	sock (5 - 5)
+730	Dummy	1	1	1	1	437 oskill (1 - 1) 438 oskill (1 - 1) 439 oskill (1 - 1)	ycha
+731	Skillful	1	38	1	2	1 skill-rand (6 - 35)  	mcha
+732	Skillful	1	38	1	2	1 skill-rand (36 - 65)  	mcha
+733	Skillful	1	38	1	2	1 skill-rand (66 - 95)  	mcha
+734	Skillful	1	38	1	2	1 skill-rand (96 - 125)  	mcha
+735	Skillful	1	38	1	2	1 skill-rand (126 - 155)  	mcha
+736	Skillful	1	38	1	2	1 skill-rand (221 - 250)  	mcha
+737	Skillful	1	38	1	2	1 skill-rand (251 - 280)  	mcha
+738	Skillful	1	57	1	1	1 skill-rand (6 - 35) 1 skill-rand (6 - 35) 	mcha
+739	Skillful	1	57	1	1	1 skill-rand (36 - 65) 1 skill-rand (36 - 65) 	mcha
+740	Skillful	1	57	1	1	1 skill-rand (66 - 95) 1 skill-rand (66 - 95) 	mcha
+741	Skillful	1	57	1	1	1 skill-rand (96 - 125) 1 skill-rand (96 - 125) 	mcha
+742	Skillful	1	57	1	1	1 skill-rand (126 - 155) 1 skill-rand (126 - 155) 	mcha
+743	Skillful	1	57	1	1	1 skill-rand (221 - 250) 1 skill-rand (221 - 250) 	mcha
+744	Adjudging	1	72	48	4	pierce-fire (1 - 1)  	jewl
+745	Adjudging	1	72	48	4	pierce-cold (1 - 1)  	jewl
+746	Adjudging	1	72	48	4	pierce-ltng (1 - 1)  	jewl
+747	Adjudging	1	72	48	4	pierce-pois (1 - 1)  	jewl
+748	Adjudging	1	72	48	4	pierce-phys (1 - 1)  	jewl
+749	Adjudging	1	72	48	4	pierce-mag (1 - 1)  	jewl
+750	Intensifying	1	64	42	6	extra-fire (2 - 4)  	jewl
+751	Intensifying	1	64	42	6	extra-cold (2 - 4)  	jewl
+752	Intensifying	1	64	42	6	extra-ltng (2 - 4)  	jewl
+753	Intensifying	1	64	42	6	extra-pois (2 - 4)  	jewl
+754	Intensifying	1	64	42	6	extra-mag2 (1 - 3)  	jewl
+755	Intensifying	1	64	42	6	extra-wind (1 - 3)  	jewl
+756
+757	Warrior's	1	20 - 50	30	2	str% (2 - 4)  	tors
+758	Warrior's	1	30 - 60	40	2	str% (4 - 6)  	tors
+759	Warrior's	1	40 - 70	50	2	str% (6 - 8)  	tors
+760	Warrior's	1	50	60	2	str% (8 - 10)  	tors
+761	Warrior's	1	60	70	2	str% (10 - 12)  	tors
+762	Warrior's	1	70	80	2	str% (12 - 14)  	tors
+763	Rogue's	1	20 - 50	30	2	dex% (2 - 4)  	tors
+764	Rogue's	1	30 - 60	40	2	dex% (4 - 6)  	tors
+765	Rogue's	1	40 - 70	50	2	dex% (6 - 8)  	tors
+766	Rogue's	1	50	60	2	dex% (8 - 10)  	tors
+767	Rogue's	1	60	70	2	dex% (10 - 12)  	tors
+768	Rogue's	1	70	80	2	dex% (12 - 14)  	tors
+769	Highlander's	1	20 - 50	30	2	vit% (2 - 4)  	tors
+770	Highlander's	1	30 - 60	40	2	vit% (4 - 6)  	tors
+771	Highlander's	1	40 - 70	50	2	vit% (6 - 8)  	tors
+772	Highlander's	1	50	60	2	vit% (8 - 10)  	tors
+773	Highlander's	1	60	70	2	vit% (10 - 12)  	tors
+774	Highlander's	1	70	80	2	vit% (12 - 14)  	tors
+775	Mage's	1	20 - 50	30	2	enr% (2 - 4)  	tors
+776	Mage's	1	30 - 60	40	2	enr% (4 - 6)  	tors
+777	Mage's	1	40 - 70	50	2	enr% (6 - 8)  	tors
+778	Mage's	1	50	60	2	enr% (8 - 10)  	tors
+779	Mage's	1	60	70	2	enr% (10 - 12)  	tors
+780	Mage's	1	70	80	2	enr% (12 - 14)  	tors
+781	Godly	1	70	48	7	ac% (201 - 250)  	tors
+782	Maiden's	1	36	30	8	ama (1 - 1)  	tors
+783	Valkyrie's	1	70	67	5	ama (2 - 2)  	tors
+784	Angel's	1	36	30	8	sor (1 - 1)  	tors
+785	Arch-Angel's	1	70	67	5	sor (2 - 2)  	tors
+786	Summoner's	1	36	30	8	nec (1 - 1)  	tors
+787	Necromancer's	1	36	67	5	nec (2 - 2)  	tors
+788	Monk's	1	36	30	8	pal (1 - 1)  	tors
+789	Priest's	1	70	67	5	pal (2 - 2)  	tors
+790	Slayer's	1	36	30	8	bar (1 - 1)  	tors
+791	Berserker's	1	70	67	5	bar (2 - 2)  	tors
+792	Shaman's	1	36	30	8	dru (1 - 1)  	tors
+793	Hierophant's	1	70	67	5	dru (2 - 2)  	tors
+794	Magekiller's	1	36	30	8	ass (1 - 1)  	tors
+795	Witch-hunter's	1	70	67	5	ass (2 - 2)  	tors
+796	Knowledgeable	1	65	70	3	allskills (2 - 2)  	tors
+797	Kron's	1	50	40	12	1 maxdmg%/kill  	weap       wand
+798	Ronal's	1	50	37	12	1 maxdmg/kill  	weap       wand
+799	Furozun	1	50	40	14	dmg-cold/kill (1 - 1)  	weap       wand
+800	Shokku	1	50	40	14	dmg-ltng/kill (1 - 1)  	weap       wand
+801	Nensho	1	50	40	14	dmg-fire/kill (1 - 1)  	weap       wand
+802	Furozun	1	50	40	10	dmg-cold/coldres (15 - 16)  	weap       wand
+803	Furozun	1	70	60	10	dmg-cold/coldres (17 - 18)  	weap       wand
+804	Shokku	1	50	40	10	dmg-ltng/ltngres (10 - 20)  	weap       wand
+805	Shokku	1	70	60	10	dmg-ltng/ltngres (12 - 22)  	weap       wand
+806	Nensho	1	50	40	10	dmg-fire/fireres (14 - 18)  	weap       wand
+807	Nensho	1	70	60	10	dmg-fire/fireres (16 - 20)  	weap       wand
+808

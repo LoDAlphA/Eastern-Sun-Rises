@@ -328,89 +328,6 @@ rune-43	1			1	rune_43																													none	0
 rune-44	1			1	rune_44																													none	0
 rune-45	1			1	rune_45																													none	0
 rune-46	1			1	rune_46																													none	0
-rune-51	1			1	rune_51																													none	0
-rune-52	1			1	rune_52																													none	0
-rune-53	1			1	rune_53																													none	0
-rune-54	1			1	rune_54																													none	0
-rune-55	1			1	rune_55																													none	0
-rune-56	1			1	rune_56																													none	0
-rune-57	1			1	rune_57																													none	0
-rune-58	1			1	rune_58																													none	0
-rune-59	1			1	rune_59																													none	0
-rune-60	1			1	rune_60																													none	0
-rune-61	1			1	rune_61																													none	0
-rune-62	1			1	rune_62																													none	0
-rune-63	1			1	rune_63																													none	0
-rune-64	1			1	rune_64																													none	0
-rune-65	1			1	rune_65																													none	0
-rune-66	1			1	rune_66																													none	0
-rune-67	1			1	rune_67																													none	0
-rune-68	1			1	rune_68																													none	0
-rune-69	1			1	rune_69																													none	0
-rune-70	1			1	rune_70																													none	0
-rune-71	1			1	rune_71																													none	0
-rune-72	1			1	rune_72																													none	0
-rune-73	1			1	rune_73																													none	0
-rune-74	1			1	rune_74																													none	0
-rune-75	1			1	rune_75																													none	0
-rune-76	1			1	rune_76																													none	0
-rune-77	1			1	rune_77																													none	0
-rune-78	1			1	rune_78																													none	0
-rune-79	1			1	rune_79																													none	0
-rune-80	1			1	rune_80																													none	0
-rune-81	1			1	rune_81																													none	0
-rune-82	1			1	rune_82																													none	0
-rune-83	1			1	rune_83																													none	0
-tome-01	1			1	tome_01																													none	0
-tome-02	1			1	tome_02																													none	0
-tome-03	1			1	tome_03																													none	0
-tome-04	1			1	tome_04																													none	0
-tome-05	1			1	tome_05																													none	0
-tome-06	1			1	tome_06																													none	0
-tome-07	1			1	tome_07																													none	0
-tome-08	1			1	tome_08																													none	0
-tome-09	1			1	tome_09																													none	0
-tome-10	1			1	tome_10																													none	0
-tome-11	1			1	tome_11																													none	0
-tome-12	1			1	tome_12																													none	0
-tome-13	1			1	tome_13																													none	0
-tome-14	1			1	tome_14																													none	0
-tome-15	1			1	tome_15																													none	0
-tome-16	1			1	tome_16																													none	0
-tome-17	1			1	tome_17																													none	0
-tome-18	1			1	tome_18																													none	0
-tome-19	1			1	tome_19																													none	0
-tome-20	1			1	tome_20																													none	0
-tome-21	1			1	tome_21																													none	0
-tome-22	1			1	tome_22																													none	0
-tome-23	1			1	tome_23																													none	0
-tome-24	1			1	tome_24																													none	0
-tome-25	1			1	tome_25																													none	0
-tome-26	1			1	tome_26																													none	0
-tome-27	1			1	tome_27																													none	0
-tome-28	1			1	tome_28																													none	0
-tome-29	1			1	tome_29																													none	0
-tome-30	1			1	tome_30																													none	0
-tome-31	1			1	tome_31																													none	0
-tome-32	1			1	tome_32																													none	0
-tome-33	1			1	tome_33																													none	0
-tome-34	1			1	tome_34																													none	0
-tome-35	1			1	tome_35																													none	0
-tome-36	1			1	tome_36																													none	0
-tome-37	1			1	tome_37																													none	0
-tome-38	1			1	tome_38																													none	0
-tome-39	1			1	tome_39																													none	0
-tome-40	1			1	tome_40																													none	0
-tome-41	1			1	tome_41																													none	0
-tome-42	1			1	tome_42																													none	0
-tome-43	1			1	tome_43																													none	0
-tome-44	1			1	tome_44																													none	0
-tome-45	1			1	tome_45																													none	0
-tome-46	1			1	tome_46																													none	0
-tome-47	1			1	tome_47																													none	0
-tome-48	1			1	tome_48																													none	0
-tome-49	1			1	tome_49																													none	0
-tome-50	1			1	tome_50																													none	0
 junk-01	1			1	junk_01																													none	0
 junk-02	1			1	junk_02																													none	0
 junk-03	1			1	junk_03																													none	0
@@ -442,10 +359,11 @@ item-20	1			1	item_20																													none	0
 item-21	1			1	item_21																													none	0
 item-22	1			1	item_22																													none	0
 item-23	1			1	item_23																													none	0
+item-24	1			1	item_24																													none	0
+item-26	1			1	item_26																													none	0
 token	1			1	item_token																													none	0
 dmgpct	1			1	item_maxdamage_percent			1	item_mindamage_percent																									none	0
 tinkerflag2	1			1	item_tinkerflag2																													none	0
-item-24	1			1	item_24																													none	0
 junk-09	1			1	junk_09																													none	0
 rune-50	1			1	rune_50																													none	0
 xtal-00	1			1	xtal_00																													none	0
@@ -485,10 +403,7 @@ enr%	1			1	item_energy_percent																													none	0
 res-curse-len	1			1	curse_resistance_length			1	curse_resistance																									none	0
 ex-minion	1			1	skill_extra_minion																													none	0
 ex-trap	1			1	skill_extra_trap																													none	0
-corruptflag	1			1	item_corruptflag																													none	0
-dmg-cold/kill	1			17	item_cold_damagemax_perkill																													none	0
-dmg-fire/kill	1			17	item_fire_damagemax_perkill																													none	0
-dmg-ltng/kill	1			17	item_ltng_damagemax_perkill																													none	0
+corrupt-roll	1			1	item_corrupt_roll																														0
 kills	1			1	new_kill_counter																													none	0
 kill_disp	1			17	Kill_display																													none	0
 heal%-kill	1			1	heal_kill_per_maxhp																													none	0
@@ -497,3 +412,58 @@ str/kill	1			17	item_strength_perkill																													none	0
 dex/kill	1			17	item_dexterity_perkill																													none	0
 vit/kill	1			17	item_vitality_perkill																													none	0
 enr/kill	1			17	item_energy_perkill																													none	0
+corrupted	1			1	item_corrupted																														0
+maxdmg/kill	1			17	item_maxdamage_perkill																													none	0
+maxdmg%/kill	1			17	item_maxdamage_percent_perkill																													none	0
+dmg-cold/coldres	1			15	min_colddmg_per_coldres			16	max_colddmg_per_coldres																									none	0
+dmg-ltng/ltngres	1			15	min_ltngdmg_per_ltngres			16	max_ltngdmg_per_ltngres																									none	0
+dmg-fire/fireres	1			15	min_firedmg_per_fireres			16	max_firedmg_per_fireres																									none	0
+dmg-cold/kill	1			15	item_cold_damagemin_perkill			16	item_cold_damagemax_perkill																									none	0
+dmg-ltng/kill	1			15	item_ltng_damagemin_perkill			16	item_ltng_damagemax_perkill																									none	0
+dmg-fire/kill	1			15	item_fire_damagemin_perkill			16	item_fire_damagemax_perkill																									none	0
+nec-fire	1			1	item_nec_holyfire																														0
+sum-skills	1			1	item_summskills																														0
+skeli	1			1	item_nec_skeli																														0
+psn%/dex	1			1	item_poison_perdex																														0
+dmg-psn/kill	1			16	item_pois_damagemax_perkill																													none	0
+maxdmg-mag/kill	1			16	item_magic_damagemax_perkill																													none	0
+mag%/str	1			1	item_magic_perstr																														0
+warcry-effect	1			1	item_barb_warcry																														0
+ltngskill	1			1	item_barb_ltngskill																														0
+thundertime	1			1	item_barb_thunder																														0
+frenzytime	1			1	item_barb_frenzy																														0
+frenzyconvert	1			1	item_barb_frenzy2																														0
+bolderexplode	1			1	item_druid_bolder																														0
+spikes	1			1	item_druid_spikes																														0
+wolf	1			1	item_druid_wolf																														0
+wolf2	1			1	item_druid_wolf2																														0
+dclaws	1			1	item_druid_claws																														0
+dshock	1			1	item_druid_shock																														0
+stwister	1			1	item_sorc_twister																														0
+life/enr	1			1	item_life_perenr																														0
+sshower	1			1	item_sorc_shower																														0
+cold%/coldres	1			1	item_cold_percoldres																														0
+ltng%/gold%	1			1	item_ltng_pergold																														0
+fire%/dex	1			1	item_fire_perdex																														0
+ama-hawk	1			1	item_ama_hawk																														0
+ama-hawk2	1			1	item_ama_hawk2																														0
+pala-bolt	1			1	item_pala_bolt																														0
+pala-tick	1			1	item_pala_tick																														0
+pala-tele	1			1	item_pala_tele																														0
+ex-minion2	1			1	skill_extra_minion2																														0
+hp/dex	1			1	item_hp_perdex																														0
+hp/str	1			1	item_hp_perstr																														0
+sorcb	1			1	item_sorc_bolt																														0
+pierce-phys	1			1	passive_phys_pierce																									Negates % of Enemy Cold Resistance		min	max	none	0
+pierce-mag	1			1	passive_mag_pierce																									Negates % of Enemy Cold Resistance		min	max	none	0
+abs-phys%	1			1	abs-phys_percent																														0
+abs-phys	1			1	abs-phys																														0
+total-avoid	1			1	passive_dodge			3	passive_avoid			3	passive_evade																						0
+abs-all	1			1	item_absorbfire			3	item_absorblight			3	item_absorbcold			3	item_absorbmagic			3															0
+abs-all%	1			1	item_absorbfire_percent			3	item_absorblight_percent			3	item_absorbcold_percent			3	item_absorbmagic_percent			3															0
+extra-all	1			1	passive_fire_mastery			3	passive_ltng_mastery			3	passive_cold_mastery			3	passive_pois_mastery																		0
+pierce-all	1			1	passive_fire_pierce			3	passive_ltng_pierce			3	passive_cold_pierce			3	passive_pois_pierce			3	passive_phys_pierce			3	passive_mag_pierce										0
+hit-splash	1			11	item_skillonhitmele																									Proc Skill on Hit	Skill #	% Chance	Level	none	0
+nspear	1			1	item_nec_spear																														0
+dmg-ltng/vit	1			15	min_ltngdmg_per_vitality			16	max_ltngdmg_per_vitality																										0
+dmg-fire/str	1			15	min_firedmg_per_strength			16	max_firedmg_per_strength																										0

@@ -1,0 +1,6 @@
+Key Key
+key Key
+hp5 Super Healing Potion
+mp5 Super Mana Potion
+gps Rancid Gas Potion
+ops Oil Potion

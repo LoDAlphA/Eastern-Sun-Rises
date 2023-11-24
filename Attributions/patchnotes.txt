@@ -1,0 +1,344 @@
+EASTERN SUN RISES
+
+Eastern Sun Rises Database:  http://db.d2esr.online
+Eastern Sun Rises Wiki:      https://wiki.d2esr.online
+
+
+[5.3A2]
+
+[BEWARE 5.3A2 may break Savefiles from 5.2 and earlier versions!!!]
+
+
+[CURRENT ISSUES]
+
+
+- Do not equip Act5 Mercenary with a second Sword, it will be 
+  lost!
+- X%Fire Damage and -%Fire Resistance do not work for Fire                          
+  Golem 
+- X%Magic Skill Damage does not work for converted Damage  
+  (Berserk, Concentrate and Frenzy)
+- Raven and Fire Hawk Damage is not displayed correctly
+- Poison Creeper Physical Damage is not displayed correctly
+- Rude Offense Skill Animation is displayed wrongly (Realm 
+  Only)
+- Fury of the Heaven Missiles are only visible to its Caster
+- Several Skill Description might display wrong information 
+  whether the Skill requires Baselevel or not)
+- Diablo in Baal's Throne sometimes gets stuck and does nothing
+
+[CHANGELOG 5.3A3]
+
+- Fixed Necro Skeleton hit chance
+- Inceased Skeleton Mages' Spell damage scaling at higher levels
+- Fixed Rune and Gem Stocker Display Strings
+- Fixed Bone Spear Synergies, increased its damage at low levels
+- Improved All Resist string to better show negative resistances
+- Increased Cow Level monster density to better match the lost farm
+- Fixed various minor issues in TreasureClassEX.txt (most have been
+  live in the server since mid december)
+ - Restored broken set jackpots beyond early normal
+ - Fixed bias treasure classes
+ - fixed wrong orders/entries of some TCs to make them drop
+ - fixed ring/amu/jewel bias in Andy's Workshop on NM and Hell
+ - lowered excessive Dragon Stone drops in NM Domain/Nowhere
+ - increased low Dragon Stone drops in Hell Domain/Nowhere
+ - increased chance for Anvil Stones in Hell Domain/Nowhere
+- removed old FAQ scrolls from Gheed (they were outdated)
+- loot filter is now off by default again after installing the mod
+
+[CHANGELOG 5.3A2]
+
+[IMPORTANT]
+CREATE A NEW DAMAGE AUGMENTER FOR EVERY CHAR!
+
+Changed the following recipes:
+
+Any Armor, Shield, Helm, Gloves, Boots, Belt+
+Holy Symbol + Stamina Potion
++4 Energy (Capped at 200)
+Any Armor, Shield, Helm, Gloves, Boots, Belt+
+Black Moor + Stamina Potion
++4 Vitality (Capped at 200)
+
+-Fixed Golem Resistance
+-Lowered Teeth Mana Cost
+-Fixed Prayer, Meditation and Cleansing formula
+-Buffed Lighning Arrow (reduced Synergies from 3 to 2, same 
+ total damage)
+-Changed War Cry, reduced Stun length,
+ (reduced Synergies from 3 to 2, same total damage)
+-Changed Battle Order and Shout Synergies
+-Steaks can drop in Lost Farm again
+-Fixed Charm Jackpot
+-Fixed Tinker Recipes working on Charms without Tinkerpoints
+-Added a Downgrade Recipe(Null Rune + TP = Wo Rune + TP)
+-Added Anvil Stone to Dstone Recipe (Anvil Stone = 3Dstone)
+-Added a Token of Absolution Recipe (Maple = Token)
+-Disabled FAQ Scrolls in Act1 Vendor
+-Fixed Token of Absolution spelling error
+-Removed Pitching Machine from Tsuru Memorial
+-Changed Clay Golem Opression Sound
+-Fixed negative All Resistance String
+-Changed the Colors of Runes, Gems and Anvil Stone to increase 
+ their visibility
+-Fixed Shield Throw, now converts 50% Damage to Magic Damage
+-Improved Skill Description of Lower Resist, Flesh and Bone, 
+ Amplify Damage, Inner Corruption, Horrific Form, Athena 
+ Presence, Conviction, Poison Creeper, Volcanic Creeper and 
+ Arctic Creper
+-Reverted unintented changes to Zeal anf Fend
+-Added a Hellfire Torch reroll Recipe
+-Cold Wave Delay is reduced by Baselevel(0 delay at Blvl 20)
+-Fixed Wind Mastery on Damage Augmenter 
+
+ESRUtils:
+- fixed some hotkeys
+- added the possibilty to use filter profiles and switch them via
+  ingame command
+- fixed a typo in Spider's Silk in the DStone Clicker
+- fixed some messages that were caused by Orbs of Corruption
+
+[CHANGELOG 5.3A1]
+
+[GRAPHICS]
+
+-Added D2DX, requires D2VidTest set to Glide!
+-Added Plugy 14.03
+
+[MISC]
+
+-Capped Monster Resistance at 75%
+-Reworked all Monster Resistance across all Difficulties
+-Lowered the Resistance from certain Monster Mods
+-Skills and -%Resistance work at 100% 
+-Cleaned up CubeMain.txt and Misc.txt
+-Gamble Filter included (works only in SP! and in -txt -direct 
+ Mode)
+-Damage Augmenter now works on Attributes from all Sources, 
+ nerfed all Damage Augmenter Stats accordingly 
+-All Characters will now gain 4 Life per Point in Vitality 
+ instead of 2 Life
+-Shrines no longer function as a Curse
+-Increased the Rate at which Experience is gained from Level 
+ 95 to 105
+-Reworked UberDiablo Drop, now includes a new Unique Charm
+-Uberdiablo now requires 15-25 Food to be sold
+-Disabled to 7 Rare Rings/Amulets to Unique Ring/Amulet on the 
+ Rerolling Orb
+
+[ESRUtils]
+
+-Includes an Organ Clicker, works like the D-Stone clicker
+-Added new Hotkeys: 
+-Drop to Inventory (Default 7) (Inventory has to be open and 
+ accessible)
+-Drop to Ground (Default 8) (works with Stash/Cube open)
+-Drop to Stash (Default 9) (Stash has to be open and 
+ accessible)
+
+[AREA]
+
+-Increased the Monster density on many Endgame Areas
+-Increased the size of several Endgame Areas 
+-Increased the amount of Unique Monster Packs in several 
+ Endgame Areas 
+-Many Endgame Areas now feature a destinct Drop Pool 
+-Added new Skills to Monster in Endgame Areas
+-Added new Monsters to several Endgame Areas
+
+-Reworked Blood Raven's Workshop(Monster Level 86)
+ Drop Bias: Sets
+-Reworked Secret Cow Level(Monster Level 89)
+ Drop Bias: White/Grey Items
+-Reworked Dark Magician's Chamber(Monster Level 88)
+ Drop Bias: Charm Jackpot
+-Reworked Andariel's Dressing Room(Monster Level 90)
+ Drop Bias: Jewelery 
+-Reworked Lost Farm(Monster Level 89)
+ Drop Bias: Runes
+-Reworked Marsh of Pain(Monster Level 90)
+ Drop Bias: Jewelery 
+-Reworked Bookstore Sarina(Monster Level 87)
+ Drop Bias: Rare Items
+-Reworked Harpie's Nest(Monster Level 87)
+ Drop Bias: Uniques
+-Reworked Moonshine Distillery (Monster Level 87)
+ Drop Bias: Rare Items
+-Reworked Fake Note Factory(Monster Level 88)
+ Drop Bias: Gold
+-Reworked Poppy Farm (Monster Level 88) 
+ Drop Bias: Ore
+-Reworked Naraku 1-3 (Monster Level 90) 
+
+ Drop Bias: Ore, Runes and Gold
+ Boss Drop Bias (Naraku 1): Crafting Material
+-Reworked Bill Roper Memorial Ball Park (Monster Level 92) 
+ Boss Drop Bias: Crafting Material, Kanji Runes 
+-Reworked GFraizer Dome (Monster Level 92)  
+ Boss Drop Bias: Crafting Material, Kanji Runes 
+-Reworked Nowhere (Monster Level 93) 
+ Drop Bias: Ore, Runes, Gems
+-Reworked Nihlathak's Domain (Monster Level 94) 
+ Drop Bias: Ore, Runes, Gems, Anvil and Dstones
+ Boss Drop Bias: Crafting Material, Kanji Runes 
+
+-Renamed a Mini Boss after Corr
+
+[SKILLTREE]
+
+-General:
+-All Summons base Stats scale with Hardpoints 
+-Golems Resistance are fixed per Difficulty 
+
+-Necromancer:
+-Added Sounds for Rude Offense and Essence
+ Shift
+-Added Minion Explosion, Essence Shift as Necromancer Skills
+-Added Teeth, Bone Spear and Raise Skeleton Mage back
+-Removed Summon Resist, Gost Hydra, Killer Scythe, Raise 
+ Vampire and Frozen Spear
+-Reworked Stars of Death
+-Reworked all Necromancer Minions
+-Buffed Poison Nova slightly
+-Raise Skeleton now has Chance to trigger Splash Damage
+(Max 5 Skeletons)
+-Raise Skeleton Mage now has Aoe Skills
+(Max 5 Skeletons)
+-Clay Golem now has a Chance to trigger Opression
+(Max 1 Clay Golem)
+-Blood Golem now has a Chance to trigger Moulten Bolder
+(Max 1 Blood Golem)
+-Increased Blood Golem's Life
+-Metal Golem now has a Chance to trigger Shockwave
+(Max 1 Metal Golem)
+-Fire Golem now has a Chance to trigger Firestorm
+(Max 1 Fire Golem)
+-Lower Resist pierces Elemental Resistance (per Baselevel) 
+-Pierce Flesh and Bone pierces Poison and Magic Resistance
+(per Baselevel) 
+-Reworked Corpse Explosion Mana Cost
+-Nerfed the initial -%Physical Resistance on Weaken, Amplified 
+ Damage, Iron Maiden and Decrepify
+
+-Druid:
+-Added Grizzly back
+-Removed Elemental 
+-Reworked all Druid Minions
+-Summon Spirit Wolf now has a Chance to trigger Splash Damage (Max 5 Wolves)
+-Summon Dire Wolf now has a Chance to trigger Tornado
+(Max 3 Wolves)
+-Summon Grizzly now has a Chance to cast Mind Blast
+(Max 1 Grizzly)
+-Poison Creeper pierces Poison Resistance (per Baselevel)
+-Volcanic Creeper pierces Fire Resistance (per Baselevel)
+-Arctic Creeper pierces Cold Resistance (per Baselevel)
+
+-Paladin:
+-Adjusted all Paladin Aura´s to 18 Range
+-Adjusted Protection from Cold, Lightning and Fire required 
+ Level to Level 1
+-Conviction pierces Elemental Resistance (per Baselevel)
+-Reworked Prayer (requires Baselevel)
+-Adjusted Shield Throw Missile Formula resulting in overall 
+ more Missiles 
+
+-Barbarian:
+-Increased War Cry Damage, reduced Manacost and set the 
+ Stunlength to 0.4 Seconds 
+-Replaced Ancient´s s Call with Added Inner Corruption (Curse 
+ that reduces Lightning and Magic Resistance)
+
+-Amazon:
+-Replaced Slow Missile with Ahtena´s Presence (Aura, similar 
+ to Conviction)
+-Freezing Arrow 1 extra Missile every 15 Hardpoints
+-Immolation Arrow 1 extra Missile every 15 Hardpoints
+-Reduced Lightning Fury Synergies to 2
+-Valkyrie gains 1 additonal Valkyrie per 20 Points in Decoy 
+ (instead of 25 Points)
+
+-Assassin:
+-Replaced Cloak of Shadows with Horific Form (Passive that 
+ lowers Enemies Resistance)
+-Added Sounds for Field of Battle
+
+-Hirelings:
+-Check ESR Wiki for a full list of all changes: 
+ https://d2esr.fandom.com/ 
+
+[ITEM ONLY SKILLS]
+
+-Nerfed Field of Battle Skill Damage, buffed its Synergies
+-Slightly buffed Grim Triangle
+
+
+[ITEMS]
+
+-Removed Potion of Heroism, Potion Super Heroism, Mountain Dew, Nirvana Grass and  Commander's Ribbon
+-Removed all Multistocker Cube Recipes with Organs other than 
+ Hearts
+-Automagic Mods can now spawn on Rare Items as well
+-Fixed Automods Paladin Shields (Combat Skills)
+-Changed every Item with Summon Resists Oskill
+-Removed Lower Resist and Conviction Oskill from nearly all 
+ Items
+
+[ITEMAFFIXES]
+
+-Added several new Affixes 
+-Reworked several Affixes
+-Nerfed -% F/L/C/P Pierce on Jewels 1% max
+-Added -% Magic and Physical Pierce on Jewels
+-Disabled +1 All Skills on Jewels
+-Disabled +1 to Max Resistance on Jewels
+-Disabled Lower Resist Oskill 
+
+[UNIQUES]
+
+-Reworked and named several Hidden Treasures, some remain yet to be claimed
+-Nerfed Crushing Blow across all Items by roughly 50%
+-Added Soulstone, Dark Universe    
+
+-Reworked the following Items (major changes):
+-Arm of the Skeleton, Death's Cowl, Baal's Eye, Izeal's Vise, 
+ Nexus Star, Lady Eboshi's Greed, Larias' Licentious Lament,  
+ Ideal Craft, Killashandra Ree's Black Crystal, The Tipsy 
+ Donut, BlackMage's Knucklebone, Yagul's Wrath, The Mad 
+ Celt's, Shining Sparkly, Killjoy's Attitude, Dfuzzz's 
+ Fingerguard, Thunder Star, Darth Maul, Goldfinger, 
+ Hellforge's Finest, Iron Fist, Acero Frio, Stonewall, 
+ Hellrust, The Barricade 
+
+-Reworked the following Items (minor changes):
+ -Hermes' Gift, The Heel of Blood, Spirits of the Dead, Boots 
+ of the Serpent, Sescheronya's Spark, Bohemian Stone,  Smiiiff 
+ Stone, Salamander Stone, Icestorm Shard, Jindujun, Hellfire 
+ Torch, Inarius' Fall, Band of Constriction, Spirit of the 
+ Forest, Heart of the Succubi, The Assassin's Stiletto, 
+ Elemental Jewel
+
+[RUNEWORDS+GEMWORDS]
+
+-Nerfed Crushing Blow across all Items by roughly 50%
+-Reworked the following Items (this includes buff/nerfs or 
+ changes):
+-Unlawful, Burn, ArchDimeron and Discontent
+
+[CREDITS]
+
+-Maks
+-Firesnake
+-AlphA
+
+-Phrozenkeep
+
+-The following Modders in no particular order: 
+
+madbrahmin, Lastcorpse, Lurix, SpiKe, thanosdk, 
+PureRage, MnW95, Ogodei, ocarinas, Dav92, 
+Fog, Sky, Thaison, mmpx222, Firehawk, 
+sweetcarolinahoney, reiyo_oki, Revan,
+jessedazebra, Nizari, psychotwo, 
+Silvermàne, Kong, Eezstreet, Cla$$ics,
+erevos, Barby, Zebra, Fawahar, Max

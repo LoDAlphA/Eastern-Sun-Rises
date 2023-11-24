@@ -1,0 +1,33 @@
+pet type	idx	group	basemax	warp	range	partysend	unsummon	automap	name	drawhp	icontype	baseicon	mclass1	micon1	mclass2	micon2	mclass3	micon3	mclass4	micon4	eol
+none	0																				0
+single	1		1	1		1		1													0
+valkyrie	2		5	1		1	1	1	StrUI4	1	2	valkarieicon									0
+golem	3		5	1		1	1	1	StrUI0	1	2	metalgolumicon	291	metalgolumicon							0
+skeleton	4		0	1		1	1	1	StrUI1	1	2	skeletonicon									0
+skeletonmage	5		0	1		1	1	1	StrUI2	1	2	skeletonmageicon									0
+revive	6		0	1		1	1	1	StrUI3	1	2	revivedicon									0
+hireable	7		1	1		1		1		1		rogueicon	338	act2hireableicon	359	act3hireableicon	561	barbhirable_icon			0
+dopplezon	8		0				1	1		1											0
+invis	9		0	1																	0
+raven	10		0	1					strUI5		2	raven									0
+spiritwolf	11	1	0	1		1	1	1	strUI6	1	2	wolf									0
+fenris	12	1	0	1		1	1	1	UIFenirsui	1	2	wolf									0
+totem1	13	2	0	1		1	1	1	strUI14	1	2	oaksage									0
+plaguevine	14		0	1		1	1	1	strUI13p	1	2	plaguepoppy	425								0
+grizzly	15		0	1		1	1	1	strUI7	1	2	bear									0
+shadowwarrior	16	3	0	1		1	1	1	UiShadowUI	1	2	shadowassassin									0
+assassintrap	17		0		1																0
+pettrap	18		0		1																0
+hydra	19		0		1																0
+ancientbarb	20		0	1		1	1	1	Ancient Barbarian 1	1	1	barbhirable_icon									0
+bloodgolem	21		5	1		1	1	1	StrUI0	1	2	bloodgolumicon	290	bloodgolumicon							0
+claygolem	22		5	1		1	1	1	StrUI0	1	2	earthgolumicon	289	earthgolumicon							0
+firegolem	23		5	1		1	1	1	StrUI0	1	2	firegolumicon	292	firegolumicon							0
+cyclevine	24		0	1		1	1	1	strUI13c	1	2	vines	426								0
+vines	25		0	1		1	1	1	strUI13v	1	2	cycleoflife	427								0
+waterelm	26		0	1		1	1	1	strUI7e	1	2	waterelm									0
+totem2	27	2	0	1		1	1	1	strUI14	1	2	heartofwolverine									0
+totem3	28	2	0	1		1	1	1	strUI14	1	2	spiritofbarbs									0
+walkingdecoy	29		0	1		1	1	1	strUI15	1	2	barbhirable_icon									0
+shadowmaster	30	3	5	1		1	1	1	UiShadowUI	1	2	shadowassassin									0
+raven2	31		0	1					strUI5		2	raven									0

@@ -26,7 +26,7 @@
 24	holyfire	35	0	0	0	0	0
 25	thorns	36	0	0	0	0	0
 26	defiance	37	0	0	0	0	0
-27	thunderstorm	38	0	0	0	0	0
+27	sthunderstorm	215	0	0	0	0	0
 28	stamina	41	0	0	0	0	0
 29	blessedaim	40	0	0	0	0	0
 30	concentration	42	0	0	0	0	0
@@ -97,3 +97,6 @@
 95	holyshockt	240	0	0	0	0	0
 96	holyshocks	241	0	0	0	0	0
 97	stoned	250	1	0	0	0	0
+98	thunderstorm	38	0	0	0	0	0
+99	behemothed	190	0	0	0	0	0
+100	coldembr	187	0	0	0	0	0

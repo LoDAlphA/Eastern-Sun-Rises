@@ -1,0 +1,5 @@
+#Lines starting with # are ignored
+#To add a desired prefix to this file, find the line in MagicSuffix_all.txt and copy it here
+#Example:
+#278	of Skill Master	1	48	36	1	Teleport oskill (1 - 4)  	amul ring helm tors staf   sorc
+#Without the # would add the teleport oskill suffix

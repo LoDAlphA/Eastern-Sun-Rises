@@ -1,0 +1,249 @@
+gcv ÿc;Chipped Amethyst
+gfv ÿc;Flawed Amethyst
+gsv ÿc;Amethyst
+gcy ÿc9Chipped Topaz
+gfy ÿc9Flawed Topaz
+gsy ÿc9Topaz
+gcb ÿc3Chipped Sapphire
+gfb ÿc3Flawed Sapphire
+gsb ÿc3Sapphire
+gcg ÿc2Chipped Emerald
+gfg ÿc2Flawed Emerald
+gsg ÿc2Emerald
+gcr ÿc1Chipped Ruby
+gfr ÿc1Flawed Ruby
+gsr ÿc1Ruby
+gcw ÿc/Chipped Diamond
+gfw ÿc/Flawed Diamond
+gsw ÿc/Diamond
+skc ÿc0Chipped Skull
+skf ÿc0Flawed Skull
+sku ÿc0Skull
+gck ÿc5Chipped Obsidian
+gfk ÿc5Flawed Obsidian
+gsk ÿc5Obsidian
+vps Stamina Potion
+yps Antidote Potion
+wms Thawing Potion
+aqv Arrows
+cqv Bolts
+hp1 Minor Healing Potion
+hp2 Light Healing Potion
+hp3 Healing Potion
+mp1 Minor Mana Potion
+mp2 Light Mana Potion
+mp3 Mana Potion
+tsc Scroll of Town Portal
+isc Scroll of Identify
+Key Key
+
+cap	Cap/hat
+skp	Skull Cap
+hlm	Helm
+fhl	Full Helm
+ghm	Great Helm
+crn	Crown
+msk	Mask
+qui	Quilted Armor
+lea	Leather Armor
+hla	Hard Leather Armor
+stu	Studded Leather
+rng	Ring Mail
+scl	Scale Mail
+chn	Chain Mail
+brs	Breast Plate
+spl	Splint Mail
+plt	Plate Mail
+fld	Field Plate
+gth	Gothic Plate
+ful	Full Plate Mail
+aar	Ancient Armor
+ltp	Light Plate
+buc	Buckler
+sml	Small Shield
+lrg	Large Shield
+kit	Kite Shield
+tow	Tower Shield
+gts	Gothic Shield
+lgl	Gloves(L)
+vgl	Heavy Gloves
+mgl	Bracers(M)
+tgl	Light Gauntlets
+hgl	Gaunlets(H)
+lbt	Leather Boots
+vbt	Heavy Boots
+mbt	Chain Boots
+tbt	Light Plate Boots
+hbt	Plate Boots
+lbl	Sash(L)
+vbl	Light Belt
+mbl	Belt(M)
+tbl	Heavy Belt
+hbl	Girdle(H)
+bhm	Bone Helm
+bsh	Bone Shield
+spk	Spiked Shield
+
+dr1	Wolf Head
+dr2	Hawk Helm
+dr3	Antlers
+dr4	Falcon Mask
+dr5	Spirit Mask
+ba1	Jawbone Cap
+ba2	Fanged Helm
+ba3	Horned Helm
+ba4	Assault Helmet
+ba5	Avenger Guard
+pa1	Targe
+pa2	Rondache
+pa3	Heraldic Shield
+pa4	Aerin Shield
+pa5	Crown Shield
+ne1	Preserved Head
+ne2	Zombie Head
+ne3	Unraveller Head
+ne4	Gargoyle Head
+ne5	Demon Head
+ci0	Circlet
+ci0	Coronet
+cix	Tiara
+ci0	Diadem
+
+cix	Hachigane
+eht	Spirit Crown
+clk	Cloak
+rob	Robe
+shl	Spiked Shoulder
+elv	Elven Chain
+fts	Fortress Shield
+irg	Iron Guards
+dbt	Dimensional Boots
+msb	Muscle Belt
+ci4     Faceguard
+
+
+
+hax	Hand Axe
+axe	Axe
+2ax	Double Axe
+mpi	Military Pick
+wax	War Axe
+lax	Large Axe
+bax	Broad Axe
+btx	Battle Axe
+gax	Great Axe
+gix	Giant Axe
+wnd	Wand
+ywn	Yew Wand
+bwn	Bone Wand
+gwn	Grim Wand
+clb	Club
+scp	Scepter
+gsc	Grand Scepter
+wsp	War Scepter
+spc	Spiked Club
+mac	Mace
+mst	Morning Star
+fla	Flail
+whm	War Hammer
+mau	Maul
+gma	Great Maul
+ssd	Short Sword
+scm	Scimitar
+sbr	Saber
+flc	Falchion
+crs	Crystal Sword
+bsd	Broad Sword
+lsd	Long Sword
+wsd	War Sword
+2hs	Two-Handed Sword
+clm	Claymore
+gis	Giant Sword
+bsw	Bastard Sword
+flb	Flamberge
+gsd	Great Sword
+dgr	Dagger
+dir	Dirk
+kri	Kriss
+bld	Blade
+tkf	Throwing Knife
+tax	Throwing Axe
+bkf	Balanced Knife
+bal	Balanced Axe
+jav	Javelin
+pil	Pilum
+ssp	Short Spear
+glv	Glaive
+tsp	Throwing Spear
+spr	Spear
+tri	Trident
+brn	Brandistock
+spt	Spetum
+pik	Pike
+bar	Bardiche
+vou	Voulge
+scy	Scythe
+pax	Poleaxe
+hal	Halberd
+wsc	War Scythe
+sst	Short Staff
+lst	Long Staff
+cst	Gnarled Staff
+bst	Battle Staff
+wst	War Staff
+sbw	Short Bow
+hbw	Hunter's Bow
+lbw	Long Bow
+cbw	Composite Bow
+sbb	Short Battle Bow
+lbb	Long Battle Bow
+swb	Short War Bow
+lwb	Long War Bow
+lxb	Light Crossbow
+mxb	Crossbow
+hxb	Heavy Crossbow
+rxb	Repeating Crossbow
+gps	Rancid Gas Potion
+ops	Oil Potion
+gpm	Choking Gas Potion
+opm	Exploding Potion
+gpl	Strangling Gas Potion
+opl	Fulminating Potion
+d33	decoy dagger
+
+ktr	Katar
+wrb	Wrist Blade
+axf	Hatchet Hands
+ces	Cestus
+clw	Claws
+btl	Blade Talons
+skr	Scissors Katar
+
+ob1	Eagle Orb
+ob2	Sacred Globe
+ob3	Smoked Sphere
+ob4	Clasped Orb
+ob5	Dragon Stone
+am1	Stag Bow
+am2	Reflex Bow
+am3	Maiden Spear
+am4	Maiden Pike
+am5	Maiden Javelin
+
+aq2	Magic Arrows
+cq2	Magic Bolts
+aq0	Magic Arrows (soc)
+cq0	Magic Bolts (soc)
+gsp	Great Scepter
+apb	Precision Bow
+njt	Ninja To
+bts	Tribal Spear
+shc	Oak Branch
+nrd	Ritualistic Dagger
+nsy	Wretched Scythe
+syn	Dread Scythe
+pbe	Blessed Edge
+0be	Celestial Blade
+mnb	Mana Blade
+kkl     Brass Knuckle
+arm     Battering Arm

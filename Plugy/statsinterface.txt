@@ -2,7 +2,8 @@
 MF/GG/XP/CHEAP								0
 mag%	1	1	25	435	9	4	80	0
 gold%	1	1	25	420	9	4	79	0
-addxp	1	1	25	395	4	4	85	0
+cheap	1	1	25	405	4	4	87	0
+addxp	1	1	25	390	4	4	85	0
 LIFE								0
 hp%	1	1	25	370	1	4	76	0
 regen	1	1	25	355	1	4	74	0
@@ -46,6 +47,7 @@ freeze	1	2	25	195	3	4	134	0
 pierce	1	2	25	180		4	156	0
 slow	1	2	25	165		4	150	0
 howl	1	2	25	150		4	112	0
+Kill_display	1	2	25	135		4	249	0
 								0
 ELEMENTAL DAMAGE								0
 FIRE								0
@@ -107,24 +109,27 @@ RESISTANCE								0
 FIRE								0
 res-fire	1	5	25	435	1	4	39	0
 res-fire-max	1	5	25	420	1	4	40	0
-abs-fire	1	5	25	405	1	4	143	0
-abs-fire%	1	5	25	390	1	4	142	0
+item_absorbfire	1	5	25	405	1	4	143	0
+item_absorbfire_percent	1	5	25	390	1	4	142	0
 COLD								0
 res-cold	1	5	25	365	3	4	43	0
 res-cold-max	1	5	25	350	3	4	44	0
-abs-cold	1	5	25	335	3	4	149	0
-abs-cold%	1	5	25	320	3	4	148	0
+item_absorbcold	1	5	25	335	3	4	149	0
+item_absorbcold_percent	1	5	25	320	3	4	148	0
 LIGHTNING								0
 res-ltng	1	5	25	295	9	4	41	0
 res-ltng-max	1	5	25	280	9	4	42	0
-abs-ltng	1	5	25	265	9	4	145	0
-abs-ltng%	1	5	25	250	9	4	144	0
-POISON								
+item_absorblight	1	5	25	265	9	4	145	0
+item_absorblight_percent	1	5	25	250	9	4	144	0
+POISON								0
 res-pois	5	5	25	225	2	4	45	0
 res-pois-max	5	5	25	210	2	4	46	0
 res-pois-len	1	5	25	195	2	4	110	0
 MAGIC								
 res-mag	1	5	25	170	8	4	37	0
 res-mag-max	1	5	25	155	8	4	38	0
-abs-mag	1	5	25	140	8	4	147	0
-abs-mag%	1	5	25	125	8	4	146	0
+item_absorbmagic	1	5	25	140	8	4	147	0
+item_absorbmagic_percent	1	5	25	125	8	4	146	0
+								0
+player breakpoints	1	6	25	445		1	10000	0
+mercenaries breakpoints	1	6	25	300		1	10001	0

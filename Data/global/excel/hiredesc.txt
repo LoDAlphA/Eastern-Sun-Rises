@@ -1,0 +1,12 @@
+Hireling Description	Code	NameStr
+None		
+Fire Arrow	farw	strhirespecial1
+Cold Arrow	carw	strhirespecial2
+Combat	comb	PalMercEXST4X
+Defensive Auras	def	PalMercExST1X
+Offensive Auras	off	PalMercEXST3X
+Fire Spells	fire	strhirespecial7
+Cold Spells	cold	strhirespecial6
+Lightning Spells	ltng	strhirespecial5
+Berserker/Bear Growling	baro	strhirebarboff
+Hitproof/Cleansing	bard	strhirebarbdef
