@@ -1,0 +1,6 @@
+in d2mod.ini you need change
+
+[Orb]
+EnableLimit=1
+MaxFrameLife=46
+MaxFrameMana=46

@@ -9,9 +9,9 @@ Crossbow Quiver	xboq	misl		0	1	rarm	larm		xbow	0	1	0	1			1	0	0	0	1	1	1	0	3		0		0
 Player Body Part	play	misc		0	0					0	0	0	0			1	1	0	0	0	0	0	0	3		0		0							misc	0
 Herb	herb	misc		0	0					0	0	0	0			0	0	0	0	0	0	0	0	3		0		0							misc	0
 Potion	poti	misc		0	0					0	0	0	0			1	0	0	1	0	0	0	0	3		0		0							misc	0
-Ring	ring	misc		0	1	rrin	lrin			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3		0		6	invnormalring1	invnormalring2	invnormalring3	invnormalring4	invnormalring5	invnormalring6	misc	0
+Ring	ring	misc		0	1	rrin	lrin			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3		0		5	invrin1	invrin2	invrin3	invrin4	invrin5		misc	0
 Elixir	elix	misc		0	0					0	0	0	0			0	0	0	1	0	0	0	0	3		0		0							misc	0
-Amulet	amul	misc		0	1	neck	neck			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3		0		6	invnormalamulet1	invnormalamulet2	invnormalamulet3	invnormalamulet4	invnormalamulet5	invnormalamulet6	misc	0
+Amulet	amul	misc		0	1	neck	neck			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3		0		3	invamu1	invamu2	invamu3				misc	0
 Charm	char	misc		0	0					0	0	0	0	1		0	1	0	0	1	1	1	0	3		0		3	invch1	invch4	invch7				misc	0
 Not Used				0	0					0	0	0	0			0	0	0	0	0	0	0	0	3		0		0								0
 Boots	boot	armo		1	1	feet	feet			0	0	0	0		1	0	0	0	0	2	2	2	0	3		1		0							armo	0
@@ -58,7 +58,7 @@ Staves And Rods	rod	blun		0	0					0	0	0	0		1	0	0	0	0	0	0	0	0	3		0		0								0
 Missile	misl	misc		0	0					0	0	0	0			0	0	0	0	1	1	1	0	3		0		0								0
 Blunt	blun	mele		0	0					0	0	0	0		1	0	0	0	0	0	0	0	0	3		0		0								0
 Expansion																																				0
-Jewel	jewl	sock		0	0					0	0	0	0	1	1	0	0	1	0	0	0	0	0	3		0		6	invnormaljuwel01	invnormaljuwel02	invnormaljuwel03	invnormaljuwel04	invnormaljuwel05	invnormaljuwel06	misc	0
+Jewel	jewl	sock		0	0					0	0	0	0	1	1	0	0	1	0	0	0	0	0	3		0		6	invJewel18	invJewel19	invJewel20	invJewel21	invJewel26	invJewel27	misc	0
 Class Specific	clas			0	0					0	0	0	0		1	0	0	0	0	0	0	0	0	3		0		0								0
 Amazon Item	amaz	clas		0	0					0	0	0	0		1	0	0	0	0	0	0	0	0	1		0	ama	0								0
 Barbarian Item	barb	clas		0	0					0	0	0	0		1	0	0	0	0	0	0	0	0	1		0	bar	0								0
@@ -105,21 +105,21 @@ Sapphire	gems	gem		0	0					0	0	0	0			1	0	1	0	0	0	0	0	3		0		0							misc	0
 Topaz	gemt	gem		0	0					0	0	0	0			1	0	1	0	0	0	0	0	3		0		0							misc	0
 Skull	gemz	gem		0	0					0	0	0	0			1	0	1	0	0	0	0	0	3		0		0							misc	0
 Obsidian	gemk	gem		0	0					0	0	0	0			1	0	1	0	0	0	0	0	3		0		0							misc	0
-Amazonian Loop	zrin	amaz	ring	0	1	rrin	lrin			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3	ama	0	ama	6	invamazonring1	invamazonring2	invamazonring3	invamazonring4	invamazonring5	invamazonring6	misc	0
-Sorcerer's Band	srin	sorc	ring	0	1	rrin	lrin			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3	sor	0	sor	6	invsorceressring1	invsorceressring2	invsorceressring3	invsorceressring4	invsorceressring5	invsorceressring6	misc	0
-Necromancer's Stone	nrin	necr	ring	0	1	rrin	lrin			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3	nec	0	nec	6	invnecromancerring1	invnecromancerring2	invnecromancerring3	invnecromancerring4	invnecromancerring5	invnecromancerring6	misc	0
-Paladic Halo	prin	pala	ring	0	1	rrin	lrin			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3	pal	0	pal	6	invpaladinring1	invpaladinring2	invpaladinring3	invpaladinring4	invpaladinring5	invpaladinring6	misc	0
-Barbaric Knuckle	brin	barb	ring	0	1	rrin	lrin			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3	bar	0	bar	6	invbarbarianring1	invbarbarianring2	invbarbarianring3	invbarbarianring4	invbarbarianring5	invbarbarianring6	misc	0
-Druid's Seal	drin	drui	ring	0	1	rrin	lrin			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3	dru	0	dru	6	invdruidring1	invdruidring2	invdruidring3	invdruidring4	invdruidring5	invdruidring6	misc	0
-Assassin's Jewel	arin	assn	ring	0	1	rrin	lrin			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3	ass	0	ass	6	invassassinring1	invassassinring2	invassassinring3	invassassinring4	invassassinring5	invassassinring6	misc	0
-Amazonian Pin	zamu	amaz	amul	0	1	neck	neck			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3	ama	0	ama	6	invamazonamulet1	invamazonamulet2	invamazonamulet3	invamazonamulet4	invamazonamulet5	invamazonamulet6	misc	0
-Sorcerer's Talisman	samu	sorc	amul	0	1	neck	neck			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3	sor	0	sor	6	invsorceressamulet1	invsorceressamulet2	invsorceressamulet3	invsorceressamulet4	invsorceressamulet5	invsorceressamulet6	misc	0
-Death's Locket	namu	necr	amul	0	1	neck	neck			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3	nec	0	nec	6	invnecromanceramulet1	invnecromanceramulet2	invnecromanceramulet3	invnecromanceramulet4	invnecromanceramulet5	invnecromanceramulet6	misc	0
-Holy Pendant	pamu	pala	amul	0	1	neck	neck			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3	pal	0	pal	6	invpaladinamulet1	invpaladinamulet2	invpaladinamulet3	invpaladinamulet4	invpaladinamulet5	invpaladinamulet6	misc	0
-Primal Charm	bamu	barb	amul	0	1	neck	neck			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3	bar	0	bar	6	invbarbarianamulet1	invbarbarianamulet2	invbarbarianamulet3	invbarbarianamulet4	invbarbarianamulet5	invbarbarianamulet6	misc	0
-Druidic Necklace	damu	drui	amul	0	1	neck	neck			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3	dru	0	dru	6	invdruidamulet1	invdruidamulet2	invdruidamulet3	invdruidamulet4	invdruidamulet5	invdruidamulet6	misc	0
-Assassin's Choker	aamu	assn	amul	0	1	neck	neck			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3	ass	0	ass	6	invassassiamulet1	invassassiamulet2	invassassiamulet3	invassassiamulet4	invassassiamulet5	invassassiamulet6	misc	0
-Amazon Bow	pbow	bow	amaz	1	1	rarm	larm	bowq		0	0	0	0		1	0	0	0	0	3	5	6	1	1		0	ama	0							weap	0
+Amazonian Loop	zrin	amaz	ring	0	1	rrin	lrin			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3	ama	0	ama	3	invringama1	invringama2	invringama3				misc	0
+Sorcerer's Band	srin	sorc	ring	0	1	rrin	lrin			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3	sor	0	sor	3	invringsorc1	invringsorc2	invringsorc3				misc	0
+Necromancer's Stone	nrin	necr	ring	0	1	rrin	lrin			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3	nec	0	nec	3	invringnec1	invringnec2	invringnec3				misc	0
+Paladic Halo	prin	pala	ring	0	1	rrin	lrin			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3	pal	0	pal	3	invringpala1	invringpala2	invringpala3				misc	0
+Barbaric Knuckle	brin	barb	ring	0	1	rrin	lrin			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3	bar	0	bar	3	invringbarb1	invringbarb2	invringbarb3				misc	0
+Druid's Seal	drin	drui	ring	0	1	rrin	lrin			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3	dru	0	dru	3	invringdruid1	invringdruid2	invringdruid3				misc	0
+Assassin's Jewel	arin	assn	ring	0	1	rrin	lrin			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3	ass	0	ass	3	invringassa1	invringassa2	invringassa3				misc	0
+Amazonian Pin	zamu	amaz	amul	0	1	neck	neck			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3	ama	0	ama	3	invamuama1	invamuama2	invamuama3				misc	0
+Sorcerer's Talisman	samu	sorc	amul	0	1	neck	neck			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3	sor	0	sor	3	invamusorc1	invamusorc2	invamusorc3				misc	0
+Death's Locket	namu	necr	amul	0	1	neck	neck			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3	nec	0	nec	3	invamunec1	invamunec2	invamunec3				misc	0
+Holy Pendant	pamu	pala	amul	0	1	neck	neck			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3	pal	0	pal	3	invamupala1	invamupala2	invamupala3				misc	0
+Primal Charm	bamu	barb	amul	0	1	neck	neck			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3	bar	0	bar	3	invamubarb1	invamubarb2	invamubarb3				misc	0
+Druidic Necklace	damu	drui	amul	0	1	neck	neck			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3	dru	0	dru	3	invamudruid1	invamudruid2	invamudruid3				misc	0
+Assassin's Choker	aamu	assn	amul	0	1	neck	neck			0	0	0	0	1	1	0	0	0	0	1	1	1	0	3	ass	0	ass	3	invamuassa1	invamuassa2	invamuassa3				misc	0
+Amazon Bow	pbow	bow	amaz	1	1	rarm	larm	bowq		0	0	0	0		1	0	0	0	0	3	5	6	1	1	ama	0	ama	0							weap	0
 Sorceress Mana Blade	mana	swor	sorc	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	5	6	0	1	sor	0	sor	0							weap	0
 Necromancer Dagger	ndgr	knif	necr	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	5	6	0	1	nec	0	nec	0							weap	0
 Necromancer Polearm	npol	pole	necr	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	5	6	0	3	nec	0	nec	0							weap	0
@@ -176,4 +176,5 @@ Cloak	clok	tors		1	1	tors	tors			0	0	0	0		1	0	0	0	0	3	5	6	0	1	ass	0		0							arm
 Magic Eraser	eras	cube		0	0					0	0	0	0			1	0	0	0	0	0	0	0	3		0		0							misc	0
 Gem 6 Pack	gm6p	cube		0	0					0	0	0	0			1	0	0	0	0	0	0	0	3		0		0							misc	0
 Organ 6 Pack	or6p	cube		0	0					0	0	0	0			1	0	0	0	0	0	0	0	3		0		0								0
-Merc Only	merc			0	0					0	0	0	0		1	0	0	0	0	0	0	0	0	3		0		0								0
+Grand Charm 3	tcha	char		0	0					0	0	0	0			0	1	0	0	3	3	3	0	3		0		0							misc	0
+Grand Charm 4	tchb	char		0	0					0	0	0	0			0	1	0	0	0	0	0	0	3		0		0							misc	0

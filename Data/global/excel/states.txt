@@ -127,16 +127,16 @@ progressive_other	124																																					1										progressive
 progressive_fire	125																																					1										progressive_fire_1			progressive_fire	1	1																		0
 progressive_cold	126																																					1										progressive_cold_1			progressive_cold	1	1																		0
 progressive_lightning	127																																					1										progressive_lightning_1			progressive_lightning	1	1																		0
-shrine_armor	128							1								1																												shrine_armor	shrine_shimmer00						armorclass																				0
-shrine_combat	129							1						1	1																													shrine_combat	shrine_shimmer00						tohit																				0
-shrine_resist_lightning	130							1										1																										shrine_resist_lightning	shrine_shimmer01						lightresist																				0
-shrine_resist_fire	131							1									1																											shrine_resist_fire	shrine_shimmer00						fireresist																				0
-shrine_resist_cold	132							1											1																									shrine_resist_cold	shrine_shimmer01						coldresist																				0
-shrine_resist_poison	133							1													1																							shrine_resist_poison	shrine_shimmer01						poisonresist																				0
-shrine_skill	134							1																																				shrine_skill	shrine_shimmer00							9	6																		0
-shrine_mana_regen	135							1																																				shrine_mana_regen	shrine_shimmer01																										0
-shrine_stamina	136							1												1																								shrine_stamina	shrine_shimmer01						stamina																				0
-shrine_experience	137							1																																				shrine_experience	shrine_shimmer00																										0
+shrine_armor	128															1																												shrine_armor	shrine_shimmer00						armorclass																				0
+shrine_combat	129													1	1																													shrine_combat	shrine_shimmer00						tohit																				0
+shrine_resist_lightning	130																	1																										shrine_resist_lightning	shrine_shimmer01						lightresist																				0
+shrine_resist_fire	131																1																											shrine_resist_fire	shrine_shimmer00						fireresist																				0
+shrine_resist_cold	132																		1																									shrine_resist_cold	shrine_shimmer01						coldresist																				0
+shrine_resist_poison	133																				1																							shrine_resist_poison	shrine_shimmer01						poisonresist																				0
+shrine_skill	134																																											shrine_skill	shrine_shimmer00							9	6																		0
+shrine_mana_regen	135																																											shrine_mana_regen	shrine_shimmer01																										0
+shrine_stamina	136																			1																								shrine_stamina	shrine_shimmer01						stamina																				0
+shrine_experience	137																																											shrine_experience	shrine_shimmer00																										0
 fenris_rage	138																																											direwolfcharged	direwolfcharged																										0
 wolf	139	3			1						1	1		1																												1										14											druid_morph	druid_morph	1	430					0
 bear	140	3			1						1	1			1	1																										1										14											druid_morph	druid_morph	1	431					0
@@ -184,21 +184,21 @@ passive_resistfire	181																																																										
 passive_resistcold	182																																																																						0
 passive_resistltng	183																																																																						0
 morphcancel	184																																																																						0
-diabloset	185	3			1							1																																					fire_cast_2		item_maxhp_percent	14											druid_morph	druid_morph	1	243					0
-wavesset	186	3			1							1																																					ice_cast_1		item_maxhp_percent	14						85	50	255	255	255	druid_morph	druid_morph	1	364					0
-noirset	187	3			1							1																																							item_maxhp_percent	14						85	16	255	255	255	druid_morph	druid_morph	1	160					0
-ihsanset	188	3			1							1																																					ice_cast_3		item_maxhp_percent	14						85	73	255	255	255	druid_morph	druid_morph	1	256					0
-borikset	189																																																			2																			0
-lichset	190	3			1							1																																							item_maxhp_percent	14											druid_morph	druid_morph	1	734					0
-brotherset	191	3			1							1																																					ice_cast_3		item_maxhp_percent	14						85	107	255	255	255	druid_morph	druid_morph	1	709					0
-kainset	192	3			1							1																																							item_maxhp_percent	14						85	73	255	255	255	druid_morph	druid_morph	1	715					0
-griffithset	193	3			1							1																																							item_maxhp_percent	14						85	106	255	255	255	druid_morph	druid_morph	1	715					0
+slackeffect	185						1	1																	1	1	1	1																slackeffect					curse_hit		item_slow													object_barrel_explode							0
+eshiftdebuff	186						1																																					eshiftoverlay					curse_hit		item_tohit_percent												impact_bluemotize_1	object_barrel_explode							0
+coldembr	187																		1																									coldembraceover							coldresist												impact_bluemotize_1	object_barrel_explode						146	0
+magictowerstate	188										1																																																												0
+pested	189																																																																						0
+behemothed	190	2				1																																						behestart							damageresist													object_barrel_explode							0
+rottingmiss	191						1	1																																				flash							item_stupidity												paladin_holyshield								0
+doubledtroubledkekw	192																																											charmoverlay														23	1	255	99	99		object_barrel_explode						146	0
+unused1943	193																																																																						0
 tyraelset	194																																											multigleam	halo																										0
-jadeset	195	3			1							1																																					cast_undead		item_maxhp_percent	14						85	55	255	255	255	druid_morph	druid_morph	1	735					0
-arionset	196	3			1							1																																							item_maxhp_percent	14											druid_morph	druid_morph	1	801					0
-danarakset	197	3			1							1																																baal_on_throne							item_maxhp_percent	14											druid_morph	druid_morph	1	737					0
-natureset	198	3			1							1																																							item_maxhp_percent	14											druid_morph	druid_morph	1	732					0
-cowset	199	3			1							1																																					light_cast_1		item_maxhp_percent	14											druid_morph	druid_morph	1	391					0
+unused195	195																																																																						0
+unused196	196																																																																						0
+unused197	197																																																																						0
+unused198	198																																																																						0
+unused199	199																																																																						0
 paralyze	200						1	1																																																		100	105	255	255	255									0
 eagleeye	201	2																																										quickness							attackrate																				0
 elemmastery	202																																																																						0
@@ -216,19 +216,19 @@ ironclaws	213															1																																			skill_armor_perc
 shadearmor	214	2														1																												shade							item_armor_percent																				0
 sthunderstorm	215																																											sthunderstormfront	sthunderstormback				sthunderstormcast																						0
 commandmastery	216																																																																						0
-unicha2	217																																																																						0
-unicha3	218																																																																						0
-unicha4	219																																																																						0
-unicha5	220																																																																						0
-unicha6	221																																																																						0
-unicha7	222																																																																						0
-unicha8	223																																																																						0
-pot1	224														1																													bloodlust_state	bloodlust_state						item_normaldamage																				0
-pot2	225														1																													bloodlust_state	bloodlust_state						item_normaldamage																				0
-pot3	226																			1																								impregnated	impregnated						velocitypercent																				0
-pot4	227																																											shrine_experience	shrine_shimmer00						item_addexperience																				0
+unused217	217																																																																						0
+unused218	218																																																																						0
+unused219	219																																																																						0
+horrificass	220																																																																						0
+athenaed	221					1																																						athenapresence																			paladin_aura_purification								0
+bearedgrowl	222					1			1																																			bearfire																			beared_cast								0
+cragged	223																																																																						0
+lpiercebuff	224																																																															object_barrel_explode							0
+battlemage	225																																																																						0
+specshield	226																																											spectralshieldover							normal_damage_reduction													object_barrel_explode						146	0
+reflexes	227																																																																						0
 redcolor	228																														1	1																										85	100	255	255	255									0
-unicha9	229																																																																						0
+iceshocked	229					1				1																																		bluestaminafront	bluestaminaback																		object_shrine_evaporate								0
 holyfirew	230					1																																						aura_holyfire_front	aura_holyfire_back																		paladin_aura_holyfire								0
 holyfireh	231					1																																						aura_holyfire_front	aura_holyfire_back																		paladin_aura_holyfire								0
 holyfiret	232					1																																						aura_holyfire_front	aura_holyfire_back																		paladin_aura_holyfire								0

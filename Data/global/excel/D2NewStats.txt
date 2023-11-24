@@ -1,0 +1,52 @@
+*Name	StrOnly	StatOnly	tblIDx	Font	Color	Xleft	Xright	Y	Stat	Font2	Color2	RiN	Xleft2	Xright2	Y2	*eol
+CB desc	1		cb%	12	0	20	20	122		1	0	1	20	20	122	0
+cbstat	0	1							item_crushingblow	12	0	1	35	35	121	0
+DS desc	1		ds%	12	0	18	18	135		1	0	1	18	18	135	0
+DSstat		1							item_deadlystrike	12	0	1	35	35	134	0
+LL desc	1		ll%	12	1	54	54	122		1	0	1	54	54	122	0
+LLstat		1							lifedrainmindam	12	1	1	71	71	121	0
+ML desc	1		ml%	12	3	54	54	135		1	0	1	54	54	135	0
+MLstat		1							manadrainmindam	12	3	1	71	71	134	0
+LPKdesc	1		lpk	12	1	93	93	122		1	0	1	93	93	122	0
+LPKstat		1							item_healafterkill	12	1	1	113	113	121	0
+MPKdesc	1		mpk	12	3	94	94	135		1	0	1	94	94	135	0
+MPKstat		1							item_manaafterkill	12	3	1	113	113	134	0
+prsdesc	1		pierce%	12	0	66	66	186		1	0	1	66	66	186	0
+fireprs		1							passive_fire_pierce	12	1	1	20	20	196	0
+coldprs		1							passive_cold_pierce	12	3	1	43	43	196	0
+ltngprs		1							passive_ltng_pierce	12	7	1	66	66	196	0
+poisprs		1							passive_pois_pierce	12	2	1	89	89	196	0
+magcprs		1							passive_mag_pierce	12	0	1	112	112	196	0
+elepls	1		plus%	12	0	66	66	209		1	0	1	66	66	209	0
+firepls		1							passive_fire_mastery	12	1	1	20	20	219	0
+coldpls		1							passive_cold_mastery	12	3	1	43	43	219	0
+ltngpls		1							passive_ltng_mastery	12	7	1	66	66	219	0
+poispls		1							passive_pois_mastery	12	2	1	89	89	219	0
+magcpls		1							passive_mag2_mastery	12	0	1	112	112	219	0
+absorb%	1		absorb%	12	0	55	55	271		1	0	1	55	55	271	0
+fireabs		1							item_absorbfire_percent	12	1	1	20	20	281	0
+coldabs		1							item_absorbcold_percent	12	3	1	43	43	281	0
+ltngabs		1							item_absorblight_percent	12	7	1	66	66	281	0
+magcabs		1							item_absorbmagic_percent	12	0	1	89	89	281	0
+plrdesc	1		plr%	12	2	112	112	271		1	0	1	109	109	271	0
+plrdisp		1							item_poisonlengthresist	12	2	1	112	112	281	0
+mf%desc	1		mf%	12	3	21	21	337		1	0	1	21	21	337	0
+mf%disp		1							item_magicbonus	12	3	1	51	51	336	0
+gf%desc	1		gf%	12	4	80	80	337		1	0	1	80	80	337	0
+gf%disp		1							item_goldbonus	12	4	1	111	111	336	0
+pdrdesc	1		pdr	12	0	23	23	402		1	0	1	16	16	403	0
+pdrdisp		1							normal_damage_reduction	12	0	1	51	51	401	0
+mdrdesc	1		mdr	12	0	80	80	402		1	0	1	57	57	403	0
+mdrdisp		1							magic_damage_reduction	12	0	1	107	107	401	0
+fmrdesc	1		fmr%	12	3	120	120	387		1	0	1	98	98	403	0
+fmrdisp		1							manarecoverybonus	12	3	1	149	149	386	0
+dr%desc	1		dr%	12	0	53	53	416		1	0	1	55	55	416	0
+dr%disp		1							damageresist	12	0	1	111	111	415	0
+mr%desc	1		mr%	12	0	55	55	428		1	0	1	55	55	428	0
+mr%disp		1							magicresist	12	0	1	111	111	427	0
+fhrdesc	1		fhr%	12	0	21	21	387		1	0	1	25	25	387	0
+fhrdisp		1							item_fastergethitrate	12	0	1	45	45	386	0
+fbrdesc	1		fbr%	12	0	69	69	387		1	0	1	77	77	387	0
+fbrdisp		1							item_fasterblockrate	12	0	1	95	95	386	0
+RegenDesc	1		ModStr2l	12	0	53	53	375		1	0	1	55	55	375	0
+RegenDisp		1							hpregen	12	0	1	111	111	374	0

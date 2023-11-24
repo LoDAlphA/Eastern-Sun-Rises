@@ -309,3 +309,16 @@ cancelfres	FetishFreakout	0	16	all	0	1	0	0	0	0	20	0	0	0	0	16	0	3	0	0	255	255	255
 ghostdecoy	BAJumpLandPuff01	0	8	all	0	1	0	1	1	0	0	0	0	0	0	8	0	3	0	0	0	0	0	1	0
 shadowstep	ShadowStep	100	31	Assasin	0	1	0	0	0	0	0	0	0	0	0	16	0	3	0	0	0	0	0	1	0
 shadow_cast	ShadowCast	100	7	Assasin	0	1	0	0	0	0	0	0	0	0	0	10	0	4	1	4	237	1	238	1	0
+slackeffect	slackeffect	0	24	all	0	1	0	1	1	0	0	14	0	-14	-60	16	0	3	1	6	255	210	210	1	0
+eshiftoverlay	HardenArmor	100	24	all	1	1	0	1	1	0	0	0	0	0	0	16	0	3	0	0	255	255	255	1	0
+coldembraceover	AegisofRimeStart	0	21	all	1	1	0	1	1	0	-65	14	0	-14	-60	8	0	3	0	0	22	22	255	1	0
+mooncast	mooncast	0	21	all	0	1	0	0	0	0	25	0	0	0	0	16	0	3	1	13	81	81	81	1	0
+behestart	PainSymbolOverlay	0	15	Assasin	0	1	0	1	1	0	0	0	0	0	0	16	0	3	1	13	255	44	44	1	0
+beheover	PainSymbolStart	0	16	Assasin	1	1	0	1	1	0	-65	14	0	-14	-60	8	0	3	0	0	255	44	44	1	0
+flash	flash	0	8	all	1	1	0	1	1	0	-90	0	0	0	0	8	0	3	0	0	255	255	255	1	0
+charmoverlay	charm	100	60	all	1	1	0	1	1	0	0	0	0	0	0	32	0	3	2	4	255	255	255	1	0
+bluestaminafront	bluestaminafront	0	16	all	0	1	0	1	1	0	0	0	0	0	0	16	0	3	0	0	255	255	255	1	0
+bluestaminaback	bluestaminaback	0	16	all	1	1	0	1	1	0	0	0	0	0	0	16	0	3	0	0	255	255	255	1	0
+spectralshieldover	spectralshieldover	100	20	all	1	1	0	1	1	0	0	0	0	0	0	16	0	3	2	4	255	255	255	1	0
+bearfire	bearfire	0	19	all	0	1	0	0	0	0	0	0	0	0	0	12	0	3	0	0	255	255	255	1	0
+athenapresence	athenapresence	0	13	all	1	1	0	0	0	0	0	0	0	0	0	6	0	3	0	0	255	255	255	1	0
