@@ -1,0 +1,7 @@
+#Lines starting with # are ignored
+#Add the item codes and descriptions to this file
+#Description can be anything and is for your own convenience
+#Example:
+#9ga BO Axe
+#without the # will add the Lifecleaver unique Axe
+#You can find the item codes on the database, d2esrdb.github.io
